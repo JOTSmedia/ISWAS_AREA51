@@ -1,0 +1,365 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 1,
+    "per_page": 10,
+    "items": 7,
+    "urls": {}
+  },
+  "results": [
+    {
+      "country": "UK",
+      "year": "2012",
+      "format": [
+        "Cassette",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Finders Keepers Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 3512866,
+      "barcode": [],
+      "master_id": 457897,
+      "master_url": "https://api.discogs.com/masters/457897",
+      "uri": "/release/3512866-Andrzej-Korzynski-Andrzej-Korzynskis-Music-Score-For-Andrzej-Zu%C5%82awskis-Motion-Picture-Possession",
+      "catno": "FKRMC003",
+      "title": "Andrzej Korzynski* - Andrzej Korzynski's Music Score For Andrzej Zuławski's Motion Picture Possession.",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/3512866",
+      "community": {
+        "want": 128,
+        "have": 66
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2014",
+      "format": [
+        "Box Set",
+        "Limited Edition",
+        "Numbered",
+        "CD",
+        "Album",
+        "Remastered",
+        "Blu-ray",
+        "Remastered"
+      ],
+      "label": [
+        "Mondo Vision"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Score",
+        "Soundtrack"
+      ],
+      "id": 5935272,
+      "barcode": [],
+      "master_id": 457897,
+      "master_url": "https://api.discogs.com/masters/457897",
+      "uri": "/release/5935272-Andrzej-Korzy%C5%84ski-Original-Soundtrack-for-Andrzej-Zulawskis-Motion-Picture-Possession",
+      "catno": "MVLE005",
+      "title": "Andrzej Korzyński - Original Soundtrack for Andrzej Zulawski's Motion Picture \"Possession\"",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/5935272",
+      "community": {
+        "want": 77,
+        "have": 48
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Box Set",
+          "qty": "1",
+          "text": "Velvet Magnetic Boxset / 2000 Numbered Sets",
+          "descriptions": [
+            "Limited Edition",
+            "Numbered"
+          ]
+        },
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Remastered"
+          ]
+        },
+        {
+          "name": "Blu-ray",
+          "qty": "1",
+          "text": "All Regions ",
+          "descriptions": [
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2021",
+      "format": [
+        "Cassette",
+        "Album",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Anvil Of Crom Productions"
+      ],
+      "type": "release",
+      "genre": [
+        "Classical",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score",
+        "Modern"
+      ],
+      "id": 20746219,
+      "barcode": [],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/20746219-Andrzej-Korzy%C5%84ski-Andrzej-Korzynskis-Music-Score-For-Andrzej-Zu%C5%82awskis-Motion-Picture-Possession",
+      "catno": "ANVIL 004",
+      "title": "Andrzej Korzyński - Andrzej Korzynski's Music Score For Andrzej Zuławski's Motion Picture Possession",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/20746219",
+      "community": {
+        "want": 9,
+        "have": 48
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Finders Keepers Records",
+        "Finders Keepers Records",
+        "Finders Keepers Records",
+        "MPO"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 3726431,
+      "barcode": [
+        "5 060099 503832",
+        "MCPS",
+        "FKR 062 LP A2 MPO",
+        "[logo MPO] 18 47190",
+        "FKR 062 LP B MPO",
+        "[logo MPO] 18 47191"
+      ],
+      "master_id": 457897,
+      "master_url": "https://api.discogs.com/masters/457897",
+      "uri": "/release/3726431-Andrzej-Korzy%C5%84ski-Andrzej-Korzy%C5%84skis-Music-Score-for-Andrzej-Zu%C5%82awskis-Motion-Picture-Possession",
+      "catno": "FKR062LP",
+      "title": "Andrzej Korzyński - Andrzej Korzyński's Music Score for Andrzej Zuławski's Motion Picture \"Possession\"",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/3726431",
+      "community": {
+        "want": 756,
+        "have": 1183
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "France",
+      "year": "2021",
+      "format": [
+        "CD",
+        "Limited Edition",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Le Chat Qui Fume",
+        "Finders Keepers Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 18982459,
+      "barcode": [
+        "3760147491297"
+      ],
+      "master_id": 457897,
+      "master_url": "https://api.discogs.com/masters/457897",
+      "uri": "/release/18982459-Andrzej-Korzynski-Andrzej-Korzynskis-Music-Score-For-Andrzej-Zu%C5%82awskis-Motion-Picture-Possession",
+      "catno": "3760147491297",
+      "title": "Andrzej Korzynski* - Andrzej Korzynski's Music Score For Andrzej Zuławski's Motion Picture Possession",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/18982459",
+      "community": {
+        "want": 36,
+        "have": 10
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Limited Edition",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Finders Keepers Records",
+        "Finders Keepers Records",
+        "Finders Keepers Records",
+        "MPO"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 28970833,
+      "barcode": [
+        "5 060099 507977",
+        "FKR 062 LPX A  [MPO logo]® 23 321648",
+        "FKR 062 LPX B  [MPO logo]® 23 321649"
+      ],
+      "master_id": 457897,
+      "master_url": "https://api.discogs.com/masters/457897",
+      "uri": "/release/28970833-Andrzej-Korzynski-Andrzej-Korzynskis-Music-Score-For-Andrzej-Zu%C5%82awskis-Motion-Picture-Possession",
+      "catno": "FKR062LPX",
+      "title": "Andrzej Korzynski* - Andrzej Korzynski's Music Score For Andrzej Zuławski's Motion Picture Possession",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/28970833",
+      "community": {
+        "want": 114,
+        "have": 316
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2012",
+      "format": [
+        "CD"
+      ],
+      "label": [
+        "Finders Keepers Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 4241403,
+      "barcode": [
+        "5 060099 503825"
+      ],
+      "master_id": 457897,
+      "master_url": "https://api.discogs.com/masters/457897",
+      "uri": "/release/4241403-Andrzej-Korzynski-Andrzej-Korzynskis-Music-Score-For-Andrzej-Zu%C5%82awskis-Motion-Picture-Possession",
+      "catno": "FKR062CD",
+      "title": "Andrzej Korzynski* - Andrzej Korzynski's Music Score For Andrzej Zuławski's Motion Picture Possession",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/4241403",
+      "community": {
+        "want": 121,
+        "have": 95
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1"
+        }
+      ]
+    }
+  ]
+}

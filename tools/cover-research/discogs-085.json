@@ -1,0 +1,570 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 1,
+    "per_page": 10,
+    "items": 10,
+    "urls": {}
+  },
+  "results": [
+    {
+      "country": "Japan",
+      "year": "1994",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Japan Overseas",
+        "Japan Overseas",
+        "Japan Overseas",
+        "Chu Ishikawa",
+        "Kaijyu Theater",
+        "F2",
+        "Japan Overseas",
+        "Frog Studio",
+        "Frog Studio",
+        "Onkio Haus"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Industrial",
+        "Noise"
+      ],
+      "id": 549221,
+      "barcode": [
+        "J094-0",
+        "none",
+        "none"
+      ],
+      "master_id": 20604,
+      "master_url": "https://api.discogs.com/masters/20604",
+      "uri": "/release/549221-Chu-Ishikawa-Tetsuo",
+      "catno": "JO94-0",
+      "title": "Chu Ishikawa - Tetsuo",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/549221",
+      "community": {
+        "want": 187,
+        "have": 114
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "1992",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Adisc",
+        "Frog Studio",
+        "Frog Studio",
+        "Onkio Haus"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Industrial",
+        "Downtempo",
+        "Noise",
+        "Experimental"
+      ],
+      "id": 866199,
+      "barcode": [
+        "4 938115 120015",
+        "ADISC-KAI0001 -TZ01-"
+      ],
+      "master_id": 20604,
+      "master_url": "https://api.discogs.com/masters/20604",
+      "uri": "/release/866199-Chu-Ishikawa-Tetsuo",
+      "catno": "ADISC-KAI 0001",
+      "title": "Chu Ishikawa - Tetsuo",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/866199",
+      "community": {
+        "want": 290,
+        "have": 62
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Unknown",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "style": [
+        "Soundtrack",
+        "Industrial",
+        "Noise"
+      ],
+      "id": 34968599,
+      "label": [
+        "Japan Overseas",
+        "Japan Overseas",
+        "Japan Overseas",
+        "Chu Ishikawa",
+        "Kaijyu Theater",
+        "F2",
+        "Japan Overseas",
+        "Frog Studio",
+        "Frog Studio",
+        "Onkio Haus"
+      ],
+      "type": "release",
+      "barcode": [
+        "C2 113647-01 BHS-2329 Technicolor",
+        "IFPI L892",
+        "IFPI 2T07"
+      ],
+      "master_id": 20604,
+      "master_url": "https://api.discogs.com/masters/20604",
+      "uri": "/release/34968599-Chu-Ishikawa-Tetsuo",
+      "catno": "JO94-0",
+      "title": "Chu Ishikawa - Tetsuo",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/34968599",
+      "community": {
+        "want": 17,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Estonia",
+      "year": "2016",
+      "format": [
+        "Cassette",
+        "Limited Edition",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Mad Labradory"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "EBM",
+        "Industrial",
+        "Soundtrack"
+      ],
+      "id": 8123565,
+      "barcode": [],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/8123565-Chu-Ishikawa-Tetsuo",
+      "catno": "ML082016",
+      "title": "Chu Ishikawa - Tetsuo",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/8123565",
+      "community": {
+        "want": 86,
+        "have": 10
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Limited Edition",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Kaijyu Theater"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Industrial",
+        "Downtempo",
+        "Noise",
+        "Experimental"
+      ],
+      "id": 8036094,
+      "barcode": [],
+      "master_id": 20604,
+      "master_url": "https://api.discogs.com/masters/20604",
+      "uri": "/release/8036094-Chu-Ishikawa-%E9%89%84%E7%94%B7-Tetsuo",
+      "catno": "KAILP0001",
+      "title": "Chu Ishikawa - 鉄男 = Tetsuo",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/8036094",
+      "community": {
+        "want": 337,
+        "have": 39
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Grey/Silver",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Kaijyu Theater",
+        "XVINYLX.COM",
+        "GZ Media"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Industrial",
+        "Downtempo",
+        "Noise",
+        "Experimental"
+      ],
+      "id": 7886845,
+      "barcode": [
+        "135167E1/C  XVINYLX.COM",
+        "135167E2/C  XVINYLX.COM"
+      ],
+      "master_id": 20604,
+      "master_url": "https://api.discogs.com/masters/20604",
+      "uri": "/release/7886845-Chu-Ishikawa-%E9%89%84%E7%94%B7-Tetsuo",
+      "catno": "KAILP0001",
+      "title": "Chu Ishikawa - 鉄男 = Tetsuo",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/7886845",
+      "community": {
+        "want": 519,
+        "have": 443
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "2010",
+      "format": [
+        "CD",
+        "Box Set",
+        "Compilation",
+        "Limited Edition"
+      ],
+      "label": [
+        "Sony Records Int'l",
+        "Asmik Ace Entertainment Inc.",
+        "NIN",
+        "Sony Music Japan International Inc.",
+        "Sony Music Japan International Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Industrial",
+        "Rhythmic Noise"
+      ],
+      "id": 2495090,
+      "barcode": [
+        "4 547366 056884",
+        "IFPI L275",
+        "LLDA-1257X 1",
+        "IFPI L276",
+        "LLDA-1258X 1",
+        "IFPI L275",
+        "LLDA-1074X 1",
+        "IFPI 4553",
+        "IFPI 456D",
+        "IFPI 4551",
+        "SICP2903",
+        "SICP2904",
+        "SICP2905",
+        "JASRAC"
+      ],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/2495090-Chu-Ishikawa-Tetsuo-Complete-Box",
+      "catno": "SICP 2903-5",
+      "title": "Chu Ishikawa - Tetsuo Complete Box",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/2495090",
+      "community": {
+        "want": 402,
+        "have": 93
+      },
+      "format_quantity": 3,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "3"
+        },
+        {
+          "name": "Box Set",
+          "qty": "1",
+          "descriptions": [
+            "Compilation",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Estonia",
+      "year": "2016",
+      "format": [
+        "Cassette",
+        "Album",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Mad Labradory"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Downtempo",
+        "Industrial"
+      ],
+      "id": 8246388,
+      "barcode": [],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/8246388-Chu-Ishikawa-Tetsuo-II-Body-Hammer",
+      "catno": "ML092016",
+      "title": "Chu Ishikawa - Tetsuo II Body Hammer",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/8246388",
+      "community": {
+        "want": 14,
+        "have": 7
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "2010",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Sony Music Japan International Inc.",
+        "Sony Music Japan International Inc.",
+        "Asmik Ace Entertainment Inc.",
+        "NIN",
+        "Tetsuo The Bullet Man Group",
+        "Frog Studio",
+        "Frog Studio",
+        "Memory-Tech"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Industrial",
+        "Score",
+        "Soundtrack"
+      ],
+      "id": 2409420,
+      "barcode": [
+        "4 547366 054071",
+        "4547366054071",
+        "LLDA–1074X 1",
+        "IFPI L275",
+        "IFPI 4577",
+        "¥2,400",
+        "JASRAC"
+      ],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/2409420-Chu-Ishikawa-Tetsuo-The-Bullet-Man",
+      "catno": "SICP 2717",
+      "title": "Chu Ishikawa - Tetsuo The Bullet Man",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/2409420",
+      "community": {
+        "want": 151,
+        "have": 75
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "1998",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Volcano",
+        "Culture Publishers Inc.",
+        "Warner Music Japan Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Industrial",
+        "Downtempo",
+        "Noise",
+        "Experimental"
+      ],
+      "id": 673032,
+      "barcode": [
+        "98 6 25 (92 - 5 - 21)",
+        "CPC8-3004 1",
+        "IFPI L274",
+        "IFPI 4535",
+        "Jasrac"
+      ],
+      "master_id": 20604,
+      "master_url": "https://api.discogs.com/masters/20604",
+      "uri": "/release/673032-Chu-Ishikawa-Tetsuo-I-II-Original-Soundtrack",
+      "catno": "CPC8-3004",
+      "title": "Chu Ishikawa - Tetsuo I - II (Original Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/673032",
+      "community": {
+        "want": 185,
+        "have": 37
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 1,
+    "per_page": 10,
+    "items": 7,
+    "urls": {}
+  },
+  "results": [
+    {
+      "country": "Germany",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Limited Edition"
+      ],
+      "label": [
+        "DigiDreams Studios"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 22095904,
+      "barcode": [
+        "4032614605353"
+      ],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/22095904-Harry-Bromley-Davenport-Xtro-Soundtrack",
+      "catno": "00060535",
+      "title": "Harry Bromley Davenport - Xtro Soundtrack",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/22095904",
+      "community": {
+        "want": 2,
+        "have": 4
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2018",
+      "format": [
+        "CD",
+        "Album",
+        "Limited Edition",
+        "Remastered",
+        "Blu-ray",
+        "Limited Edition",
+        "Remastered",
+        "Stereo"
+      ],
+      "label": [
+        "Second Sight Films",
+        "Irregular Features LTD.",
+        "Jay Productions Ltd."
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 12187780,
+      "barcode": [
+        "5028836040842"
+      ],
+      "master_id": 1141566,
+      "master_url": "https://api.discogs.com/masters/1141566",
+      "uri": "/release/12187780-Harry-Bromley-Davenport-Xtro",
+      "catno": "2NDBR4084",
+      "title": "Harry Bromley Davenport - Xtro",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/12187780",
+      "community": {
+        "want": 23,
+        "have": 27
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Limited Edition",
+            "Remastered"
+          ]
+        },
+        {
+          "name": "Blu-ray",
+          "qty": "1",
+          "descriptions": [
+            "Limited Edition",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "1983",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "That's Entertainment Records",
+        "Sparta Florida Music Group Ltd.",
+        "Sparta Florida Music Group Ltd.",
+        "That's Entertainment Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Abstract",
+        "Experimental",
+        "Soundtrack"
+      ],
+      "id": 557322,
+      "barcode": [],
+      "master_id": 1141566,
+      "master_url": "https://api.discogs.com/masters/1141566",
+      "uri": "/release/557322-Harry-Bromley-Davenport-Xtro-Original-Soundtrack-Recording",
+      "catno": "TER 1052",
+      "title": "Harry Bromley Davenport - Xtro (Original Soundtrack Recording)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/557322",
+      "community": {
+        "want": 256,
+        "have": 180
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Test Pressing"
+      ],
+      "label": [
+        "Pure Destructive Records",
+        "That's Entertainment Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Abstract",
+        "Experimental",
+        "Soundtrack"
+      ],
+      "id": 10738715,
+      "barcode": [],
+      "master_id": 1141566,
+      "master_url": "https://api.discogs.com/masters/1141566",
+      "uri": "/release/10738715-Harry-Bromley-Davenport-Xtro-Original-Soundtrack-Recording",
+      "catno": "PDR004",
+      "title": "Harry Bromley Davenport - Xtro (Original Soundtrack Recording)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/10738715",
+      "community": {
+        "want": 20,
+        "have": 3
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Test Pressing"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Limited Edition"
+      ],
+      "label": [
+        "Pure Destructive Records",
+        "Sparta Florida Music Group Ltd.",
+        "That's Entertainment Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Abstract",
+        "Experimental"
+      ],
+      "id": 10979268,
+      "barcode": [],
+      "master_id": 1141566,
+      "master_url": "https://api.discogs.com/masters/1141566",
+      "uri": "/release/10979268-Harry-Bromley-Davenport-Xtro-Original-Soundtrack-Recording",
+      "catno": "PDR004",
+      "title": "Harry Bromley Davenport - Xtro (Original Soundtrack Recording)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/10979268",
+      "community": {
+        "want": 96,
+        "have": 119
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue/Black Swirl ",
+          "descriptions": [
+            "LP",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "format": [
+        "CDr",
+        "Album",
+        "Stereo"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 7802742,
+      "label": [
+        "Jay Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "master_id": 1141566,
+      "master_url": "https://api.discogs.com/masters/1141566",
+      "uri": "/release/7802742-Harry-Bromley-Davenport-Xtro-Original-Soundtrack-Recording",
+      "catno": "DDJAY 8014",
+      "title": "Harry Bromley Davenport - Xtro (Original Soundtrack Recording)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/7802742",
+      "community": {
+        "want": 18,
+        "have": 5
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Germany",
+      "year": "2018",
+      "format": [
+        "CD",
+        "Album",
+        "Blu-ray",
+        "Limited Edition"
+      ],
+      "label": [
+        "'84 Entertainment"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score"
+      ],
+      "id": 29474587,
+      "barcode": [
+        "4260207724161"
+      ],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/29474587-Harry-Bromley-Davenport-Xtro-3-Disc-Limited-Collectors-Edition-Mediabook",
+      "catno": "8587MI",
+      "title": "Harry Bromley Davenport - Xtro - 3-Disc Limited Collectors Edition Mediabook",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/29474587",
+      "community": {
+        "want": 4,
+        "have": 1
+      },
+      "format_quantity": 3,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        },
+        {
+          "name": "Blu-ray",
+          "qty": "2",
+          "descriptions": [
+            "Limited Edition"
+          ]
+        }
+      ]
+    }
+  ]
+}

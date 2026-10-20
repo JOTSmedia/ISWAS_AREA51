@@ -1,0 +1,465 @@
+{
+  "id": 564493,
+  "status": "Accepted",
+  "year": 1984,
+  "resource_url": "https://api.discogs.com/releases/564493",
+  "uri": "https://www.discogs.com/release/564493-Joseph-LoDuca-Evil-Dead-Original-Motion-Picture-Soundtrack",
+  "artists": [
+    {
+      "name": "Joseph LoDuca",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 404685,
+      "resource_url": "https://api.discogs.com/artists/404685",
+      "thumbnail_url": "https://i.discogs.com/qgUqK9cuONJdI2cLrPoBCqXVVs4dS0AyiSdy_SS3yzY/rs:fit/g:sm/q:90/h:199/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQwNDY4/NS0xMjQzNTM1NTIw/LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Joseph LoDuca",
+  "labels": [
+    {
+      "name": "Varèse Sarabande",
+      "catno": "STV 81199",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 57951,
+      "resource_url": "https://api.discogs.com/labels/57951",
+      "thumbnail_url": "https://i.discogs.com/jMGN29QMocRg2hpR_R6sx2lkPOR1kQi7Q_wQW5vBObA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU3OTUx/LTE1MDI2Mjg2Njkt/MzE3OS5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "JODU",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 582972,
+      "resource_url": "https://api.discogs.com/labels/582972"
+    },
+    {
+      "name": "Audio Graphic Services",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 412688,
+      "resource_url": "https://api.discogs.com/labels/412688",
+      "thumbnail_url": "https://i.discogs.com/8Q2VvHYLhnujVAPmLiEpQI01f8_CsEDEeLxE8-8J8Rw/rs:fit/g:sm/q:90/h:65/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQxMjY4/OC0xNzc0NjA4Nzgw/LTEzODIuanBlZw.jpeg"
+    },
+    {
+      "name": "Varèse Sarabande Records, Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 271973,
+      "resource_url": "https://api.discogs.com/labels/271973",
+      "thumbnail_url": "https://i.discogs.com/x0iaa-3YjwvFWJAOKVbYJCRL5wOjcpNnN_Lj6Kvt-KQ/rs:fit/g:sm/q:90/h:266/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MTk3/My0xNjc4NDY1Nzcy/LTU4OTEuanBlZw.jpeg"
+    },
+    {
+      "name": "Varèse Sarabande Records, Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 271973,
+      "resource_url": "https://api.discogs.com/labels/271973",
+      "thumbnail_url": "https://i.discogs.com/x0iaa-3YjwvFWJAOKVbYJCRL5wOjcpNnN_Lj6Kvt-KQ/rs:fit/g:sm/q:90/h:266/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MTk3/My0xNjc4NDY1Nzcy/LTU4OTEuanBlZw.jpeg"
+    },
+    {
+      "name": "Varèse Sarabande Records, Inc.",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 271973,
+      "resource_url": "https://api.discogs.com/labels/271973",
+      "thumbnail_url": "https://i.discogs.com/x0iaa-3YjwvFWJAOKVbYJCRL5wOjcpNnN_Lj6Kvt-KQ/rs:fit/g:sm/q:90/h:266/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MTk3/My0xNjc4NDY1Nzcy/LTU4OTEuanBlZw.jpeg"
+    },
+    {
+      "name": "KM Records Inc.",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 167224,
+      "resource_url": "https://api.discogs.com/labels/167224",
+      "thumbnail_url": "https://i.discogs.com/MvdlUlasO3FasE_dPts715NDm4lNGsD8D7Noh5XDGpE/rs:fit/g:sm/q:90/h:486/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2NzIy/NC0xNjk2Njk1MTQ4/LTIwMzQuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Stereo"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 286,
+    "want": 1177,
+    "rating": {
+      "count": 57,
+      "average": 4.32
+    },
+    "submitter": {
+      "username": "ty.cobb",
+      "resource_url": "https://api.discogs.com/users/ty.cobb"
+    },
+    "contributors": [
+      {
+        "username": "ty.cobb",
+        "resource_url": "https://api.discogs.com/users/ty.cobb"
+      },
+      {
+        "username": "JM.Beaubourg",
+        "resource_url": "https://api.discogs.com/users/JM.Beaubourg"
+      },
+      {
+        "username": "Niksvinyl",
+        "resource_url": "https://api.discogs.com/users/Niksvinyl"
+      },
+      {
+        "username": "newwavemh",
+        "resource_url": "https://api.discogs.com/users/newwavemh"
+      },
+      {
+        "username": "Fleshgrinder",
+        "resource_url": "https://api.discogs.com/users/Fleshgrinder"
+      },
+      {
+        "username": "aasaxell2",
+        "resource_url": "https://api.discogs.com/users/aasaxell2"
+      },
+      {
+        "username": "limping-bear",
+        "resource_url": "https://api.discogs.com/users/limping-bear"
+      },
+      {
+        "username": "Killian600",
+        "resource_url": "https://api.discogs.com/users/Killian600"
+      },
+      {
+        "username": "senor_velasco",
+        "resource_url": "https://api.discogs.com/users/senor_velasco"
+      },
+      {
+        "username": "serifiot",
+        "resource_url": "https://api.discogs.com/users/serifiot"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2005-11-28T13:36:34-08:00",
+  "date_changed": "2023-04-27T07:32:44-07:00",
+  "num_for_sale": 6,
+  "lowest_price": 410.2,
+  "master_id": 108567,
+  "master_url": "https://api.discogs.com/masters/108567",
+  "title": "Evil Dead (Original Motion Picture Soundtrack)",
+  "country": "US",
+  "released": "1984",
+  "notes": "Recorded at Audio Graphics, Royal Oak, Michigan\r\nAll selections published by JODU (ASCAP)\r\n\r\n℗© 1984 Varèse Sarabande Records, Inc.\r\n\r\nOn cover: Manufactured at KM Records, Burbank, California.\r\nOn labels: Manufactured by Varèse Sarabande Records, Inc.\r\n\r\nPrinted in U.S.A.\r\nMade in U.S.A.",
+  "released_formatted": "1984",
+  "identifiers": [
+    {
+      "type": "Rights Society",
+      "value": "ASCAP"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "STV-81199-A",
+      "description": "Label side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "STV-81199-B",
+      "description": "Label side B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "KM 11730-A Re 2",
+      "description": "Runout side A, etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "KM 11730-B Re 1",
+      "description": "Runout side B, etched"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=-qoUHzPn67g",
+      "title": "The Evil Dead Soundtrack",
+      "description": "Soundtrack to the movie \"The Evil Dead.\"\nhttp://en.wikipedia.org/wiki/The_Evil_Dead\n\nTrack 1: Introduction 00:00\nTrack 2: Eye Games-Charm 00:50\nTrack 3: Bridge Out 03:15\nTrack 4: Rape Of The Vines 05:07\nTrack 5: Ascent-Inflection 07:23\nTrack 6: Automatic ",
+      "duration": 2190,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=-qoUHzPn67g",
+      "title": "The Evil Dead Soundtrack",
+      "description": "Soundtrack to the movie \"The Evil Dead.\"\nhttp://en.wikipedia.org/wiki/The_Evil_Dead\n\nTrack 1: Introduction 00:00\nTrack 2: Eye Games-Charm 00:50\nTrack 3: Bridge Out 03:15\nTrack 4: Rape Of The Vines 05:07\nTrack 5: Ascent-Inflection 07:23\nTrack 6: Automatic ",
+      "duration": 2190,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Stage & Screen"
+  ],
+  "styles": [
+    "Soundtrack",
+    "Score",
+    "Abstract",
+    "Downtempo"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Introduction",
+      "duration": "0:48"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Eye Games / Charm",
+      "duration": "2:22"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Bridge Out",
+      "duration": "1:49"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Rape Of The Vines",
+      "duration": "1:53"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Ascent / Inflection",
+      "duration": "3:28"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Automatic Writing",
+      "duration": "0:56"
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "Skin",
+      "duration": "2:10"
+    },
+    {
+      "position": "A8",
+      "type_": "track",
+      "title": "Give Her The Ax",
+      "duration": "0:56"
+    },
+    {
+      "position": "A9",
+      "type_": "track",
+      "title": "Love Never Dies",
+      "duration": "2:39"
+    },
+    {
+      "position": "A10",
+      "type_": "track",
+      "title": "Kandanian Dagger / Book Burning",
+      "duration": "4:19"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Dawn Of The Evil Dead",
+      "duration": "2:30"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Not The Shower Curtain",
+      "duration": "2:07"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Check On You",
+      "duration": "0:21"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Pencil It In",
+      "duration": "1:53"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Get The Lantern / Book Of The Dead",
+      "duration": "2:33"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Dawn / Incantation",
+      "duration": "3:03"
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "title": "Shotgun",
+      "duration": "2:04"
+    },
+    {
+      "position": "B8",
+      "type_": "track",
+      "title": "Games",
+      "duration": "1:41"
+    },
+    {
+      "position": "B9",
+      "type_": "track",
+      "title": "The Cabin / Wounded Melody",
+      "duration": "1:20"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Joseph LoDuca",
+      "anv": "",
+      "join": "",
+      "role": "Composed By, Conductor",
+      "tracks": "",
+      "id": 404685,
+      "resource_url": "https://api.discogs.com/artists/404685"
+    },
+    {
+      "name": "Karen Stone",
+      "anv": "",
+      "join": "",
+      "role": "Coordinator [Production]",
+      "tracks": "",
+      "id": 458772,
+      "resource_url": "https://api.discogs.com/artists/458772"
+    },
+    {
+      "name": "Ric Hancock",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Matrix]",
+      "tracks": "",
+      "id": 408992,
+      "resource_url": "https://api.discogs.com/artists/408992"
+    },
+    {
+      "name": "Chris Kuchler",
+      "anv": "Chris Kuechler",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 394913,
+      "resource_url": "https://api.discogs.com/artists/394913"
+    },
+    {
+      "name": "Stephen King (6)",
+      "anv": "",
+      "join": "",
+      "role": "Liner Notes",
+      "tracks": "",
+      "id": 1481074,
+      "resource_url": "https://api.discogs.com/artists/1481074"
+    },
+    {
+      "name": "Michele Stone",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 375954,
+      "resource_url": "https://api.discogs.com/artists/375954"
+    },
+    {
+      "name": "Ed Wolfrum",
+      "anv": "Edward Wolfrum",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 404194,
+      "resource_url": "https://api.discogs.com/artists/404194"
+    },
+    {
+      "name": "Joseph LoDuca",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 404685,
+      "resource_url": "https://api.discogs.com/artists/404685"
+    },
+    {
+      "name": "Scot Holton",
+      "anv": "Scott W. Holton",
+      "join": "",
+      "role": "Producer [Album]",
+      "tracks": "",
+      "id": 394911,
+      "resource_url": "https://api.discogs.com/artists/394911"
+    },
+    {
+      "name": "Tom Null",
+      "anv": "",
+      "join": "",
+      "role": "Sequenced By",
+      "tracks": "",
+      "id": 382723,
+      "resource_url": "https://api.discogs.com/artists/382723"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/yMZ-umtRfXwg3RQ6_vwReLXP_Xow5Nlce2q04EnEu4U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDQ5/My0xMzU1Njg0NjQ1/LTE5NjMuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/yMZ-umtRfXwg3RQ6_vwReLXP_Xow5Nlce2q04EnEu4U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDQ5/My0xMzU1Njg0NjQ1/LTE5NjMuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/zIKWz1lvEkWunc8AWsk7VLcdDjXkYKWaQjj-FOP-I44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDQ5/My0xMzU1Njg0NjQ1/LTE5NjMuanBlZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/fuJ8id0ezs3DzV8tQyAf5oMSAVcSIAS9uyH_po8lARw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDQ5/My0xMzU1Njg0NjU0/LTYzNTMuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/fuJ8id0ezs3DzV8tQyAf5oMSAVcSIAS9uyH_po8lARw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDQ5/My0xMzU1Njg0NjU0/LTYzNTMuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/tCkDEEBnF55vMcyg1Sw7Fm6yxYsmi37YT9O10CEtshE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDQ5/My0xMzU1Njg0NjU0/LTYzNTMuanBlZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/qxDg6cLtk6F54Ats-VVYOaWvWxRZdvpskebw9vGOOZ4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDQ5/My0xMzU1Njg0NjYw/LTgzOTQuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/qxDg6cLtk6F54Ats-VVYOaWvWxRZdvpskebw9vGOOZ4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDQ5/My0xMzU1Njg0NjYw/LTgzOTQuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/rt9wf-36a76in79ZzAMoQjaBnj5Zh4SDXD8O3T_7Tuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDQ5/My0xMzU1Njg0NjYw/LTgzOTQuanBlZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/IKIzTGEy4WW0yNyQB_raoM-amFbobdky-2zm94wWnCM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDQ5/My0xMzU1Njg0Njcz/LTE1NTguanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/IKIzTGEy4WW0yNyQB_raoM-amFbobdky-2zm94wWnCM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDQ5/My0xMzU1Njg0Njcz/LTE1NTguanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/48Rfy7lKRSmT1EcjdW5TRCS3AvMeSG7aAvBH6h2VzzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDQ5/My0xMzU1Njg0Njcz/LTE1NTguanBlZw.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/zIKWz1lvEkWunc8AWsk7VLcdDjXkYKWaQjj-FOP-I44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDQ5/My0xMzU1Njg0NjQ1/LTE5NjMuanBlZw.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

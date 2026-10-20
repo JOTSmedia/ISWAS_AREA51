@@ -1,0 +1,627 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 2,
+    "per_page": 10,
+    "items": 17,
+    "urls": {
+      "last": "https://api.discogs.com/database/search?type=release&release_title=The+Evil+Dead&artist=Joseph+LoDuca&per_page=10&page=2",
+      "next": "https://api.discogs.com/database/search?type=release&release_title=The+Evil+Dead&artist=Joseph+LoDuca&per_page=10&page=2"
+    }
+  },
+  "results": [
+    {
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Death Waltz Recording Company",
+        "Mondo",
+        "Funko, LLC",
+        "Light In The Attic",
+        "Republic Of Music"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score"
+      ],
+      "id": 31138946,
+      "barcode": [
+        "810041488152"
+      ],
+      "master_id": 1403718,
+      "master_url": "https://api.discogs.com/masters/1403718",
+      "uri": "/release/31138946-Joseph-LoDuca-The-Evil-Dead-A-Nightmare-Reimagined",
+      "catno": "DW-112",
+      "title": "Joseph LoDuca - The Evil Dead (A Nightmare Reimagined)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/31138946",
+      "community": {
+        "want": 14,
+        "have": 31
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "2x 140g Eco Vinyl",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2019",
+      "format": [
+        "Vinyl",
+        "12\"",
+        "45 RPM",
+        "Limited Edition",
+        "Numbered",
+        "Special Edition"
+      ],
+      "label": [
+        "Death Waltz Recording Company",
+        "Mondo",
+        "Mondo Tees LLC",
+        "Death Waltz Recording Company",
+        "Light In The Attic",
+        "Republic Of Music",
+        "GZ Media",
+        "Texas Frightmare"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score"
+      ],
+      "id": 13694037,
+      "barcode": [
+        "5053760031826",
+        "5053760031826",
+        "[not entered]",
+        "173529M2/A",
+        "173529M3/A",
+        "173529M4/A"
+      ],
+      "master_id": 1403718,
+      "master_url": "https://api.discogs.com/masters/1403718",
+      "uri": "/release/13694037-Joe-LoDuca-The-Evil-Dead-A-Nightmare-Reimagined",
+      "catno": "DW112",
+      "title": "Joe LoDuca* - The Evil Dead (A Nightmare Reimagined)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/13694037",
+      "community": {
+        "want": 169,
+        "have": 162
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Green / Orange Effect [Book Of The Dead], Texas Frightmare Special Edition",
+          "descriptions": [
+            "12\"",
+            "45 RPM",
+            "Limited Edition",
+            "Numbered",
+            "Special Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "12\"",
+        "45 RPM",
+        "Album",
+        "Limited Edition",
+        "Reissue"
+      ],
+      "label": [
+        "Death Waltz Recording Company",
+        "Mondo",
+        "Funko, LLC",
+        "Light In The Attic",
+        "Republic Of Music",
+        "GZ Media"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score"
+      ],
+      "id": 30936558,
+      "barcode": [
+        "810140240057",
+        "173529M1/A",
+        "173529M2/A",
+        "173529M3/A",
+        "173529M4/A"
+      ],
+      "master_id": 1403718,
+      "master_url": "https://api.discogs.com/masters/1403718",
+      "uri": "/release/30936558-Joe-LoDuca-The-Evil-Dead-A-Nightmare-Reimagined",
+      "catno": "DW112",
+      "title": "Joe LoDuca* - The Evil Dead (A Nightmare Reimagined)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/30936558",
+      "community": {
+        "want": 30,
+        "have": 46
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Purple & Orange",
+          "descriptions": [
+            "12\"",
+            "45 RPM",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "LP",
+        "45 RPM",
+        "Album"
+      ],
+      "label": [
+        "Death Waltz Recording Company",
+        "Mondo",
+        "Death Waltz Recording Company",
+        "Light In The Attic",
+        "Republic Of Music",
+        "GZ Media"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score"
+      ],
+      "id": 16247805,
+      "barcode": [
+        "810041483782",
+        "173529M1/A",
+        "173529M2/A",
+        "173529M3/A",
+        "173529M4/A"
+      ],
+      "master_id": 1403718,
+      "master_url": "https://api.discogs.com/masters/1403718",
+      "uri": "/release/16247805-Joe-LoDuca-The-Evil-Dead-A-Nightmare-Reimagined",
+      "catno": "DW112",
+      "title": "Joe LoDuca* - The Evil Dead - A Nightmare Reimagined",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/16247805",
+      "community": {
+        "want": 65,
+        "have": 194
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "45 RPM",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "12\"",
+        "45 RPM",
+        "Album"
+      ],
+      "label": [
+        "Death Waltz Recording Company",
+        "Mondo",
+        "Death Waltz Recording Company",
+        "Light In The Attic",
+        "Republic Of Music",
+        "GZ Media"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Score"
+      ],
+      "id": 12112676,
+      "barcode": [
+        "5053760031826",
+        "5053760031826",
+        "173529M1/A",
+        "173529M2/A",
+        "173529M3/A",
+        "173529M4/A"
+      ],
+      "master_id": 1403718,
+      "master_url": "https://api.discogs.com/masters/1403718",
+      "uri": "/release/12112676-Joe-LoDuca-The-Evil-Dead-A-Nightmare-Reimagined",
+      "catno": "DW112",
+      "title": "Joe LoDuca* - The Evil Dead (A Nightmare Reimagined)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/12112676",
+      "community": {
+        "want": 328,
+        "have": 729
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Green, Yellow & Purple Swirl With Red Splatter [Naturum De Montum]",
+          "descriptions": [
+            "12\"",
+            "45 RPM",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2019",
+      "format": [
+        "Vinyl",
+        "12\"",
+        "45 RPM",
+        "Vinyl",
+        "12\"",
+        "45 RPM",
+        "All Media",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Death Waltz Recording Company",
+        "Mondo Tees LLC",
+        "JoDu Music",
+        "JoDu Music",
+        "Renaissance Pictures",
+        "JoDu Music",
+        "Death Waltz Recording Company",
+        "Light In The Attic",
+        "Republic Of Music",
+        "Death Waltz Recording Company",
+        "L.A. East Studios",
+        "LoDuca Music Studios",
+        "GZ Media"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Score"
+      ],
+      "id": 16726023,
+      "barcode": [
+        "810041483775",
+        "173529M1/A",
+        "173529M2/B",
+        "173529M3/B1",
+        "173529M4/A"
+      ],
+      "master_id": 1403718,
+      "master_url": "https://api.discogs.com/masters/1403718",
+      "uri": "/release/16726023-Joseph-LoDuca-The-Evil-Dead-A-Nightmare-Reimagined",
+      "catno": "DW112",
+      "title": "Joseph LoDuca - The Evil Dead (A Nightmare Reimagined)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/16726023",
+      "community": {
+        "want": 56,
+        "have": 269
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue With Black Splatter",
+          "descriptions": [
+            "12\"",
+            "45 RPM"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Brown With Red Splatter",
+          "descriptions": [
+            "12\"",
+            "45 RPM"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "text": "Fake Shemp",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "USA & Europe",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "12\"",
+        "45 RPM"
+      ],
+      "label": [
+        "Death Waltz Recording Company",
+        "Mondo",
+        "Mondo Tees LLC",
+        "JoDu Music",
+        "JoDu Music",
+        "Renaissance Pictures",
+        "JoDu Music",
+        "Death Waltz Recording Company",
+        "Light In The Attic",
+        "Republic Of Music",
+        "Death Waltz Recording Company",
+        "L.A. East Studios",
+        "LoDuca Music Studios",
+        "GZ Media"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Score"
+      ],
+      "id": 12442053,
+      "barcode": [
+        "5053760031826",
+        "5053760031826",
+        "ASCAP",
+        "173529M1/A",
+        "173529M2/A",
+        "173529M3/A",
+        "173529M4/A"
+      ],
+      "master_id": 1403718,
+      "master_url": "https://api.discogs.com/masters/1403718",
+      "uri": "/release/12442053-Joe-LoDuca-The-Evil-Dead-A-Nightmare-Reimagined",
+      "catno": "DW112",
+      "title": "Joe LoDuca* - The Evil Dead (A Nightmare Reimagined)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/12442053",
+      "community": {
+        "want": 111,
+        "have": 149
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Green Translucent, 180g",
+          "descriptions": [
+            "12\"",
+            "45 RPM"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2019",
+      "format": [
+        "Vinyl",
+        "LP",
+        "45 RPM",
+        "Album"
+      ],
+      "label": [
+        "Death Waltz Recording Company",
+        "Mondo",
+        "Death Waltz Recording Company",
+        "Light In The Attic",
+        "Republic Of Music"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score"
+      ],
+      "id": 14313035,
+      "barcode": [],
+      "master_id": 1403718,
+      "master_url": "https://api.discogs.com/masters/1403718",
+      "uri": "/release/14313035-Joe-LoDuca-The-Evil-Dead-A-Nightmare-Reimagined",
+      "catno": "DW112",
+      "title": "Joe LoDuca* - The Evil Dead - A Nightmare Reimagined",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/14313035",
+      "community": {
+        "want": 188,
+        "have": 172
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Green [Snot Green], Red Swirl & Pink Splatters",
+          "descriptions": [
+            "LP",
+            "45 RPM",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "LP",
+        "45 RPM",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Mondo Tees",
+        "Death Waltz Recording Company",
+        "GZ Media"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score"
+      ],
+      "id": 12352837,
+      "barcode": [
+        "5053760031826",
+        "173529M1/A",
+        "173529M2/A",
+        "173529M3/A",
+        "173529M4/A"
+      ],
+      "master_id": 1403718,
+      "master_url": "https://api.discogs.com/masters/1403718",
+      "uri": "/release/12352837-Joe-LoDuca-The-Evil-Dead-A-Nightmare-Reimagined",
+      "catno": "",
+      "title": "Joe LoDuca* - The Evil Dead - A Nightmare Reimagined",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/12352837",
+      "community": {
+        "want": 109,
+        "have": 132
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Red",
+          "descriptions": [
+            "LP",
+            "45 RPM",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2019",
+      "format": [
+        "Vinyl",
+        "LP",
+        "45 RPM",
+        "Album"
+      ],
+      "label": [
+        "Death Waltz Recording Company",
+        "Mondo",
+        "Death Waltz Recording Company",
+        "Light In The Attic",
+        "Republic Of Music"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score"
+      ],
+      "id": 14328560,
+      "barcode": [],
+      "master_id": 1403718,
+      "master_url": "https://api.discogs.com/masters/1403718",
+      "uri": "/release/14328560-Joe-LoDuca-The-Evil-Dead-A-Nightmare-Reimagined",
+      "catno": "DW112",
+      "title": "Joe LoDuca* - The Evil Dead - A Nightmare Reimagined",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/14328560",
+      "community": {
+        "want": 135,
+        "have": 138
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Green, Blue And Black splatter",
+          "descriptions": [
+            "LP",
+            "45 RPM",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ]
+}

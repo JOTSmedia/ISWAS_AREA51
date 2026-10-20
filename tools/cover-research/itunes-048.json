@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 39790546,
+      "collectionId": 582705350,
+      "amgArtistId": 215728,
+      "artistName": "Broadcast",
+      "collectionName": "Berberian Sound Studio",
+      "collectionCensoredName": "Berberian Sound Studio",
+      "artistViewUrl": "https://music.apple.com/us/artist/broadcast/39790546?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/berberian-sound-studio/582705350?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ee/98/2c/ee982c4c-eca7-f847-ea46-df63da374fb9/WARPCD233P_packshot_1400.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ee/98/2c/ee982c4c-eca7-f847-ea46-df63da374fb9/WARPCD233P_packshot_1400.jpg/100x100bb.jpg",
+      "collectionPrice": 5.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 39,
+      "copyright": "℗ 2012 Warp Records Limited",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2013-01-07T08:00:00Z",
+      "primaryGenreName": "Alternative"
+    }
+  ]
+}

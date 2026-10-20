@@ -1,0 +1,358 @@
+{
+  "id": 10946352,
+  "status": "Accepted",
+  "year": 2017,
+  "resource_url": "https://api.discogs.com/releases/10946352",
+  "uri": "https://www.discogs.com/release/10946352-Alessandro-Alessandroni-La-Terrificante-Notte-Del-Demonio-Devils-Nightmare",
+  "artists": [
+    {
+      "name": "Alessandro Alessandroni",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 130243,
+      "resource_url": "https://api.discogs.com/artists/130243",
+      "thumbnail_url": "https://i.discogs.com/qqCPawLpOXEE32ZPq9AHWa1wbTrtoiASktOErFrp_JE/rs:fit/g:sm/q:90/h:600/w:575/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzMDI0/My0xNDE4NDM1NjQ5/LTg4MjMuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Alessandro Alessandroni",
+  "labels": [
+    {
+      "name": "Cinedelic Records",
+      "catno": "CNST 708",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 43770,
+      "resource_url": "https://api.discogs.com/labels/43770",
+      "thumbnail_url": "https://i.discogs.com/YmehmgPFxC8dziF3pV8MC9eVTFtIeiA_uAkARcSvw7E/rs:fit/g:sm/q:90/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzNzcw/LTExMjQ2NTU4ODMu/Z2lm.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "EMI General Music Publishing srl",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 601659,
+      "resource_url": "https://api.discogs.com/labels/601659"
+    },
+    {
+      "name": "EMI General Music Publishing srl",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 601659,
+      "resource_url": "https://api.discogs.com/labels/601659"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Limited Edition",
+        "Numbered",
+        "Mono"
+      ]
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 151,
+    "want": 243,
+    "rating": {
+      "count": 28,
+      "average": 4.68
+    },
+    "submitter": {
+      "username": "CinedelicRec",
+      "resource_url": "https://api.discogs.com/users/CinedelicRec"
+    },
+    "contributors": [
+      {
+        "username": "CinedelicRec",
+        "resource_url": "https://api.discogs.com/users/CinedelicRec"
+      },
+      {
+        "username": "beatflip",
+        "resource_url": "https://api.discogs.com/users/beatflip"
+      },
+      {
+        "username": "dark.prince",
+        "resource_url": "https://api.discogs.com/users/dark.prince"
+      },
+      {
+        "username": "mjk37",
+        "resource_url": "https://api.discogs.com/users/mjk37"
+      },
+      {
+        "username": "crowshine",
+        "resource_url": "https://api.discogs.com/users/crowshine"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2017-10-02T14:36:54-07:00",
+  "date_changed": "2023-04-01T08:52:38-07:00",
+  "num_for_sale": 3,
+  "lowest_price": 69.76,
+  "master_id": 1247051,
+  "master_url": "https://api.discogs.com/masters/1247051",
+  "title": "La Terrificante Notte Del Demonio (Devil’s Nightmare)",
+  "country": "Italy",
+  "released": "2017-10-12",
+  "notes": "- Limited Edition of 500 hand-numbered copies:\nCopies from 1 to 100 in BLUE vinyl\nCopies from 101 to 500 in BLACK vinyl (THIS)\n- Cover in heavy thick cardboard \n- First Time on Vinyl\n\nTrack times printed on rear sleeve. The following are incorrect by more than 5 seconds and more accurate timings have replaced them above.\nA3 2:13, A4 3:01, A5 2:11, A6 4:58, A7 0:50, B7 0:48\n",
+  "released_formatted": "12 Oct 2017",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "8055323520720",
+      "description": "Sticker on shrink"
+    },
+    {
+      "type": "Rights Society",
+      "value": "SIAE"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "CNST 708 A1",
+      "description": "Side A runout etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "CNST 708 B2",
+      "description": "Side B runout etched"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=Vbbv4WbYwMU",
+      "title": "The Devil's Nightmare Horror Soundtrack | Horror OST | 1971 | Alessandro Alessandroni",
+      "description": "Watch The Devil's Nightmare Here: https://amzn.to/32LJ8VX\nMore on The Devil's Nightmare Here: https://monstersagogo.com/the-devils-nightmare-1971/\n\nLa Terrificante Notte Del Demonio\nMusic by: Alessandro Alessandroni",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=TYU0ls-MLW0",
+      "title": "Alessandro Alessandroni - Devil's nightmare (Main titles)",
+      "description": "Artista: Alessandro Alessandroni\nAlbum: La terrificante notte del demonio\nAnno: 1971 (2017)\nGenere: Colonna sonora\nFormato: LP, Limited Edition \nEtichetta: Cinedelic Records\n\nLead vocals – Giulia De Mutiis\n\n\nLimited Edition of 500 hand-numbered copies:\nCo",
+      "duration": 135,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=_1l--adCK_U",
+      "title": "La Terrificante Notte Del Demonio (Devil​'​s Nightmare) [Original Film Score] (1971)",
+      "description": "La Terrificante Notte Del Demonio (Devil​'​s Nightmare) [Original Film Score] (1971)\nComposed & Conducted by Alessandro Alessandroni (1925-2017)\n\nTracklisting:\n\n1. [00:00] Devil's Nightmare (Main Titles) \n2. [02:12] The Dark Castle\n3. [05:54] Dark Dreamer",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=vEp6lAlR5BA",
+      "title": "Nora Orlandi, Alessandro Alessandroni - Demon Arise",
+      "description": "►crowdfunding & ripping rare vinyl here : https://kollektivx.com ►► archiving rare sounds before they vanish here : https://kollektivx.com ►►► creating streaming service using blockchain for full transparency and fair distribution here : https",
+      "duration": 201,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Vbbv4WbYwMU",
+      "title": "The Devil's Nightmare Horror Soundtrack | Horror OST | 1971 | Alessandro Alessandroni",
+      "description": "Watch The Devil's Nightmare Here: https://amzn.to/32LJ8VX\nMore on The Devil's Nightmare Here: https://monstersagogo.com/the-devils-nightmare-1971/\n\nLa Terrificante Notte Del Demonio\nMusic by: Alessandro Alessandroni",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=TYU0ls-MLW0",
+      "title": "Alessandro Alessandroni - Devil's nightmare (Main titles)",
+      "description": "Artista: Alessandro Alessandroni\nAlbum: La terrificante notte del demonio\nAnno: 1971 (2017)\nGenere: Colonna sonora\nFormato: LP, Limited Edition \nEtichetta: Cinedelic Records\n\nLead vocals – Giulia De Mutiis\n\n\nLimited Edition of 500 hand-numbered copies:\nCo",
+      "duration": 135,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=_1l--adCK_U",
+      "title": "La Terrificante Notte Del Demonio (Devil​'​s Nightmare) [Original Film Score] (1971)",
+      "description": "La Terrificante Notte Del Demonio (Devil​'​s Nightmare) [Original Film Score] (1971)\nComposed & Conducted by Alessandro Alessandroni (1925-2017)\n\nTracklisting:\n\n1. [00:00] Devil's Nightmare (Main Titles) \n2. [02:12] The Dark Castle\n3. [05:54] Dark Dreamer",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=YvbGx8BDGZ0",
+      "title": "ALESSANDRONI  -\"Erotic Demon\" (1971)",
+      "description": "-From the film, \"LA PLUS LONGUE NUIT DU DIABLE\" (Italy, 1971)\r\n-\"THE DEVIL'S NIGHTMARE\", \"THE DEVIL'S LONGEST NIGHT\", THE DEVIL WALKS AT MIDNIGHT\", \"CASTLE OF DEATH\", \"SUCCUBUS\", \"NIGHTMARE OF TERROR\", and \"VAMPIRE PLAYGIRLS\" (video) (USA)\r\n-\"O DEMONIO SA",
+      "duration": 212,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Stage & Screen"
+  ],
+  "styles": [
+    "Soundtrack",
+    "Score"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Devil's Nightmare - Main Titles",
+      "duration": "2:12"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "The Dark Castle",
+      "duration": "3:43"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Dark Dreamer",
+      "duration": "2:43"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Demon Arise",
+      "duration": "3:20"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Demon Night",
+      "duration": "2:22"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Demon Night II",
+      "duration": "4:48"
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "Deadly Beauty",
+      "duration": "0:50"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Demon Night III",
+      "duration": "4:12"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Hell Nightmare",
+      "duration": "1:15"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Demon Night IV",
+      "duration": "3:52"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Caressing",
+      "duration": "1:27"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Demon Night V",
+      "duration": "8:44"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Erotic Demon",
+      "duration": "3:26"
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "title": "Devil's Nightmare - End Titles",
+      "duration": "0:48"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Alessandro Alessandroni",
+      "anv": "",
+      "join": "",
+      "role": "Composed By, Conductor, Whistle",
+      "tracks": "",
+      "id": 130243,
+      "resource_url": "https://api.discogs.com/artists/130243"
+    },
+    {
+      "name": "Giulia De Mutiis",
+      "anv": "",
+      "join": "",
+      "role": "Lead Vocals",
+      "tracks": "",
+      "id": 3020943,
+      "resource_url": "https://api.discogs.com/artists/3020943"
+    },
+    {
+      "name": "Giulia De Mutiis",
+      "anv": "",
+      "join": "",
+      "role": "Vocals",
+      "tracks": "",
+      "id": 3020943,
+      "resource_url": "https://api.discogs.com/artists/3020943"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/YjsmvjABjkLk--YptH6-FV9-f1NQmhBTCaV5KaDgIqk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ2/MzUyLTE1MDY5ODE0/MDYtODAwMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/YjsmvjABjkLk--YptH6-FV9-f1NQmhBTCaV5KaDgIqk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ2/MzUyLTE1MDY5ODE0/MDYtODAwMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Y3ojHZHokNm1qzwhKgw6fiXID2Fx0UBoLTMIomqG1YA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ2/MzUyLTE1MDY5ODE0/MDYtODAwMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/JWt-m-5KdwVyboWw_-fJ9n-lk-5TUS8Nooq5LOY2Hcc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ2/MzUyLTE1MDg5MTg1/NzctNzYxOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/JWt-m-5KdwVyboWw_-fJ9n-lk-5TUS8Nooq5LOY2Hcc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ2/MzUyLTE1MDg5MTg1/NzctNzYxOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/P44W7ffD21gYwlwv4-zQf928nADNAG5zSlTu6x8z1rU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ2/MzUyLTE1MDg5MTg1/NzctNzYxOS5qcGVn.jpeg",
+      "width": 596,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/P4Z7QUg5QqzK4aGGji1kGkNfv1lFo7Ka55DHilySwvQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ2/MzUyLTE1MDg5MTg1/ODctMTYxNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/P4Z7QUg5QqzK4aGGji1kGkNfv1lFo7Ka55DHilySwvQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ2/MzUyLTE1MDg5MTg1/ODctMTYxNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/aTj5V9siAux0QlUOQoA2mf0F2rwEpcnkB4IygHvYTcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ2/MzUyLTE1MDg5MTg1/ODctMTYxNi5qcGVn.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/jErsWPloWrzGVxlQh8tjoiF-j4g4EaqSobdyRRTQfmU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ2/MzUyLTE1MDg5MTg1/OTQtODkxMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/jErsWPloWrzGVxlQh8tjoiF-j4g4EaqSobdyRRTQfmU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ2/MzUyLTE1MDg5MTg1/OTQtODkxMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/OeFhi6E2EGAJ_jWPCYCsaEztTP9EnEvq9C_vKXdc2VI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ2/MzUyLTE1MDg5MTg1/OTQtODkxMi5qcGVn.jpeg",
+      "width": 599,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Rf6LlvTZUg3CEvmuO6dDYPS4YaajMToU4FmiakAgR0U/rs:fit/g:sm/q:90/h:313/w:315/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ2/MzUyLTE1MDg5MTg2/NDYtNzY3NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Rf6LlvTZUg3CEvmuO6dDYPS4YaajMToU4FmiakAgR0U/rs:fit/g:sm/q:90/h:313/w:315/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ2/MzUyLTE1MDg5MTg2/NDYtNzY3NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/bvYseVLHcW5owin5oYMuF17NhGHfT4rDXlXPAWibMbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ2/MzUyLTE1MDg5MTg2/NDYtNzY3NC5qcGVn.jpeg",
+      "width": 315,
+      "height": 313
+    }
+  ],
+  "thumb": "https://i.discogs.com/Y3ojHZHokNm1qzwhKgw6fiXID2Fx0UBoLTMIomqG1YA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ2/MzUyLTE1MDY5ODE0/MDYtODAwMS5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

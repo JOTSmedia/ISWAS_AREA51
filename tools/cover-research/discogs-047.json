@@ -1,0 +1,619 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 4,
+    "per_page": 10,
+    "items": 32,
+    "urls": {
+      "last": "https://api.discogs.com/database/search?type=release&release_title=Dawn+of+the+Dead&artist=Goblin&per_page=10&page=4",
+      "next": "https://api.discogs.com/database/search?type=release&release_title=Dawn+of+the+Dead&artist=Goblin&per_page=10&page=2"
+    }
+  },
+  "results": [
+    {
+      "country": "US",
+      "year": "2004",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Dagored",
+        "Lo-Cost",
+        "Cinevox Record s.r.l.",
+        "Bixio C.e.m.s.a. Srl",
+        "Abraxas Srl",
+        "Abraxas Srl",
+        "Trafalgar Recording Studios",
+        "www.gzvinyl.com",
+        "GZ Digital Media"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score",
+        "Prog Rock",
+        "Synth-pop",
+        "Experimental",
+        "Tribal",
+        "Ambient",
+        "Downtempo"
+      ],
+      "id": 746570,
+      "barcode": [
+        "8013252991172",
+        "57089E1/A www.gzvinyl.com",
+        "57089E2/B"
+      ],
+      "master_id": 14195,
+      "master_url": "https://api.discogs.com/masters/14195",
+      "uri": "/release/746570-Goblin-Dawn-Of-The-Dead",
+      "catno": "Red 9117",
+      "title": "Goblin - Dawn Of The Dead",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/746570",
+      "community": {
+        "want": 401,
+        "have": 308
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red Transparent",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Italy",
+      "year": "2000",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Dagored",
+        "Trafalgar Studios",
+        "Edizioni Bixio C.e.m.s.a.",
+        "Disctronics SpA",
+        "Cinevox Record s.r.l.",
+        "Bixio C.e.m.s.a. Srl",
+        "Abraxas Srl",
+        "Abraxas Srl",
+        "Runt"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score",
+        "Prog Rock",
+        "Synth-pop",
+        "Experimental",
+        "Tribal",
+        "Ambient",
+        "Downtempo"
+      ],
+      "id": 291479,
+      "barcode": [
+        "8 013252 011719",
+        "SIAE",
+        "RED117 LP A *33 RPM",
+        "RED117 LP B *33 RPM"
+      ],
+      "master_id": 14195,
+      "master_url": "https://api.discogs.com/masters/14195",
+      "uri": "/release/291479-Goblin-Dawn-Of-The-Dead",
+      "catno": "Red 117-1",
+      "title": "Goblin - Dawn Of The Dead",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/291479",
+      "community": {
+        "want": 544,
+        "have": 952
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "180g, Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Australia",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Limited Edition",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Film Music Archive",
+        "Film Music Archive"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score",
+        "Prog Rock",
+        "Synth-pop",
+        "Experimental",
+        "Tribal",
+        "Ambient",
+        "Downtempo"
+      ],
+      "id": 8377657,
+      "barcode": [],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/8377657-Goblin-Dawn-Of-The-Dead",
+      "catno": "FM 01",
+      "title": "Goblin - Dawn Of The Dead",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/8377657",
+      "community": {
+        "want": 74,
+        "have": 4
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Limited Edition",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1979",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Varèse Sarabande",
+        "Varèse Sarabande Records, Inc.",
+        "Varèse Sarabande Records, Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score",
+        "Prog Rock",
+        "Synth-pop",
+        "Experimental",
+        "Tribal",
+        "Ambient",
+        "Downtempo"
+      ],
+      "id": 468463,
+      "barcode": [
+        "VC81106A",
+        "VC81106B"
+      ],
+      "master_id": 14195,
+      "master_url": "https://api.discogs.com/masters/14195",
+      "uri": "/release/468463-Goblin-Dawn-Of-The-Dead-Original-Motion-Picture-Soundtrack",
+      "catno": "VC 81106",
+      "title": "Goblin - Dawn Of The Dead (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/468463",
+      "community": {
+        "want": 1007,
+        "have": 741
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "1979",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Misprint"
+      ],
+      "label": [
+        "Seven Seas",
+        "Herald Music",
+        "King Record Co. Ltd"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score",
+        "Prog Rock",
+        "Synth-pop",
+        "Experimental",
+        "Tribal",
+        "Ambient",
+        "Downtempo"
+      ],
+      "id": 6527410,
+      "barcode": [],
+      "master_id": 14195,
+      "master_url": "https://api.discogs.com/masters/14195",
+      "uri": "/release/6527410-Goblin-Zombie-Dawn-Of-The-Dead-Original-Soundtrack-Recording",
+      "catno": "FML 113",
+      "title": "Goblin - \"Zombie\" Dawn Of The Dead (Original Soundtrack Recording)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/6527410",
+      "community": {
+        "want": 298,
+        "have": 41
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Misprint"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "1979",
+      "format": [
+        "Cassette",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Seven Seas",
+        "Herald Music",
+        "King Record Co. Ltd"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score",
+        "Prog Rock",
+        "Synth-pop",
+        "Experimental",
+        "Tribal",
+        "Ambient",
+        "Downtempo"
+      ],
+      "id": 10958135,
+      "barcode": [],
+      "master_id": 14195,
+      "master_url": "https://api.discogs.com/masters/14195",
+      "uri": "/release/10958135-Goblin-Zombie-Dawn-Of-The-Dead-Original-Soundtrack-Recording",
+      "catno": "AOF-5104",
+      "title": "Goblin - \"Zombie\" Dawn Of The Dead (Original Soundtrack Recording)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/10958135",
+      "community": {
+        "want": 146,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Stage & Screen"
+      ],
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score",
+        "Prog Rock",
+        "Synth-pop",
+        "Experimental",
+        "Tribal",
+        "Ambient",
+        "Downtempo"
+      ],
+      "id": 13316387,
+      "label": [
+        "Dagored",
+        "Cinevox Record s.r.l.",
+        "Bixio C.e.m.s.a. Srl",
+        "Edizioni Bixio C.e.m.s.a.",
+        "Trafalgar Recording Studios",
+        "Abraxas Srl",
+        "Abraxas Srl",
+        "Runt",
+        "GZ Digital Media",
+        "www.gzvinyl.com"
+      ],
+      "type": "release",
+      "barcode": [
+        "8013252 011719",
+        "SIAE",
+        "57089E1/B www.gzvinyl.com",
+        "57089E2/A"
+      ],
+      "master_id": 14195,
+      "master_url": "https://api.discogs.com/masters/14195",
+      "uri": "/release/13316387-Goblin-Dawn-Of-The-Dead-Original-Motion-Picture-Soundtrack",
+      "catno": "Red 117-1",
+      "title": "Goblin - Dawn Of The Dead (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/13316387",
+      "community": {
+        "want": 130,
+        "have": 65
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Stage & Screen"
+      ],
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score",
+        "Prog Rock",
+        "Synth-pop",
+        "Experimental"
+      ],
+      "id": 8391612,
+      "label": [
+        "Varèse Sarabande",
+        "Varèse Sarabande Records, Inc.",
+        "Varèse Sarabande Records, Inc.",
+        "KM Records Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "VC81106A",
+        "VC81106B RE-1 KM-3774-B-Re1",
+        "KM"
+      ],
+      "master_id": 14195,
+      "master_url": "https://api.discogs.com/masters/14195",
+      "uri": "/release/8391612-Goblin-Dawn-Of-The-Dead-Original-Motion-Picture-Soundtrack",
+      "catno": "VC 81106",
+      "title": "Goblin - Dawn Of The Dead (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/8391612",
+      "community": {
+        "want": 217,
+        "have": 12
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "1979",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Seven Seas",
+        "Herald Music",
+        "King Record Co. Ltd"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score",
+        "Prog Rock",
+        "Synth-pop",
+        "Experimental",
+        "Tribal",
+        "Ambient",
+        "Downtempo"
+      ],
+      "id": 5178952,
+      "barcode": [
+        "SILBT 8964-2",
+        "SILBT 8965-3"
+      ],
+      "master_id": 14195,
+      "master_url": "https://api.discogs.com/masters/14195",
+      "uri": "/release/5178952-Goblin-Zombie-Dawn-Of-The-Dead-Original-Soundtrack-Recording",
+      "catno": "FML 113",
+      "title": "Goblin - \"Zombie\" Dawn Of The Dead (Original Soundtrack Recording)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/5178952",
+      "community": {
+        "want": 427,
+        "have": 71
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Stage & Screen"
+      ],
+      "format": [
+        "CD",
+        "Album",
+        "Reissue"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score",
+        "Prog Rock",
+        "Synth-pop",
+        "Experimental",
+        "Tribal",
+        "Ambient",
+        "Downtempo"
+      ],
+      "id": 300575,
+      "label": [
+        "Varèse Sarabande",
+        "Varèse Sarabande Records, Inc.",
+        "Varèse Sarabande Records, Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "030206410624",
+        "VCD-47106-1T21"
+      ],
+      "master_id": 14195,
+      "master_url": "https://api.discogs.com/masters/14195",
+      "uri": "/release/300575-Goblin-Dawn-Of-The-Dead-Original-Motion-Picture-Soundtrack",
+      "catno": "VCD 47106",
+      "title": "Goblin - Dawn Of The Dead (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/300575",
+      "community": {
+        "want": 197,
+        "have": 50
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    }
+  ]
+}

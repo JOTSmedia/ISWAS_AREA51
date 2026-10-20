@@ -1,0 +1,355 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 1,
+    "per_page": 10,
+    "items": 6,
+    "urls": {}
+  },
+  "results": [
+    {
+      "country": "Germany",
+      "year": "2005",
+      "format": [
+        "CD",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Colosseum",
+        "Moose Mastering",
+        "Moose Mastering",
+        "Rubber Music Publishing",
+        "Sony ATV Music Publishing Australia Pty Ltd",
+        "Rubber Music Pty. Ltd.",
+        "Colosseum Schallplatten GmbH",
+        "Colosseum Schallplatten GmbH",
+        "P+O Pallas"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Experimental"
+      ],
+      "id": 2901158,
+      "barcode": [
+        "none",
+        "CST 8108.2 P+O-71186 A1 03-06"
+      ],
+      "master_id": 338984,
+      "master_url": "https://api.discogs.com/masters/338984",
+      "uri": "/release/2901158-Fran%C3%A7ois-T%C3%A9taz-Wolf-Creek-Original-Motion-Picture-Soundtrack",
+      "catno": "CST 8108.2",
+      "title": "François Tétaz - Wolf Creek (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/2901158",
+      "community": {
+        "want": 3,
+        "have": 8
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Cardboard Sleeve",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Australia",
+      "year": "2005",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Rubber Records",
+        "Moose Mastering Pty Ltd",
+        "Moose Mastering Pty Ltd",
+        "Rubber Music Pty. Ltd.",
+        "Rubber Music Publishing",
+        "Iwaki Auditorium, Melbourne",
+        "Shock Records Pty. Ltd.",
+        "Shock Records Pty. Ltd.",
+        "AAV Regency"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Experimental"
+      ],
+      "id": 35271799,
+      "barcode": [
+        "5 021456 138012",
+        "AAV REGENCY 85816.1 RUB214",
+        "none",
+        "none"
+      ],
+      "master_id": 338984,
+      "master_url": "https://api.discogs.com/masters/338984",
+      "uri": "/release/35271799-Fran%C3%A7ois-T%C3%A9taz-Wolf-Creek-Original-Motion-Picture-Soundtrack",
+      "catno": "RUB214",
+      "title": "François Tétaz - Wolf Creek (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/35271799",
+      "community": {
+        "want": 0,
+        "have": 3
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Germany",
+      "year": "2005",
+      "format": [
+        "CDr",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Colosseum",
+        "Moose Mastering",
+        "Moose Mastering",
+        "Rubber Music Publishing",
+        "Sony ATV Music Publishing Australia Pty Ltd",
+        "Rubber Music Pty. Ltd.",
+        "Colosseum Schallplatten GmbH",
+        "Colosseum Schallplatten GmbH"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Experimental"
+      ],
+      "id": 7846773,
+      "barcode": [
+        "none"
+      ],
+      "master_id": 338984,
+      "master_url": "https://api.discogs.com/masters/338984",
+      "uri": "/release/7846773-Fran%C3%A7ois-T%C3%A9taz-Wolf-Creek-Original-Motion-Picture-Soundtrack",
+      "catno": "CST 8108.2",
+      "title": "François Tétaz - Wolf Creek (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/7846773",
+      "community": {
+        "want": 2,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Germany",
+      "year": "2005",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Colosseum",
+        "Moose Mastering",
+        "Moose Mastering",
+        "Rubber Music Publishing",
+        "Sony ATV Music Publishing Australia Pty Ltd",
+        "Rubber Music Pty. Ltd.",
+        "Colosseum Schallplatten GmbH",
+        "Colosseum Schallplatten GmbH",
+        "P+O Pallas"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Experimental"
+      ],
+      "id": 9518342,
+      "barcode": [
+        "4 005939 810825",
+        "CST 8108.2 P+O-71186 A1 03-06",
+        "GEMA",
+        "LC 03387"
+      ],
+      "master_id": 338984,
+      "master_url": "https://api.discogs.com/masters/338984",
+      "uri": "/release/9518342-Fran%C3%A7ois-T%C3%A9taz-Wolf-Creek-Original-Motion-Picture-Soundtrack",
+      "catno": "CST 8108.2",
+      "title": "François Tétaz - Wolf Creek (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/9518342",
+      "community": {
+        "want": 9,
+        "have": 23
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Australia",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Numbered",
+        "Reissue"
+      ],
+      "label": [
+        "Impressed Recordings",
+        "Moose Mastering Pty Ltd",
+        "Moose Mastering Pty Ltd",
+        "Rubber Music Pty. Ltd.",
+        "Rubber Music Publishing",
+        "Iwaki Auditorium, Melbourne",
+        "XDiSC"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Experimental"
+      ],
+      "id": 38160120,
+      "barcode": [
+        "5053760150602",
+        "V867-AAA M 2324"
+      ],
+      "master_id": 338984,
+      "master_url": "https://api.discogs.com/masters/338984",
+      "uri": "/release/38160120-Fran%C3%A7ois-T%C3%A9taz-Wolf-Creek-Original-Motion-Picture-Soundtrack",
+      "catno": "IMP232",
+      "title": "François Tétaz - Wolf Creek (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/38160120",
+      "community": {
+        "want": 9,
+        "have": 34
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear w/ Liquid Red (Blood) Filled",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Australia",
+      "year": "2005",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Rubber Records",
+        "EMI",
+        "Moose Mastering Pty Ltd",
+        "Moose Mastering Pty Ltd",
+        "Rubber Music Pty. Ltd.",
+        "Rubber Music Publishing",
+        "Iwaki Auditorium, Melbourne",
+        "SM"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Experimental"
+      ],
+      "id": 1375700,
+      "barcode": [
+        "094635933024",
+        "[SM logo] 6161021602 RUB214 ifpi LR11",
+        "ifpi LR11"
+      ],
+      "master_id": 338984,
+      "master_url": "https://api.discogs.com/masters/338984",
+      "uri": "/release/1375700-Fran%C3%A7ois-T%C3%A9taz-Wolf-Creek-Original-Motion-Picture-Soundtrack",
+      "catno": "RUB214",
+      "title": "François Tétaz - Wolf Creek (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/1375700",
+      "community": {
+        "want": 20,
+        "have": 53
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    }
+  ]
+}

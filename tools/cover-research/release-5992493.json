@@ -1,0 +1,422 @@
+{
+  "id": 5992493,
+  "status": "Accepted",
+  "year": 2014,
+  "resource_url": "https://api.discogs.com/releases/5992493",
+  "uri": "https://www.discogs.com/release/5992493-Jon-McCallum-Surf-Nazis-Must-Die-Original-1987-Motion-Picture-Soundtrack",
+  "artists": [
+    {
+      "name": "Jon McCallum",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3961781,
+      "resource_url": "https://api.discogs.com/artists/3961781",
+      "thumbnail_url": "https://i.discogs.com/Ct4IAvOjbaLTg7xrthLDKDBZDtwksLRTdx_60WLG0sU/rs:fit/g:sm/q:90/h:387/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM5NjE3/ODEtMTU5MDUwMjI3/Mi00OTk0LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Jon McCallum",
+  "labels": [
+    {
+      "name": "Strange Disc Records",
+      "catno": "SD-001LP",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 726766,
+      "resource_url": "https://api.discogs.com/labels/726766",
+      "thumbnail_url": "https://i.discogs.com/d5nP-fbPG_eeRiWcLeIntnVsaH-F4c42JQ-i6wnUPlI/rs:fit/g:sm/q:90/h:358/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTcyNjc2/Ni0xNDA4Mjg5MDQ1/LTMwNzYuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Deluxe Edition",
+        "Limited Edition",
+        "Remastered"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 515,
+    "want": 209,
+    "rating": {
+      "count": 41,
+      "average": 4.68
+    },
+    "submitter": {
+      "username": "diaclonex",
+      "resource_url": "https://api.discogs.com/users/diaclonex"
+    },
+    "contributors": [
+      {
+        "username": "diaclonex",
+        "resource_url": "https://api.discogs.com/users/diaclonex"
+      },
+      {
+        "username": "tapesandrecords",
+        "resource_url": "https://api.discogs.com/users/tapesandrecords"
+      },
+      {
+        "username": "Ba3apejko",
+        "resource_url": "https://api.discogs.com/users/Ba3apejko"
+      },
+      {
+        "username": "davetosterone",
+        "resource_url": "https://api.discogs.com/users/davetosterone"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2014-08-17T08:05:10-07:00",
+  "date_changed": "2015-04-20T00:32:09-07:00",
+  "num_for_sale": 10,
+  "lowest_price": 19.99,
+  "master_id": 721970,
+  "master_url": "https://api.discogs.com/masters/721970",
+  "title": "Surf Nazis Must Die (Original 1987 Motion Picture Soundtrack)",
+  "country": "US",
+  "released": "2014-08-00",
+  "notes": "Strange Disc Records is proud to announce their debut release, the soundtrack to Surf Nazis Must Die. The film itself was released in 1987 by Troma Entertainment, but the soundtrack has never seen the light of day until now. Set in a post-apocalyptic future where Neo Nazi group, the Surf Nazis have taken control of the beaches and terrorize anyone who steps foot in their territory. Jon McCallum’s score suits the post-apocalyptic setting with heavy synth; fans of Tangerine Dream and John Carpenter’s scores will be at home on this record. McCallum is the composer behind Miami Connection, Terror Eyes and Soul Taker. Aside from his composing work he worked on the special effects for Phantasm 2 and George Harrison’s “Got My Mind Set On You,” music video.\r\n\r\nThis limited edition LP is packaged in a deluxe gatefold tip on sleeve with extensive liner notes by Composer Jon McCallum, Director Peter George, and various crew members. The artwork was created by Jon McCallum and it was mastered for vinyl by Josh Bonati.\r\n\r\n800 standard black vinyl editions (THIS).\r\n200 randomly inserted \"Blood in the water\" red/blue split colored vinyl editions.\r\n500 second pressings on standard black vinyl identical to the 1st press.",
+  "released_formatted": "Aug 2014",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "826853749114"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=g9Q9CSSliSY",
+      "title": "Jon McCallum — Surf Nazis Must Die (Strange Disc Records, 2014)",
+      "description": "Surf Nazis Must Die... The title alone was enough for schlock fans to go rifling through VHS bins in search of a rare ex-rental copy of this 1987 TROMA gem, and understandably it’s gone down in history as one of the B-movie world’s oddest movies. The ",
+      "duration": 1951,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=A6oYRgxZjzQ",
+      "title": "John McCallum - Once You've Caught the Wave",
+      "description": "The first track from the Surf Nazis Must Die (1987) official soundtrack.",
+      "duration": 59,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=urV0iKKRu8U",
+      "title": "John McCallum - Opening Titles",
+      "description": "The kick-ass opening theme to Surf Nazis Must Die. From the Surf Nazis Must Die (1987) score. I'm surprised nobody had uploaded any of the soundtrack yet, since it was officially released some years ago, and the tracks aren't that hard to find.",
+      "duration": 104,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=LOjQdb8zA6s",
+      "title": "John McCallum - The Youth of Tomorrow",
+      "description": "The third track from the Surf Nazis Must Die soundtrack.",
+      "duration": 108,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=e894bkEJXyY",
+      "title": "John McCallum - After the Quake",
+      "description": "One of the tracks from the Surf Nazis Must Die soundtrack.",
+      "duration": 353,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=G-JAhvkRCfo",
+      "title": "John McCallum - Across the River",
+      "description": "The fifth track from the Surf Nazis Must Die soundtrack.",
+      "duration": 126,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=eT2ITeblW9Q",
+      "title": "John McCallum - Visit to the Morgue",
+      "description": "The sixth track from the Surf Nazis Must Die soundtrack.",
+      "duration": 59,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=I3qbAaSKpBY",
+      "title": "John McCallum - In the Church",
+      "description": "The seventh track from the Surf Nazis Must Die soundtrack.",
+      "duration": 121,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Mu1b6NszTKY",
+      "title": "John McCallum - Pushed Too Far",
+      "description": "The eighth track from the Surf Nazis Must Die soundtrack.",
+      "duration": 90,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=thRsw2ilxTI",
+      "title": "John McCallum - Nobody Goes Home",
+      "description": "The ninth track from the Surf Nazis Must Die soundtrack.",
+      "duration": 132,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=dhyqJt2Awkk",
+      "title": "John McCallum - Mama Sends Her Love",
+      "description": "The second track off the B-side of the Surf Nazis Must Die soundtrack. I'll be uploading any tracks I can find off the web, since none of the tracks from the official soundtrack are on YouTube. Only audio rips from the movie appear on here.",
+      "duration": 164,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=sntGQtZD_RA",
+      "title": "John McCallum - Before the Fight",
+      "description": "The eleventh track from the Surf Nazis Must Die soundtrack.",
+      "duration": 206,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=_rbrLQ4MTHs",
+      "title": "John McCallum - Chase Through the Boatyard",
+      "description": "The fourth track off the B-side of the Surf Nazis Must Die soundtrack.",
+      "duration": 310,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ptB-teZl5Yc",
+      "title": "John McCallum - The Last Wave",
+      "description": "The thirteenth track from the Surf Nazis Must Die soundtrack.",
+      "duration": 95,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=g9Q9CSSliSY",
+      "title": "Jon McCallum — Surf Nazis Must Die (Strange Disc Records, 2014)",
+      "description": "Surf Nazis Must Die... The title alone was enough for schlock fans to go rifling through VHS bins in search of a rare ex-rental copy of this 1987 TROMA gem, and understandably it’s gone down in history as one of the B-movie world’s oddest movies. The ",
+      "duration": 1951,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=A6oYRgxZjzQ",
+      "title": "John McCallum - Once You've Caught the Wave",
+      "description": "The first track from the Surf Nazis Must Die (1987) official soundtrack.",
+      "duration": 59,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=urV0iKKRu8U",
+      "title": "John McCallum - Opening Titles",
+      "description": "The kick-ass opening theme to Surf Nazis Must Die. From the Surf Nazis Must Die (1987) score. I'm surprised nobody had uploaded any of the soundtrack yet, since it was officially released some years ago, and the tracks aren't that hard to find.",
+      "duration": 104,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=LOjQdb8zA6s",
+      "title": "John McCallum - The Youth of Tomorrow",
+      "description": "The third track from the Surf Nazis Must Die soundtrack.",
+      "duration": 108,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=e894bkEJXyY",
+      "title": "John McCallum - After the Quake",
+      "description": "One of the tracks from the Surf Nazis Must Die soundtrack.",
+      "duration": 353,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=G-JAhvkRCfo",
+      "title": "John McCallum - Across the River",
+      "description": "The fifth track from the Surf Nazis Must Die soundtrack.",
+      "duration": 126,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=eT2ITeblW9Q",
+      "title": "John McCallum - Visit to the Morgue",
+      "description": "The sixth track from the Surf Nazis Must Die soundtrack.",
+      "duration": 59,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=I3qbAaSKpBY",
+      "title": "John McCallum - In the Church",
+      "description": "The seventh track from the Surf Nazis Must Die soundtrack.",
+      "duration": 121,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Mu1b6NszTKY",
+      "title": "John McCallum - Pushed Too Far",
+      "description": "The eighth track from the Surf Nazis Must Die soundtrack.",
+      "duration": 90,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=thRsw2ilxTI",
+      "title": "John McCallum - Nobody Goes Home",
+      "description": "The ninth track from the Surf Nazis Must Die soundtrack.",
+      "duration": 132,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=dhyqJt2Awkk",
+      "title": "John McCallum - Mama Sends Her Love",
+      "description": "The second track off the B-side of the Surf Nazis Must Die soundtrack. I'll be uploading any tracks I can find off the web, since none of the tracks from the official soundtrack are on YouTube. Only audio rips from the movie appear on here.",
+      "duration": 164,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=sntGQtZD_RA",
+      "title": "John McCallum - Before the Fight",
+      "description": "The eleventh track from the Surf Nazis Must Die soundtrack.",
+      "duration": 206,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=_rbrLQ4MTHs",
+      "title": "John McCallum - Chase Through the Boatyard",
+      "description": "The fourth track off the B-side of the Surf Nazis Must Die soundtrack.",
+      "duration": 310,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ptB-teZl5Yc",
+      "title": "John McCallum - The Last Wave",
+      "description": "The thirteenth track from the Surf Nazis Must Die soundtrack.",
+      "duration": 95,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Stage & Screen"
+  ],
+  "styles": [
+    "Soundtrack",
+    "Surf",
+    "Score"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Once You've Caught The Wave",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Opening Titles",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "The Youth Of Tomorrow",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "After The Quake",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Across The River",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Visit To The Morgue",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "In The Church",
+      "duration": ""
+    },
+    {
+      "position": "A8",
+      "type_": "track",
+      "title": "Pushed Too Far",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Nobody Goes Home (Album Version)",
+      "extraartists": [
+        {
+          "name": "Andrew Spindler",
+          "anv": "",
+          "join": "",
+          "role": "Performer",
+          "tracks": "",
+          "id": 3961782,
+          "resource_url": "https://api.discogs.com/artists/3961782"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Mama Sends Her Love",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Before The Fight",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Chase Through The Boat Yard",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "The Last Wave",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Fangoria Weekend 1986 Promo",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/As4s94z1Fp2VhCANw9mC5x3_GNTx__wEnf42_a6mu9k/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTI0/OTMtMTQwOTQzNTc3/Mi00MDUzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/As4s94z1Fp2VhCANw9mC5x3_GNTx__wEnf42_a6mu9k/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTI0/OTMtMTQwOTQzNTc3/Mi00MDUzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/muuv9qzBWqLWU89mAJVEo1mPYjdDWOdyi8OaOJgrDs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTI0/OTMtMTQwOTQzNTc3/Mi00MDUzLmpwZWc.jpeg",
+      "width": 590,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/AF-oV5V-1g_UdGs_cEP137m2IGYwseLpfmZiNDNY84Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTI0/OTMtMTQwOTQzNTc4/MC0xNzEyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/AF-oV5V-1g_UdGs_cEP137m2IGYwseLpfmZiNDNY84Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTI0/OTMtMTQwOTQzNTc4/MC0xNzEyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/cUuPgR6KNk6en27weQ5n-vtF8UtWBROcPsu7_EY1SdQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTI0/OTMtMTQwOTQzNTc4/MC0xNzEyLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/muuv9qzBWqLWU89mAJVEo1mPYjdDWOdyi8OaOJgrDs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTI0/OTMtMTQwOTQzNTc3/Mi00MDUzLmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,625 @@
+{
+  "id": 6231172,
+  "status": "Accepted",
+  "year": 2014,
+  "resource_url": "https://api.discogs.com/releases/6231172",
+  "uri": "https://www.discogs.com/release/6231172-Douglas-Pipes-Trick-R-Treat",
+  "artists": [
+    {
+      "name": "Douglas Pipes",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 1644787,
+      "resource_url": "https://api.discogs.com/artists/1644787",
+      "thumbnail_url": "https://i.discogs.com/QI0748a4NoxpAFsai6bY-JT0E94qp7UbmgDOCza3C78/rs:fit/g:sm/q:90/h:317/w:214/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE2NDQ3/ODctMTUwNzI1MTMw/OC02MDg5LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Douglas Pipes",
+  "labels": [
+    {
+      "name": "Waxwork Records",
+      "catno": "WW006",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 573483,
+      "resource_url": "https://api.discogs.com/labels/573483",
+      "thumbnail_url": "https://i.discogs.com/ZIFXK64EuNZWgeD8-iGDvRSkithH3Nu1Irwrg6WZ_jY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU3MzQ4/My0xNTc2NTI0MjQ4/LTg0MTMuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Warner Bros. Entertainment Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 97122,
+      "resource_url": "https://api.discogs.com/labels/97122",
+      "thumbnail_url": "https://i.discogs.com/kAiCxrKZDLRrp-ThTfD1bQQsGxdxcrubj_lAZHySf6Q/rs:fit/g:sm/q:90/h:116/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk3MTIy/LTE3MTM2NzE0ODIt/NDI5NS5wbmc.jpeg"
+    },
+    {
+      "name": "Waxwork Records",
+      "catno": "",
+      "entity_type": "42",
+      "entity_type_name": "Exclusive Retailer",
+      "id": 573483,
+      "resource_url": "https://api.discogs.com/labels/573483",
+      "thumbnail_url": "https://i.discogs.com/ZIFXK64EuNZWgeD8-iGDvRSkithH3Nu1Irwrg6WZ_jY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU3MzQ4/My0xNTc2NTI0MjQ4/LTg0MTMuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "text": "Candy Corn Splatter"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 289,
+    "want": 197,
+    "rating": {
+      "count": 21,
+      "average": 4.57
+    },
+    "submitter": {
+      "username": "mumblemouthmedia",
+      "resource_url": "https://api.discogs.com/users/mumblemouthmedia"
+    },
+    "contributors": [
+      {
+        "username": "mumblemouthmedia",
+        "resource_url": "https://api.discogs.com/users/mumblemouthmedia"
+      },
+      {
+        "username": "djaeon",
+        "resource_url": "https://api.discogs.com/users/djaeon"
+      },
+      {
+        "username": "g0rey1",
+        "resource_url": "https://api.discogs.com/users/g0rey1"
+      },
+      {
+        "username": "legnadibrom",
+        "resource_url": "https://api.discogs.com/users/legnadibrom"
+      },
+      {
+        "username": "organic-pipeline",
+        "resource_url": "https://api.discogs.com/users/organic-pipeline"
+      },
+      {
+        "username": "Ba3apejko",
+        "resource_url": "https://api.discogs.com/users/Ba3apejko"
+      },
+      {
+        "username": "Vinyl-Below",
+        "resource_url": "https://api.discogs.com/users/Vinyl-Below"
+      },
+      {
+        "username": "roshon55901",
+        "resource_url": "https://api.discogs.com/users/roshon55901"
+      },
+      {
+        "username": "TomFuzz",
+        "resource_url": "https://api.discogs.com/users/TomFuzz"
+      },
+      {
+        "username": "GabiB",
+        "resource_url": "https://api.discogs.com/users/GabiB"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2014-10-25T23:23:05-07:00",
+  "date_changed": "2026-01-05T13:04:01-08:00",
+  "num_for_sale": 7,
+  "lowest_price": 75.0,
+  "master_id": 750154,
+  "master_url": "https://api.discogs.com/masters/750154",
+  "title": "Trick 'R Treat",
+  "country": "US",
+  "released": "2014-10-14",
+  "notes": "Original soundtrack to the motion picture, \"Trick 'R Treat\", by Douglas Pipes. Also includes a \"Spooky Sound FX Album\" by Evan Chen on side D. \r\n\r\nThis version is on \"Candy Corn Splatter\" vinyl.\r\n\r\nWaxwork DISCLAIMER: \"Various copies of the CANDY CORN SPLATTER variant have audible surface noise due to the heavy splatter effect. No returns will be accepted.\"",
+  "released_formatted": "14 Oct 2014",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "728028347739",
+      "description": "Scanned"
+    },
+    {
+      "type": "Barcode",
+      "value": "7 28028 34773 9",
+      "description": "Text"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=j2_gQLxsgok",
+      "title": "Trick 'r Treat // Douglas Pipes - \"Spooky Guidelines/It's Halloween/Main Titles\" [Vinyl]",
+      "description": null,
+      "duration": 361,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=j2_gQLxsgok",
+      "title": "Trick 'r Treat // Douglas Pipes - \"Spooky Guidelines/It's Halloween/Main Titles\" [Vinyl]",
+      "description": null,
+      "duration": 361,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=8KwJczDoQgI",
+      "title": "Main Titles (Trick 'r Treat)",
+      "description": "Provided to YouTube by New Line Records\n\nMain Titles (Trick 'r Treat) · Douglas Pipes\n\nTrick 'r Treat (Original Motion Picture Score)\n\n℗ 2009 Warner Bros. Entertainment Inc.\n\nWriter: Douglas Pipes\n\nAuto-generated by YouTube.",
+      "duration": 141,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=7n_rQtTwZ-c",
+      "title": "Trick 'r Treat",
+      "description": "Provided to YouTube by New Line Records\n\nTrick 'r Treat · Douglas Pipes\n\nTrick 'r Treat (Original Motion Picture Score)\n\n℗ 2009 Warner Bros. Entertainment Inc.\n\nWriter: Douglas Pipes\n\nAuto-generated by YouTube.",
+      "duration": 31,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zhoaikUd4jM",
+      "title": "End Credits (Trick 'r Treat)",
+      "description": "Provided to YouTube by New Line Records\n\nEnd Credits (Trick 'r Treat) · Douglas Pipes\n\nTrick 'r Treat (Original Motion Picture Score)\n\n℗ 2009 Warner Bros. Entertainment Inc.\n\nWriter: Douglas Pipes\n\nAuto-generated by YouTube.",
+      "duration": 403,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=WWo0JKClX_0",
+      "title": "Trick'r Treat [Douglas Pipes] Main Titles (OST Soundtrack Halloween)",
+      "description": "Trick'r Treat (2007) [Douglas Pipes] / Truco o Travesura (2007) / Truco o Trato (2007) / Terror en Halloween (2007) /  Noche de Terror (2007) / खेलो और सीखो  (२००७) / ट्रिकर ट्रीट (२००७) / 别惹小孩 (2007) / ブライアン・シンガーの トリック・オア・トリート (2007) / Season's Greetings",
+      "duration": 142,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=7fYYyzF_tzk",
+      "title": "Halloween Prank",
+      "description": "Provided to YouTube by New Line Records\n\nHalloween Prank · Douglas Pipes\n\nTrick 'r Treat (Original Motion Picture Score)\n\n℗ 2009 Warner Bros. Entertainment Inc.\n\nWriter: Douglas Pipes\n\nAuto-generated by YouTube.",
+      "duration": 265,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=oHdJO_4YL-E",
+      "title": "Meet Rhonda",
+      "description": "Provided to YouTube by New Line Records\n\nMeet Rhonda · Douglas Pipes\n\nTrick 'r Treat (Original Motion Picture Score)\n\n℗ 2009 Warner Bros. Entertainment Inc.\n\nWriter: Douglas Pipes\n\nAuto-generated by YouTube.",
+      "duration": 94,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=muVus5OYesY",
+      "title": "Not a Trick / Red and Black",
+      "description": "Provided to YouTube by New Line Records\n\nNot a Trick / Red and Black · Douglas Pipes\n\nTrick 'r Treat (Original Motion Picture Score)\n\n℗ 2009 Warner Bros. Entertainment Inc.\n\nWriter: Douglas Pipes\n\nAuto-generated by YouTube.",
+      "duration": 232,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=i8zEcUUzhxc",
+      "title": "The Halloween Schoolbus Massacre",
+      "description": "Provided to YouTube by New Line Records\n\nThe Halloween Schoolbus Massacre · Douglas Pipes\n\nTrick 'r Treat (Original Motion Picture Score)\n\n℗ 2009 Warner Bros. Entertainment Inc.\n\nWriter: Douglas Pipes\n\nAuto-generated by YouTube.",
+      "duration": 297,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=hHYBPc2ktLM",
+      "title": "It's Halloween, Not Hanukkah",
+      "description": "Provided to YouTube by New Line Records\n\nIt's Halloween, Not Hanukkah · Douglas Pipes\n\nTrick 'r Treat (Original Motion Picture Score)\n\n℗ 2009 Warner Bros. Entertainment Inc.\n\nWriter: Douglas Pipes\n\nAuto-generated by YouTube.",
+      "duration": 193,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=9fXlmpdmGwA",
+      "title": "The Neighborhood",
+      "description": "Provided to YouTube by New Line Records\n\nThe Neighborhood · Douglas Pipes\n\nTrick 'r Treat (Original Motion Picture Score)\n\n℗ 2009 Warner Bros. Entertainment Inc.\n\nWriter: Douglas Pipes\n\nAuto-generated by YouTube.",
+      "duration": 112,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=nfKit2l3rsg",
+      "title": "Laurie's First Time",
+      "description": "Provided to YouTube by New Line Records\n\nLaurie's First Time · Douglas Pipes\n\nTrick 'r Treat (Original Motion Picture Score)\n\n℗ 2009 Warner Bros. Entertainment Inc.\n\nWriter: Douglas Pipes\n\nAuto-generated by YouTube.",
+      "duration": 169,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Rp4kUfWoAr0",
+      "title": "The Elevator / Laurie On the Prowl",
+      "description": "Provided to YouTube by New Line Records\n\nThe Elevator / Laurie On the Prowl · Douglas Pipes\n\nTrick 'r Treat (Original Motion Picture Score)\n\n℗ 2009 Warner Bros. Entertainment Inc.\n\nWriter: Douglas Pipes\n\nAuto-generated by YouTube.",
+      "duration": 123,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=H9WXnZkpKZo",
+      "title": "Meet Charlie",
+      "description": "Provided to YouTube by New Line Records\n\nMeet Charlie · Douglas Pipes\n\nTrick 'r Treat (Original Motion Picture Score)\n\n℗ 2009 Warner Bros. Entertainment Inc.\n\nWriter: Douglas Pipes\n\nAuto-generated by YouTube.",
+      "duration": 47,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=JKac1oql51k",
+      "title": "To The Quarry",
+      "description": "Provided to YouTube by New Line Records\n\nTo The Quarry · Douglas Pipes\n\nTrick 'r Treat (Original Motion Picture Score)\n\n℗ 2009 Warner Bros. Entertainment Inc.\n\nWriter: Douglas Pipes\n\nAuto-generated by YouTube.",
+      "duration": 103,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=NOFtNpU7xJQ",
+      "title": "Charlie Bites It",
+      "description": "Provided to YouTube by New Line Records\n\nCharlie Bites It · Douglas Pipes\n\nTrick 'r Treat (Original Motion Picture Score)\n\n℗ 2009 Warner Bros. Entertainment Inc.\n\nWriter: Douglas Pipes\n\nAuto-generated by YouTube.",
+      "duration": 102,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=CjB94kcq-do",
+      "title": "Old Mr. Kreeg",
+      "description": "Provided to YouTube by New Line Records\n\nOld Mr. Kreeg · Douglas Pipes\n\nTrick 'r Treat (Original Motion Picture Score)\n\n℗ 2009 Warner Bros. Entertainment Inc.\n\nWriter: Douglas Pipes\n\nAuto-generated by YouTube.",
+      "duration": 113,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=XCJ35LqkV3A",
+      "title": "The Bus Driver",
+      "description": "Provided to YouTube by New Line Records\n\nThe Bus Driver · Douglas Pipes\n\nTrick 'r Treat (Original Motion Picture Score)\n\n℗ 2009 Warner Bros. Entertainment Inc.\n\nWriter: Douglas Pipes\n\nAuto-generated by YouTube.",
+      "duration": 40,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=_4IiF_VjLBw",
+      "title": "Pumpkin Shooter / Meet Sam",
+      "description": "Provided to YouTube by New Line Records\n\nPumpkin Shooter / Meet Sam · Douglas Pipes\n\nTrick 'r Treat (Original Motion Picture Score)\n\n℗ 2009 Warner Bros. Entertainment Inc.\n\nWriter: Douglas Pipes\n\nAuto-generated by YouTube.",
+      "duration": 0,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Stage & Screen"
+  ],
+  "styles": [
+    "Score",
+    "Soundtrack"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Spooky Guidelines",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "It's Halloween, Not Hanukkah / Main Titles",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Meet Charlie",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Charlie Bites It",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Father And Son",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Meet Rhonda",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "To The Quarry",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "The Halloween Schoolbus Massacre",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "The Elevator / Laurie On The Prowl",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Halloween Prank",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Not A Trick / Red And Black",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Laurie's First Time",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Old Mr. Kreeg",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Pumpkin Shooter/Meet Sam",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "The Bus Driver",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "The Neighborhood",
+      "duration": ""
+    },
+    {
+      "position": "C5",
+      "type_": "track",
+      "title": "Trick 'R Treat",
+      "duration": ""
+    },
+    {
+      "position": "C6",
+      "type_": "track",
+      "title": "End Credits",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Emma",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Always Check Your Candy",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Wilkins' Backyard",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "title": "Rock Quarry",
+      "duration": ""
+    },
+    {
+      "position": "D5",
+      "type_": "track",
+      "title": "Sheep Meadow",
+      "duration": ""
+    },
+    {
+      "position": "D6",
+      "type_": "track",
+      "title": "Old Mr. Kreeg's House",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Francesco Francavilla",
+      "anv": "",
+      "join": "",
+      "role": "Artwork",
+      "tracks": "",
+      "id": 824079,
+      "resource_url": "https://api.discogs.com/artists/824079"
+    },
+    {
+      "name": "Douglas Pipes",
+      "anv": "",
+      "join": "",
+      "role": "Composed By",
+      "tracks": "",
+      "id": 1644787,
+      "resource_url": "https://api.discogs.com/artists/1644787"
+    },
+    {
+      "name": "Jay Yuenger",
+      "anv": "J. Yuenger",
+      "join": "",
+      "role": "Edited By [For Vinyl]",
+      "tracks": "",
+      "id": 341503,
+      "resource_url": "https://api.discogs.com/artists/341503"
+    },
+    {
+      "name": "Jay Yuenger",
+      "anv": "J. Yuenger",
+      "join": "",
+      "role": "Mastered By [For Vinyl]",
+      "tracks": "",
+      "id": 341503,
+      "resource_url": "https://api.discogs.com/artists/341503"
+    },
+    {
+      "name": "Evan H. Chen",
+      "anv": "Evan Chen",
+      "join": "",
+      "role": "Mastered By [Spooky Sound FX Album]",
+      "tracks": "",
+      "id": 885928,
+      "resource_url": "https://api.discogs.com/artists/885928"
+    },
+    {
+      "name": "Douglas Pipes",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 1644787,
+      "resource_url": "https://api.discogs.com/artists/1644787"
+    },
+    {
+      "name": "Kevin Bergeron",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 4068664,
+      "resource_url": "https://api.discogs.com/artists/4068664"
+    },
+    {
+      "name": "Michael Dougherty (2)",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 4068665,
+      "resource_url": "https://api.discogs.com/artists/4068665"
+    },
+    {
+      "name": "Evan H. Chen",
+      "anv": "Evan Chen",
+      "join": "",
+      "role": "Producer [Spooky Sound FX Album]",
+      "tracks": "",
+      "id": 885928,
+      "resource_url": "https://api.discogs.com/artists/885928"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/qEEDLzfLsrFbZ1B7A0nBJ4pTYkjfgd-RS2JA8sj5POU/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDM1MDky/My03MDE1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/qEEDLzfLsrFbZ1B7A0nBJ4pTYkjfgd-RS2JA8sj5POU/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDM1MDky/My03MDE1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/NE5HIJnNKkcYZxQ-s0NxNEO1xQhMzgbHSS2WRTktiig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDM1MDky/My03MDE1LmpwZWc.jpeg",
+      "width": 576,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ngZToPxQeUCyldSI3bUa-YSu1sU1fBy-EGzcXVq3F6M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQyMDg5MTk1/MC0zNjgwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/ngZToPxQeUCyldSI3bUa-YSu1sU1fBy-EGzcXVq3F6M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQyMDg5MTk1/MC0zNjgwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/L9JOHPtFDwp-NUol1NDfol9WqQTXRdfkm-ibu32gsFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQyMDg5MTk1/MC0zNjgwLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Y3WgtJ74MvZXpiZAbll1KQMKn3QzR0jDO1ewr-cb44s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQyMDg5MTk1/Ni01MTExLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/Y3WgtJ74MvZXpiZAbll1KQMKn3QzR0jDO1ewr-cb44s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQyMDg5MTk1/Ni01MTExLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/GAhEb65Fbw2V-4PRK7PPCY00eB41ojddIfPx1277Rpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQyMDg5MTk1/Ni01MTExLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/tM4akukJ38CHy5nArXBbMGPdG_zzevu9wNb8qjikUCI/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDQ1NjAz/MS0zMzU5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/tM4akukJ38CHy5nArXBbMGPdG_zzevu9wNb8qjikUCI/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDQ1NjAz/MS0zMzU5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/J_ICCEl1jfsGwezWxylmnfDWO4dMGa_IGzagDJLa-c8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDQ1NjAz/MS0zMzU5LmpwZWc.jpeg",
+      "width": 593,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/JKdlOESQT0i-wOv5HuZNNIi_e8-ahzixDiv7-dQm1SQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDQ1NjAz/MC02MzA1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/JKdlOESQT0i-wOv5HuZNNIi_e8-ahzixDiv7-dQm1SQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDQ1NjAz/MC02MzA1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/_dMTqYZDhIzi6qbKVM4mdw6mkBccsEIVKf5uX7Tii7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDQ1NjAz/MC02MzA1LmpwZWc.jpeg",
+      "width": 599,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/YVV33VNO2FXeZ1x-U8DSy_ywWwEQ127nFJqb25A_3Jg/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDM1MDk0/Ny02NTEwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/YVV33VNO2FXeZ1x-U8DSy_ywWwEQ127nFJqb25A_3Jg/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDM1MDk0/Ny02NTEwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/RPt0vvgLOL54RrogG2FjKTRR31xlVh_Qw_pwAke-dv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDM1MDk0/Ny02NTEwLmpwZWc.jpeg",
+      "width": 500,
+      "height": 500
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/CVx2ovrJ4zi0YmQg4tTP93tzeKW5dGFgvvolJe22co4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDQ1NjAz/MS05NjY5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/CVx2ovrJ4zi0YmQg4tTP93tzeKW5dGFgvvolJe22co4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDQ1NjAz/MS05NjY5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/JByB7emOwx3lcYUhyNhYDYvqb4YMj1zPJ7NBEJhQWOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDQ1NjAz/MS05NjY5LmpwZWc.jpeg",
+      "width": 600,
+      "height": 594
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ZZUVkPDfi-eOda6AQyWybinhxh_a2qC9uW36z5cvC6w/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDQ1NjAz/MS04NjAxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/ZZUVkPDfi-eOda6AQyWybinhxh_a2qC9uW36z5cvC6w/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDQ1NjAz/MS04NjAxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/lOiMUjY-O04--ZioUj3R6ekGzFLgnw-wevhwtE7zQT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDQ1NjAz/MS04NjAxLmpwZWc.jpeg",
+      "width": 591,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/-TWENJ2mghuivoFNpo8DnxvadInal6_PK0bKwA9pou0/rs:fit/g:sm/q:90/h:301/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDQ1NjAz/MS01ODY1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/-TWENJ2mghuivoFNpo8DnxvadInal6_PK0bKwA9pou0/rs:fit/g:sm/q:90/h:301/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDQ1NjAz/MS01ODY1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/rKo6AUMBkC2gFjMtmbmlAZUI1Y-k6lLfZQdOV-QZizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDQ1NjAz/MS01ODY1LmpwZWc.jpeg",
+      "width": 600,
+      "height": 301
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/YWSDOFcNReZfTlfjOUfOAxbmCF4n6aw2Sza-2XoLh8s/rs:fit/g:sm/q:90/h:303/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDQ1NjAz/Mi04Mjk1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/YWSDOFcNReZfTlfjOUfOAxbmCF4n6aw2Sza-2XoLh8s/rs:fit/g:sm/q:90/h:303/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDQ1NjAz/Mi04Mjk1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/ATL52UYq0wHqp-53L_zko12aM6lZNgpEI4l3xPKMyDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDQ1NjAz/Mi04Mjk1LmpwZWc.jpeg",
+      "width": 600,
+      "height": 303
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/XLrlaiOCzI1HcSxatUlLS13jjIZE5cbbr4kObV1Q8yI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDQ1NjAz/MS0zMjAxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/XLrlaiOCzI1HcSxatUlLS13jjIZE5cbbr4kObV1Q8yI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDQ1NjAz/MS0zMjAxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/usuicqhCxJ0hunXXSRWguSh37hCTKm18Ua4_6P2izEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDQ1NjAz/MS0zMjAxLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/FXZAcYInqKfP67PueE-V_wxtTkLktHVE3Cem4C0pFIE/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTUwNjkwODgx/NS0zNzM0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/FXZAcYInqKfP67PueE-V_wxtTkLktHVE3Cem4C0pFIE/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTUwNjkwODgx/NS0zNzM0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/z5tun0JQMO0OYFZLGTfkyBlI06CSHmZi_u6EETAYBvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTUwNjkwODgx/NS0zNzM0LmpwZWc.jpeg",
+      "width": 585,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/NE5HIJnNKkcYZxQ-s0NxNEO1xQhMzgbHSS2WRTktiig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzEx/NzItMTQxNDM1MDky/My03MDE1LmpwZWc.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

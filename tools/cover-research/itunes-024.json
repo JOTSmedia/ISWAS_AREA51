@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 160770980,
+      "collectionId": 1573829987,
+      "amgArtistId": 419570,
+      "artistName": "Krzysztof Komeda",
+      "collectionName": "Rosemary's Baby (Music From The Motion Picture Score)",
+      "collectionCensoredName": "Rosemary's Baby (Music From The Motion Picture Score)",
+      "artistViewUrl": "https://music.apple.com/us/artist/krzysztof-komeda/160770980?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/rosemarys-baby-music-from-the-motion-picture-score/1573829987?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b7/6f/3f/b76f3fe3-e695-136e-08b4-b0cd21df99c2/21UMGIM51545.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b7/6f/3f/b76f3fe3-e695-136e-08b4-b0cd21df99c2/21UMGIM51545.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 8.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 13,
+      "copyright": "A Geffen Records Release; ℗ 1968 UMG Recordings, Inc.",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "1968-01-01T08:00:00Z",
+      "primaryGenreName": "Soundtrack"
+    }
+  ]
+}

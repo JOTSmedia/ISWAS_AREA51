@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 897588,
+      "collectionId": 1444224860,
+      "amgArtistId": 63978,
+      "artistName": "Jay Chattaway",
+      "collectionName": "Maniac Cop 2 (Original Motion Picture Soundtrack)",
+      "collectionCensoredName": "Maniac Cop 2 (Original Motion Picture Soundtrack)",
+      "artistViewUrl": "https://music.apple.com/us/artist/jay-chattaway/897588?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/maniac-cop-2-original-motion-picture-soundtrack/1444224860?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/00/19/f1/0019f18c-84af-ac78-9930-73adcab920cd/827058900126.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/00/19/f1/0019f18c-84af-ac78-9930-73adcab920cd/827058900126.png/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 15,
+      "copyright": "℗ 2013 Blue Underground",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2013-12-03T08:00:00Z",
+      "primaryGenreName": "Soundtrack"
+    }
+  ]
+}

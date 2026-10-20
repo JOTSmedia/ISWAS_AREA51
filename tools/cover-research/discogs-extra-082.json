@@ -1,0 +1,1337 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 5,
+    "per_page": 25,
+    "items": 112,
+    "urls": {
+      "last": "https://api.discogs.com/database/search?type=release&release_title=Burial+Ground&per_page=25&page=5",
+      "next": "https://api.discogs.com/database/search?type=release&release_title=Burial+Ground&per_page=25&page=2"
+    }
+  },
+  "results": [
+    {
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Not On Label"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Heavy Metal",
+        "Thrash"
+      ],
+      "id": 28651027,
+      "barcode": [],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/28651027-Arakara-Burial-Ground",
+      "catno": "none",
+      "title": "Arakara - Burial Ground",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/28651027",
+      "community": {
+        "want": 1,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Argentina",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Del Imaginario Discos",
+        "Dynamo Records",
+        "LB Lab",
+        "Slab Sound Studio",
+        "Studio E-Factory",
+        "Studio Sainte-Marthe",
+        "Studio Sainte-Marthe",
+        "Laser Disc Argentina"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Death Metal",
+        "Thrash"
+      ],
+      "id": 19012726,
+      "barcode": [
+        "8 712725737025",
+        "72234 - LDA - INDUSTRIA ARGENTINA - 370 DI",
+        "IFPI 17A1",
+        "IFPI IR09"
+      ],
+      "master_id": 707849,
+      "master_url": "https://api.discogs.com/masters/707849",
+      "uri": "/release/19012726-Loudblast-Burial-Ground",
+      "catno": "D.I. 370",
+      "title": "Loudblast - Burial Ground",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/19012726",
+      "community": {
+        "want": 6,
+        "have": 23
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "France",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Listenable Records",
+        "LB Lab",
+        "Slab Sound Studio",
+        "Studio E-Factory",
+        "Studio Sainte-Marthe",
+        "Studio Sainte-Marthe",
+        "Sony DADC"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Death Metal",
+        "Thrash"
+      ],
+      "id": 7000816,
+      "barcode": [
+        "3 760053 842510",
+        "Sony DADC A01024611356-0101 13 A00",
+        "IFPI L553",
+        "IFPI 942L"
+      ],
+      "master_id": 707849,
+      "master_url": "https://api.discogs.com/masters/707849",
+      "uri": "/release/7000816-Loudblast-Burial-Ground",
+      "catno": "POSH251",
+      "title": "Loudblast - Burial Ground",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/7000816",
+      "community": {
+        "want": 30,
+        "have": 97
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Tour Edition + Slipcase",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2007",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Limited Edition",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Saxon Gregory Productions"
+      ],
+      "type": "release",
+      "genre": [
+        "Non-Music",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Dialogue",
+        "Movie Effects",
+        "Soundtrack"
+      ],
+      "id": 1089325,
+      "barcode": [],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/1089325-No-Artist-Burial-Ground",
+      "catno": "SGP03",
+      "title": "No Artist - Burial Ground",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/1089325",
+      "community": {
+        "want": 210,
+        "have": 71
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Limited Edition",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Germany",
+      "year": "2019",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Remastered"
+      ],
+      "label": [
+        "Century Media",
+        "Century Media Records Ltd.",
+        "Century Media Records Ltd.",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Death Metal"
+      ],
+      "id": 13674120,
+      "barcode": [
+        "0 190759 38181 6",
+        "BJ66302-01 A2 SJ =s",
+        "BJ66302-01 B2 SJ =s"
+      ],
+      "master_id": 301371,
+      "master_url": "https://api.discogs.com/masters/301371",
+      "uri": "/release/13674120-Grave-Burial-Ground",
+      "catno": "19075938181",
+      "title": "Grave (2) - Burial Ground",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/13674120",
+      "community": {
+        "want": 40,
+        "have": 282
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Third Foundation"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Halftime"
+      ],
+      "id": 32888148,
+      "barcode": [],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/32888148-Akinsa-Burial-Ground",
+      "catno": "none",
+      "title": "Akinsa - Burial Ground",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/32888148",
+      "community": {
+        "want": 0,
+        "have": 2
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "45 RPM",
+        "Album"
+      ],
+      "label": [
+        "Ruffwood Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Reggae"
+      ],
+      "style": [
+        "Dub"
+      ],
+      "id": 6268682,
+      "barcode": [
+        "PIRATES PRESS IMG00714 A 120192M1/C",
+        "PIRATES PRESS IMG00714 B 120192M2/B",
+        "PIRATES PRESS IMG00714 C 120192M3/B",
+        "PIRATES PRESS IMG00714 D 120192M4/B"
+      ],
+      "master_id": 1105366,
+      "master_url": "https://api.discogs.com/masters/1105366",
+      "uri": "/release/6268682-Stick-Figure-Burial-Ground",
+      "catno": "none",
+      "title": "Stick Figure (2) - Burial Ground",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/6268682",
+      "community": {
+        "want": 371,
+        "have": 864
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "45 RPM",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Germany",
+      "year": "2019",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Reissue",
+        "Remastered"
+      ],
+      "label": [
+        "Century Media",
+        "Century Media Records Ltd.",
+        "Century Media Records Ltd.",
+        "Optimal Media GmbH",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Death Metal"
+      ],
+      "id": 13671802,
+      "barcode": [
+        "1 90759 51391 0",
+        "IS BJ66302-01 A2 SJ",
+        "BJ66302-01 B2 SJ IS",
+        "LC06975",
+        "BIEM/GEMA"
+      ],
+      "master_id": 301371,
+      "master_url": "https://api.discogs.com/masters/301371",
+      "uri": "/release/13671802-Grave-Burial-Ground",
+      "catno": "19075938181",
+      "title": "Grave (2) - Burial Ground",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/13671802",
+      "community": {
+        "want": 26,
+        "have": 86
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Brazil",
+      "year": "2010",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Black Hole Productions",
+        "Black Hole Productions",
+        "Black Hole Productions",
+        "Ágata Tecnologia Digital Ltda",
+        "Kyrios CD Solution",
+        "WZ Studios",
+        "WZ Studios",
+        "WZ Studios",
+        "WZ Studios"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Grindcore"
+      ],
+      "id": 3513493,
+      "barcode": [
+        "['ágata' logo]tecnologia digital AGATEC- ROT-050 - BURIAL GROUND",
+        "IFPI AAQ03",
+        "AA0001000"
+      ],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/3513493-Expurgo-Burial-Ground",
+      "catno": "BHP 019",
+      "title": "Expurgo - Burial Ground",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/3513493",
+      "community": {
+        "want": 27,
+        "have": 112
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "France",
+      "year": "2014",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Listenable Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Death Metal"
+      ],
+      "id": 6093326,
+      "barcode": [
+        "Barcode: 3760053842435"
+      ],
+      "master_id": 707849,
+      "master_url": "https://api.discogs.com/masters/707849",
+      "uri": "/release/6093326-Loudblast-Burial-Ground",
+      "catno": "POSH243",
+      "title": "Loudblast - Burial Ground",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/6093326",
+      "community": {
+        "want": 41,
+        "have": 75
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2019",
+      "format": [
+        "CD",
+        "Album",
+        "Limited Edition",
+        "Numbered",
+        "Reissue",
+        "Remastered"
+      ],
+      "label": [
+        "Century Media",
+        "Century Media Records Ltd.",
+        "Century Media Records Ltd.",
+        "Grave",
+        "Sony Music Entertainment",
+        "Studio Soulless",
+        "Studio Soulless",
+        "Studio Soulless",
+        "Studio Soulless",
+        "Sony Music",
+        "Arvato"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Death Metal"
+      ],
+      "id": 13697262,
+      "barcode": [
+        "190759381724",
+        "1 90759 38172 4",
+        "LC 06975",
+        "BIEM / GEMA",
+        "[Sony Music logo] 57220333/19075938172 21",
+        "IFPI LP 73",
+        "IFPI 071Z"
+      ],
+      "master_id": 301371,
+      "master_url": "https://api.discogs.com/masters/301371",
+      "uri": "/release/13697262-Grave-Burial-Ground",
+      "catno": "19075938172",
+      "title": "Grave (2) - Burial Ground",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/13697262",
+      "community": {
+        "want": 46,
+        "have": 313
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Digipak",
+          "descriptions": [
+            "Album",
+            "Limited Edition",
+            "Numbered",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "France",
+      "year": "2014",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Listenable Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Death Metal"
+      ],
+      "id": 5876326,
+      "barcode": [
+        "3760053842435"
+      ],
+      "master_id": 707849,
+      "master_url": "https://api.discogs.com/masters/707849",
+      "uri": "/release/5876326-Loudblast-Burial-Ground",
+      "catno": "POSH243",
+      "title": "Loudblast - Burial Ground",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/5876326",
+      "community": {
+        "want": 40,
+        "have": 77
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Grey",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Sweden",
+      "year": "2010",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Regain Records",
+        "GZ Digital Media",
+        "Studio Soulless",
+        "Studio Soulless",
+        "Studio Soulless",
+        "Studio Soulless",
+        "Element Music Publishing"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Death Metal"
+      ],
+      "id": 2573922,
+      "barcode": [
+        "7 320470 125649",
+        "88818E1/A",
+        "88818E2/A"
+      ],
+      "master_id": 301371,
+      "master_url": "https://api.discogs.com/masters/301371",
+      "uri": "/release/2573922-Grave-Burial-Ground",
+      "catno": "RRLP171",
+      "title": "Grave (2) - Burial Ground",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/2573922",
+      "community": {
+        "want": 132,
+        "have": 177
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Germany",
+      "year": "2023",
+      "format": [
+        "Cassette",
+        "Album",
+        "Limited Edition",
+        "Reissue"
+      ],
+      "label": [
+        "Animate Records",
+        "Century Media",
+        "Animate Records",
+        "Studio Soulless",
+        "Studio Soulless",
+        "Studio Soulless",
+        "Studio Soulless"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Death Metal"
+      ],
+      "id": 29065159,
+      "barcode": [
+        "4 260070 631276 >"
+      ],
+      "master_id": 301371,
+      "master_url": "https://api.discogs.com/masters/301371",
+      "uri": "/release/29065159-Grave-Burial-Ground",
+      "catno": "AR 127",
+      "title": "Grave (2) - Burial Ground",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/29065159",
+      "community": {
+        "want": 6,
+        "have": 16
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "France",
+      "year": "2014",
+      "format": [
+        "CDr",
+        "Advance",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Listenable Records",
+        "LB Lab",
+        "Slab Sound Studio",
+        "Studio E-Factory",
+        "Studio Sainte-Marthe",
+        "Studio Sainte-Marthe",
+        "GZ Media",
+        "GZ Media"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Death Metal",
+        "Thrash"
+      ],
+      "id": 11383203,
+      "barcode": [
+        "3 760053 842428",
+        "[GZ logo] A41411 POSH242",
+        "IFPI LD02",
+        "IFPI 5J54"
+      ],
+      "master_id": 707849,
+      "master_url": "https://api.discogs.com/masters/707849",
+      "uri": "/release/11383203-Loudblast-Burial-Ground",
+      "catno": "posh242",
+      "title": "Loudblast - Burial Ground",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/11383203",
+      "community": {
+        "want": 4,
+        "have": 5
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Advance",
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "genre": [
+        "Reggae"
+      ],
+      "format": [
+        "CDr",
+        "Album"
+      ],
+      "style": [
+        "Reggae",
+        "Dub"
+      ],
+      "id": 20483185,
+      "label": [
+        "Amazon.com kydc"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 84501 74177 4"
+      ],
+      "master_id": 1105366,
+      "master_url": "https://api.discogs.com/masters/1105366",
+      "uri": "/release/20483185-Stick-Figure-Burial-Ground",
+      "catno": "none",
+      "title": "Stick Figure (2) - Burial Ground",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/20483185",
+      "community": {
+        "want": 5,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "genre": [
+        "Reggae"
+      ],
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "style": [
+        "Dub"
+      ],
+      "id": 29332564,
+      "label": [
+        "Ruffwood Records",
+        "Stick Figure Music",
+        "Pirates Press",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 84501 74177 4",
+        "884501741774",
+        "616948919498",
+        "616948919498",
+        "PIRATES PRESS RW 1002 A 226948E1/A",
+        "PIRATES PRESS RW 1002 B 226948E2/B",
+        "PIRATES PRESS RW 1002 C 226948E3/A",
+        "PIRATES PRESS RW 1002 D 226948E4/A",
+        "PIRATES PRESS - RW 1002 A 02437095 226948E1/A",
+        "PIRATES PRESS - RW 1002 B 02436987 226948E2/B",
+        "PIRATES PRESS - RW 1002 C 02436466 226948E3/B",
+        "PIRATES PRESS - RW 1002 D 02438670 226948E4/B"
+      ],
+      "master_id": 1105366,
+      "master_url": "https://api.discogs.com/masters/1105366",
+      "uri": "/release/29332564-Stick-Figure-Burial-Ground",
+      "catno": "RW1002",
+      "title": "Stick Figure (2) - Burial Ground",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/29332564",
+      "community": {
+        "want": 62,
+        "have": 293
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Germany",
+      "year": "2019",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Reissue",
+        "Remastered"
+      ],
+      "label": [
+        "Century Media",
+        "Optimal Media GmbH",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Death Metal"
+      ],
+      "id": 13671738,
+      "barcode": [
+        "190759501214",
+        "BJ66302-01 A2 SJ",
+        "BJ66302-01 B2 SJ"
+      ],
+      "master_id": 301371,
+      "master_url": "https://api.discogs.com/masters/301371",
+      "uri": "/release/13671738-Grave-Burial-Ground",
+      "catno": "19075938181",
+      "title": "Grave (2) - Burial Ground",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/13671738",
+      "community": {
+        "want": 24,
+        "have": 46
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Germany",
+      "year": "2019",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Reissue",
+        "Remastered"
+      ],
+      "label": [
+        "Century Media",
+        "Century Media Records Ltd.",
+        "Century Media Records Ltd.",
+        "Optimal Media GmbH",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Death Metal"
+      ],
+      "id": 13723135,
+      "barcode": [
+        "1 90759 50131 3",
+        "IS BJ66302-01 A2 SJ",
+        "BJ66302-01 B2 SJ IS",
+        "LC06975",
+        "BIEM/GEMA"
+      ],
+      "master_id": 301371,
+      "master_url": "https://api.discogs.com/masters/301371",
+      "uri": "/release/13723135-Grave-Burial-Ground",
+      "catno": "19075938181",
+      "title": "Grave (2) - Burial Ground",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/13723135",
+      "community": {
+        "want": 37,
+        "have": 74
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Orange",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Norway",
+      "year": "1994",
+      "format": [
+        "Cassette"
+      ],
+      "label": [
+        "Not On Label (Morbidity (7) Self-released)"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Death Metal"
+      ],
+      "id": 25052041,
+      "barcode": [],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/25052041-Morbidity-Burial-Ground",
+      "catno": "none",
+      "title": "Morbidity (7) - Burial Ground",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/25052041",
+      "community": {
+        "want": 8,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1"
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2010",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Regain Records",
+        "Regain Records LTD.",
+        "Regain Records LTD.",
+        "Regain Records And Entertainment, LLC.",
+        "Regain Records And Entertainment, LLC.",
+        "Regain Records And Entertainment, LLC.",
+        "Regain Records And Entertainment, LLC.",
+        "Regain Records And Entertainment, LLC.",
+        "Studio Soulless",
+        "Studio Soulless",
+        "Studio Soulless",
+        "Studio Soulless",
+        "Element Music Publishing",
+        "Magic Arts Publishing",
+        "PLAY-IT Productions"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Death Metal"
+      ],
+      "id": 3725653,
+      "barcode": [
+        "7 320470 125571",
+        "7320470125571",
+        "<59912> PLAY-IT PRODUCTIONS REG-CD9038 CCMUS59912/B S1",
+        "IFPI LM07",
+        "IFPI F921"
+      ],
+      "master_id": 301371,
+      "master_url": "https://api.discogs.com/masters/301371",
+      "uri": "/release/3725653-Grave-Burial-Ground",
+      "catno": "REG-CD-9038",
+      "title": "Grave (2) - Burial Ground",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/3725653",
+      "community": {
+        "want": 58,
+        "have": 128
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Spain",
+      "year": "2015",
+      "format": [
+        "File",
+        "MP3"
+      ],
+      "label": [
+        "Larouge Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Techno"
+      ],
+      "id": 8595913,
+      "barcode": [],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/8595913-Evil-Modem-Burial-Ground",
+      "catno": "LR114",
+      "title": "Evil Modem - Burial Ground",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/8595913",
+      "community": {
+        "want": 1,
+        "have": 0
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "3",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Sweden",
+      "year": "2010",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Regain Records",
+        "Studio Soulless",
+        "Studio Soulless",
+        "Studio Soulless",
+        "Studio Soulless",
+        "Magic Arts Publishing",
+        "Sony DADC",
+        "Element Music Publishing",
+        "Twilight13Media"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Death Metal"
+      ],
+      "id": 2367188,
+      "barcode": [
+        "7 320470 125571",
+        "7320470125571",
+        "Sony DADC A0101604744-0101 11 A00",
+        "IFPI L551",
+        "IFPI 94V5",
+        "B003JTFXTM"
+      ],
+      "master_id": 301371,
+      "master_url": "https://api.discogs.com/masters/301371",
+      "uri": "/release/2367188-Grave-Burial-Ground",
+      "catno": "RR 171",
+      "title": "Grave (2) - Burial Ground",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/2367188",
+      "community": {
+        "want": 78,
+        "have": 485
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Slipcase",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Russia",
+      "year": "2010",
+      "format": [
+        "CD",
+        "Album",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Regain Records",
+        "Sony DADC",
+        "Twilight13Media"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Death Metal"
+      ],
+      "id": 7505387,
+      "barcode": [
+        "Sony DADC A0101604744-0101 11 A00",
+        "7 320470 125571"
+      ],
+      "master_id": 301371,
+      "master_url": "https://api.discogs.com/masters/301371",
+      "uri": "/release/7505387-Grave-Burial-Ground",
+      "catno": "RR 171",
+      "title": "Grave (2) - Burial Ground",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/7505387",
+      "community": {
+        "want": 11,
+        "have": 26
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "File",
+        "MP3",
+        "Single"
+      ],
+      "label": [
+        "Y.A.B.B. Records",
+        "Y.A.B.B. Records",
+        "Y.A.B.B. Records",
+        "Thirty Tigers",
+        "Thirty Tigers"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock"
+      ],
+      "id": 30002356,
+      "barcode": [],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/30002356-The-Decemberists-Burial-Ground",
+      "catno": "none",
+      "title": "The Decemberists - Burial Ground",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/30002356",
+      "community": {
+        "want": 0,
+        "have": 3
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "descriptions": [
+            "MP3",
+            "Single"
+          ]
+        }
+      ]
+    }
+  ]
+}

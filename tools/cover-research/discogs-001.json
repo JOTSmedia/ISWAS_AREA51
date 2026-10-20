@@ -1,0 +1,577 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 9,
+    "per_page": 10,
+    "items": 90,
+    "urls": {
+      "last": "https://api.discogs.com/database/search?type=release&release_title=Suspiria&artist=Goblin&per_page=10&page=9",
+      "next": "https://api.discogs.com/database/search?type=release&release_title=Suspiria&artist=Goblin&per_page=10&page=2"
+    }
+  },
+  "results": [
+    {
+      "country": "Worldwide",
+      "year": "2010",
+      "format": [
+        "File",
+        "MP3",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Cinevox Record",
+        "Cinevox",
+        "Cinevox"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score",
+        "Prog Rock"
+      ],
+      "id": 28764763,
+      "barcode": [
+        "B003YQP264"
+      ],
+      "master_id": 14172,
+      "master_url": "https://api.discogs.com/masters/14172",
+      "uri": "/release/28764763-Goblin-Suspiria",
+      "catno": "none",
+      "title": "Goblin - Suspiria",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/28764763",
+      "community": {
+        "want": 21,
+        "have": 3
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "VBR",
+          "descriptions": [
+            "MP3",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Italy",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Record Store Day",
+        "Reissue"
+      ],
+      "label": [
+        "AMS Records",
+        "Cinevox Record",
+        "Cinevox Record",
+        "Edizioni Bixio C.e.m.s.a."
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Prog Rock",
+        "Experimental"
+      ],
+      "id": 8382745,
+      "barcode": [
+        "8016158450347",
+        "S.I.A.E.",
+        "AMS4503 A",
+        "AMS4503 B"
+      ],
+      "master_id": 251371,
+      "master_url": "https://api.discogs.com/masters/251371",
+      "uri": "/release/8382745-Goblin-Suspiria",
+      "catno": "AMS 4503",
+      "title": "Goblin - Suspiria",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/8382745",
+      "community": {
+        "want": 291,
+        "have": 544
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Purple",
+          "descriptions": [
+            "7\"",
+            "45 RPM",
+            "Record Store Day",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "France",
+      "year": "1977",
+      "format": [
+        "Cassette",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Barclay"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score",
+        "Experimental",
+        "Prog Rock"
+      ],
+      "id": 11304155,
+      "barcode": [],
+      "master_id": 14172,
+      "master_url": "https://api.discogs.com/masters/14172",
+      "uri": "/release/11304155-Goblin-Suspiria",
+      "catno": "4-900 540",
+      "title": "Goblin - Suspiria",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/11304155",
+      "community": {
+        "want": 154,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Turkey",
+      "year": "1977",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Stereo"
+      ],
+      "label": [
+        "Cinevox Record",
+        "Z",
+        "Z Records",
+        "Edizioni Bixio C.e.m.s.a."
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Experimental",
+        "Prog Rock"
+      ],
+      "id": 2283527,
+      "barcode": [],
+      "master_id": 251371,
+      "master_url": "https://api.discogs.com/masters/251371",
+      "uri": "/release/2283527-Goblin-Suspiria",
+      "catno": "MDF 107",
+      "title": "Goblin - Suspiria",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/2283527",
+      "community": {
+        "want": 190,
+        "have": 32
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "7\"",
+            "45 RPM",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Greece",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Numbered",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Midnight Express Records",
+        "Cinevox Record",
+        "AMS Records",
+        "Orthophonic Recording Studio, Roma"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score",
+        "Experimental",
+        "Prog Rock"
+      ],
+      "id": 20874895,
+      "barcode": [],
+      "master_id": 14172,
+      "master_url": "https://api.discogs.com/masters/14172",
+      "uri": "/release/20874895-Goblin-Suspiria-",
+      "catno": "MIDNIGHT 001",
+      "title": "Goblin - Suspiria ",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/20874895",
+      "community": {
+        "want": 183,
+        "have": 48
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Italy",
+      "year": "2019",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Numbered",
+        "Reissue",
+        "Special Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Cinevox Record",
+        "Cinevox Record",
+        "Edizioni Bixio C.e.m.s.a.",
+        "Orthophonic Recording Studio, Roma",
+        "Cutting & Galvanoforming"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score",
+        "Experimental",
+        "Prog Rock"
+      ],
+      "id": 13717758,
+      "barcode": [
+        "S.I.A.E.",
+        "AMSLPN A C&G",
+        "AMSLPN B C&G"
+      ],
+      "master_id": 14172,
+      "master_url": "https://api.discogs.com/masters/14172",
+      "uri": "/release/13717758-Goblin-Suspiria",
+      "catno": "AMS LP 11",
+      "title": "Goblin - Suspiria",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/13717758",
+      "community": {
+        "want": 282,
+        "have": 7
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered",
+            "Reissue",
+            "Special Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Italy",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Record Store Day"
+      ],
+      "label": [
+        "AMS Records",
+        "Bixio C.e.m.s.a. Srl",
+        "Orthophonic Recording Studio, Roma"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score",
+        "Experimental",
+        "Prog Rock"
+      ],
+      "id": 8397035,
+      "barcode": [
+        "MDF 33 / 108 / 1",
+        "MDF 33 / 108 / 2",
+        "MDF-33-108-A RR",
+        "MDF-33-108-B RR",
+        "S.I.A.E."
+      ],
+      "master_id": 14172,
+      "master_url": "https://api.discogs.com/masters/14172",
+      "uri": "/release/8397035-Goblin-Suspiria",
+      "catno": "AMS 4503",
+      "title": "Goblin - Suspiria",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/8397035",
+      "community": {
+        "want": 310,
+        "have": 34
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Record Store Day"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "2014",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue",
+        "Remastered"
+      ],
+      "label": [
+        "Rambling Records",
+        "サウンドトラック傑作選50 DSD Remastering Collection"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score",
+        "Prog Rock"
+      ],
+      "id": 7602557,
+      "barcode": [
+        "4545933128163"
+      ],
+      "master_id": 14172,
+      "master_url": "https://api.discogs.com/masters/14172",
+      "uri": "/release/7602557-Goblin-Suspiria",
+      "catno": "RBCP-2816",
+      "title": "Goblin - Suspiria",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/7602557",
+      "community": {
+        "want": 180,
+        "have": 19
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "France",
+      "year": "2007",
+      "format": [
+        "CD"
+      ],
+      "label": [
+        "Wild Side Video"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score",
+        "Experimental",
+        "Prog Rock"
+      ],
+      "id": 20734450,
+      "barcode": [
+        "3 700301 013873"
+      ],
+      "master_id": 14172,
+      "master_url": "https://api.discogs.com/masters/14172",
+      "uri": "/release/20734450-Goblin-Suspiria-",
+      "catno": "none",
+      "title": "Goblin - Suspiria ",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/20734450",
+      "community": {
+        "want": 66,
+        "have": 4
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1"
+        }
+      ]
+    },
+    {
+      "country": "Italy",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "AMS Records",
+        "Cinevox Record",
+        "BTF srl"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score",
+        "Prog Rock"
+      ],
+      "id": 31175407,
+      "barcode": [
+        "8 004644 011110",
+        "8004644011110",
+        "AMSLP11 A",
+        "AMSLP11 B",
+        "S.I.A.E."
+      ],
+      "master_id": 14172,
+      "master_url": "https://api.discogs.com/masters/14172",
+      "uri": "/release/31175407-Goblin-Suspiria",
+      "catno": "LP OST 042-BI",
+      "title": "Goblin - Suspiria",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/31175407",
+      "community": {
+        "want": 162,
+        "have": 214
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue Iris, Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    }
+  ]
+}

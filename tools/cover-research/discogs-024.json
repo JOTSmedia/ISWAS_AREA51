@@ -1,0 +1,577 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 4,
+    "per_page": 10,
+    "items": 35,
+    "urls": {
+      "last": "https://api.discogs.com/database/search?type=release&release_title=Rosemary%27s+Baby&artist=Krzysztof+Komeda&per_page=10&page=4",
+      "next": "https://api.discogs.com/database/search?type=release&release_title=Rosemary%27s+Baby&artist=Krzysztof+Komeda&per_page=10&page=2"
+    }
+  },
+  "results": [
+    {
+      "country": "UK",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "EP",
+        "Limited Edition"
+      ],
+      "label": [
+        "Harkit Records",
+        "Tall Order Mastering"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Soundtrack"
+      ],
+      "id": 11024354,
+      "barcode": [
+        "5055055905010",
+        "5 055055 905010 >",
+        "HRKEP 8501-A1",
+        "HRKEP 8501-B1",
+        "HRKEP 8501A",
+        "HRKEP 8501B",
+        "LC 25076"
+      ],
+      "master_id": 1254455,
+      "master_url": "https://api.discogs.com/masters/1254455",
+      "uri": "/release/11024354-Krzysztof-Komeda-Rosemarys-Baby",
+      "catno": "HRKEP 8501",
+      "title": "Krzysztof Komeda - Rosemary's Baby",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/11024354",
+      "community": {
+        "want": 46,
+        "have": 48
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red",
+          "descriptions": [
+            "7\"",
+            "EP",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2014",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "EP",
+        "Limited Edition"
+      ],
+      "label": [
+        "Harkit Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Soundtrack"
+      ],
+      "id": 11248424,
+      "barcode": [
+        "5055055905010",
+        "5 055055 905010 >",
+        "HRKEP 8501-A",
+        "HRKEP 8501-B",
+        "HRKEP 8501A",
+        "HRKEP 8501B",
+        "LC 25076"
+      ],
+      "master_id": 1254455,
+      "master_url": "https://api.discogs.com/masters/1254455",
+      "uri": "/release/11248424-Krzysztof-Komeda-Rosemarys-Baby",
+      "catno": "HRKEP 8501",
+      "title": "Krzysztof Komeda - Rosemary's Baby",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/11248424",
+      "community": {
+        "want": 34,
+        "have": 27
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "7\"",
+            "EP",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2014",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "EP",
+        "Limited Edition"
+      ],
+      "label": [
+        "Harkit Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Soundtrack"
+      ],
+      "id": 5664354,
+      "barcode": [
+        "5055055905010",
+        "5 055055 905010 >",
+        "HRKEP 8501-A",
+        "HRKEP 8501-B",
+        "HRKEP 8501A",
+        "HRKEP 8501B",
+        "LC 25076"
+      ],
+      "master_id": 1254455,
+      "master_url": "https://api.discogs.com/masters/1254455",
+      "uri": "/release/5664354-Krzysztof-Komeda-Rosemarys-Baby",
+      "catno": "HRKEP 8501",
+      "title": "Krzysztof Komeda - Rosemary's Baby",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/5664354",
+      "community": {
+        "want": 73,
+        "have": 66
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "7\"",
+            "EP",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2005",
+      "format": [
+        "CD",
+        "Album",
+        "Remastered"
+      ],
+      "label": [
+        "Harkit Records",
+        "Harkit Entertainment Ltd.",
+        "Harkit Entertainment Ltd.",
+        "Universal Music Publishing Ltd.",
+        "Bluecrest",
+        "CDI Ltd."
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score"
+      ],
+      "id": 23565287,
+      "barcode": [
+        "5 055055 901357",
+        "MCPS",
+        "AAD",
+        "FZGS",
+        "BC7965 D1 3150896",
+        "IFPI LB82",
+        "IFPI 5F32"
+      ],
+      "master_id": 320200,
+      "master_url": "https://api.discogs.com/masters/320200",
+      "uri": "/release/23565287-Krzysztof-Komeda-Rosemarys-Baby-Original-Soundtrack",
+      "catno": "HRKCD8135",
+      "title": "Krzysztof Komeda - Rosemary's Baby (Original Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/23565287",
+      "community": {
+        "want": 30,
+        "have": 8
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2005",
+      "format": [
+        "CD",
+        "Album",
+        "Remastered"
+      ],
+      "label": [
+        "Harkit Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Jazz",
+        "Classical",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 3114769,
+      "barcode": [
+        "5 055055 901357"
+      ],
+      "master_id": 320200,
+      "master_url": "https://api.discogs.com/masters/320200",
+      "uri": "/release/3114769-Krzysztof-Komeda-Rosemarys-Baby-Original-Soundtrack",
+      "catno": "HRKCD8135",
+      "title": "Krzysztof Komeda - Rosemary's Baby (Original Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/3114769",
+      "community": {
+        "want": 98,
+        "have": 111
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Poland",
+      "year": "1998",
+      "format": [
+        "CD",
+        "Compilation"
+      ],
+      "label": [
+        "Polonia Records",
+        "The Complete Recordings Of Krzysztof Komeda",
+        "Polonia Records",
+        "Polonia Distribution Co.",
+        "Independent Masters Ltd",
+        "Megaus"
+      ],
+      "type": "release",
+      "genre": [
+        "Classical",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Score",
+        "Soundtrack"
+      ],
+      "id": 2534179,
+      "barcode": [
+        "MEGAUS CDEX 160/MEG 1897 8091820",
+        "IFPI L055",
+        "IFPI 5EM1"
+      ],
+      "master_id": 1733998,
+      "master_url": "https://api.discogs.com/masters/1733998",
+      "uri": "/release/2534179-Krzysztof-Komeda-Film-Music-Rosemarys-Baby-Vampire-Killers",
+      "catno": "POLONIA CD 160",
+      "title": "Krzysztof Komeda - Film Music: Rosemary's Baby / Vampire Killers",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/2534179",
+      "community": {
+        "want": 19,
+        "have": 116
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Compilation"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album",
+        "Limited Edition",
+        "Reissue",
+        "Remastered"
+      ],
+      "label": [
+        "La-La Land Records",
+        "Paramount Pictures",
+        "Paramount Pictures",
+        "Universal Music Enterprises",
+        "La-La Land Records, Inc.",
+        "Samuel Goldwyn Studio",
+        "Western Recorders",
+        "Annex Recording Studios",
+        "Precision Audiosonics",
+        "Mulholland Music",
+        "Warm Butter Design",
+        "Sony/ATV Harmony",
+        "Sony DADC, Terre Haute",
+        "Sony DADC, Terre Haute"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Score",
+        "Soundtrack"
+      ],
+      "id": 3594046,
+      "barcode": [
+        "826924121023",
+        "DIDX-810970 1",
+        "IFPI L328",
+        "IFPI 50A0"
+      ],
+      "master_id": 320200,
+      "master_url": "https://api.discogs.com/masters/320200",
+      "uri": "/release/3594046-Christopher-Komeda-Rosemarys-Baby-Music-From-The-Motion-Picture",
+      "catno": "LLLCD 1210",
+      "title": "Christopher Komeda* - Rosemary's Baby (Music From The Motion Picture)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/3594046",
+      "community": {
+        "want": 159,
+        "have": 236
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Expanded Edition",
+          "descriptions": [
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2014",
+      "format": [
+        "Vinyl",
+        "LP",
+        "45 RPM",
+        "Album",
+        "Limited Edition",
+        "Reissue",
+        "Remastered"
+      ],
+      "label": [
+        "Waxwork Records",
+        "Paramount Pictures",
+        "Paramount Pictures",
+        "Sony/ATV Harmony",
+        "Samuel Goldwyn Studio"
+      ],
+      "type": "release",
+      "genre": [
+        "Jazz",
+        "Classical",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 5326769,
+      "barcode": [
+        "ASCAP"
+      ],
+      "master_id": 320200,
+      "master_url": "https://api.discogs.com/masters/320200",
+      "uri": "/release/5326769-Christopher-Komeda-Rosemarys-Baby-Music-From-The-Motion-Picture",
+      "catno": "WW002",
+      "title": "Christopher Komeda* - Rosemary's Baby (Music From The Motion Picture)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/5326769",
+      "community": {
+        "want": 300,
+        "have": 465
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Frosted Clear, 180 Gram",
+          "descriptions": [
+            "LP",
+            "45 RPM",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "Cassette",
+        "Album",
+        "Club Edition",
+        "Reissue"
+      ],
+      "label": [
+        "Terror Vision",
+        "Terror Vision Cassette Club",
+        "Paramount Pictures",
+        "Paramount Pictures",
+        "Samuel Goldwyn Studio",
+        "Sony/ATV Harmony",
+        "Graveface Distribution"
+      ],
+      "type": "release",
+      "genre": [
+        "Jazz",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 28449376,
+      "barcode": [
+        "ASCAP"
+      ],
+      "master_id": 320200,
+      "master_url": "https://api.discogs.com/masters/320200",
+      "uri": "/release/28449376-Christopher-Komeda-Rosemarys-Baby-Music-From-The-Motion-Picture",
+      "catno": "T.V.037",
+      "title": "Christopher Komeda* - Rosemary's Baby (Music From The Motion Picture)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/28449376",
+      "community": {
+        "want": 27,
+        "have": 45
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Club Edition",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "Cassette",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Terror Vision",
+        "Paramount Pictures",
+        "Paramount Pictures",
+        "Samuel Goldwyn Studio",
+        "Sony/ATV Harmony",
+        "Graveface Distribution"
+      ],
+      "type": "release",
+      "genre": [
+        "Jazz",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 28861402,
+      "barcode": [
+        "ASCAP"
+      ],
+      "master_id": 320200,
+      "master_url": "https://api.discogs.com/masters/320200",
+      "uri": "/release/28861402-Christopher-Komeda-Rosemarys-Baby-Music-From-The-Motion-Picture",
+      "catno": "T.V.037",
+      "title": "Christopher Komeda* - Rosemary's Baby (Music From The Motion Picture)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/28861402",
+      "community": {
+        "want": 24,
+        "have": 12
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "text": "Gray Shell",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    }
+  ]
+}

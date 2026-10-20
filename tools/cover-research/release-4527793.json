@@ -1,0 +1,361 @@
+{
+  "id": 4527793,
+  "status": "Accepted",
+  "year": 2012,
+  "resource_url": "https://api.discogs.com/releases/4527793",
+  "uri": "https://www.discogs.com/release/4527793-Rob-Maniac-Original-Motion-Picture-Soundtrack",
+  "artists": [
+    {
+      "name": "Rob",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 2275,
+      "resource_url": "https://api.discogs.com/artists/2275",
+      "thumbnail_url": "https://i.discogs.com/1CJHAEMSd6xcnwJA5xWET_phqkZOq8T0wrbFnUO2FOU/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIyNzUt/MTc1OTAxMjYyMC0x/OTQyLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Rob",
+  "labels": [
+    {
+      "name": "Hamburger Records",
+      "catno": "none",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 31497,
+      "resource_url": "https://api.discogs.com/labels/31497",
+      "thumbnail_url": "https://i.discogs.com/LdJnBSOgmgJtAwQkR7Hj3PSNe3Nj3xuIRrFEcg7HQj8/rs:fit/g:sm/q:90/h:600/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxNDk3/LTE0NjY1ODgxNDIt/MjcwOC5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 81,
+    "want": 168,
+    "rating": {
+      "count": 13,
+      "average": 4.85
+    },
+    "submitter": {
+      "username": "buddy.satan",
+      "resource_url": "https://api.discogs.com/users/buddy.satan"
+    },
+    "contributors": [
+      {
+        "username": "buddy.satan",
+        "resource_url": "https://api.discogs.com/users/buddy.satan"
+      },
+      {
+        "username": "technikrad",
+        "resource_url": "https://api.discogs.com/users/technikrad"
+      },
+      {
+        "username": "dark.prince",
+        "resource_url": "https://api.discogs.com/users/dark.prince"
+      },
+      {
+        "username": "Boisvilliers",
+        "resource_url": "https://api.discogs.com/users/Boisvilliers"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2013-05-01T09:43:23-07:00",
+  "date_changed": "2024-10-09T14:38:52-07:00",
+  "num_for_sale": 0,
+  "lowest_price": null,
+  "master_id": 568068,
+  "master_url": "https://api.discogs.com/masters/568068",
+  "title": "Maniac (Original Motion Picture Soundtrack)",
+  "country": "France",
+  "released": "2012",
+  "released_formatted": "2012",
+  "identifiers": [],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=tmzCtnRD0Mw",
+      "title": "Maniac - Doll",
+      "description": "Maniac 2012 (original motion picture soundtrack) By ROB",
+      "duration": 108,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=S4eooP5Ouz4",
+      "title": "Rob - Haunted (from \"Maniac\" OST)",
+      "description": "✔ Subscribe to Movie Music Club → http://bit.ly/1Sb2dFX\n⇓ Download full original soundtrack → https://itunes.apple.com/album/id969525713&app=itunes&ls=1\n♫ Listen to FULL SOUNDTRACK → https://www.youtube.com/watch?v=u0mpJoCl_k4&list=PLvOU2OeQiM",
+      "duration": 221,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=r0OuOpW2IE8",
+      "title": "Rob - Double Trouble (from \"Maniac\" OST)",
+      "description": "✔ Subscribe to Movie Music Club → http://bit.ly/1Sb2dFX\n⇓ Download full original soundtrack → https://itunes.apple.com/album/id969525713&app=itunes&ls=1\n♫ Listen to FULL SOUNDTRACK → https://www.youtube.com/watch?v=u0mpJoCl_k4&list=PLvOU2OeQiM",
+      "duration": 63,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=36NPAfF_YSg",
+      "title": "Rob - Bells (from \"Maniac\" OST)",
+      "description": "✔ Subscribe to Movie Music Club → http://bit.ly/1Sb2dFX\n⇓ Download full original soundtrack → https://itunes.apple.com/album/id969525713&app=itunes&ls=1\n♫ Listen to FULL SOUNDTRACK → https://www.youtube.com/watch?v=u0mpJoCl_k4&list=PLvOU2OeQiM",
+      "duration": 167,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=u361iJYpLMk",
+      "title": "Rob - Haunted Piano (from \"Maniac\" OST)",
+      "description": "✔ Subscribe to Movie Music Club → http://bit.ly/1Sb2dFX\n⇓ Download full original soundtrack → https://itunes.apple.com/album/id969525713&app=itunes&ls=1\n♫ Listen to FULL SOUNDTRACK → https://www.youtube.com/watch?v=u0mpJoCl_k4&list=PLvOU2OeQiM",
+      "duration": 96,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=63BOCcR4OOo",
+      "title": "Rob - Headache (from \"Maniac\" OST)",
+      "description": "✔ Subscribe to Movie Music Club → http://bit.ly/1Sb2dFX\n⇓ Download full original soundtrack → https://itunes.apple.com/album/id969525713&app=itunes&ls=1\n♫ Listen to FULL SOUNDTRACK → https://www.youtube.com/watch?v=u0mpJoCl_k4&list=PLvOU2OeQiM",
+      "duration": 235,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=uJGfJkIXW7M",
+      "title": "Rob - Floor Light (from \"Maniac\" OST)",
+      "description": "✔ Subscribe to Movie Music Club → http://bit.ly/1Sb2dFX\n⇓ Download full original soundtrack → https://itunes.apple.com/album/id969525713&app=itunes&ls=1\n♫ Listen to FULL SOUNDTRACK → https://www.youtube.com/watch?v=u0mpJoCl_k4&list=PLvOU2OeQiM",
+      "duration": 70,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=BgiCqO-yTt8",
+      "title": "Rob - Haunted Sequence (from \"Maniac\" OST)",
+      "description": "✔ Subscribe to Movie Music Club → http://bit.ly/1Sb2dFX\n⇓ Download full original soundtrack → https://itunes.apple.com/album/id969525713&app=itunes&ls=1\n♫ Listen to FULL SOUNDTRACK → https://www.youtube.com/watch?v=u0mpJoCl_k4&list=PLvOU2OeQiM",
+      "duration": 192,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=CR3ZNP-rFiQ",
+      "title": "Rob - Slow Machine (from \"Maniac\" OST)",
+      "description": "✔ Subscribe to Movie Music Club → http://bit.ly/1Sb2dFX\n⇓ Download full original soundtrack → https://itunes.apple.com/album/id969525713&app=itunes&ls=1\n♫ Listen to FULL SOUNDTRACK → https://www.youtube.com/watch?v=u0mpJoCl_k4&list=PLvOU2OeQiM",
+      "duration": 83,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=lzsr1MhXKoI",
+      "title": "Rob - Floor (from \"Maniac\" OST)",
+      "description": "✔ Subscribe to Movie Music Club → http://bit.ly/1Sb2dFX\n⇓ Download full original soundtrack → https://itunes.apple.com/album/id969525713&app=itunes&ls=1\n♫ Listen to FULL SOUNDTRACK → https://www.youtube.com/watch?v=u0mpJoCl_k4&list=PLvOU2OeQiM",
+      "duration": 73,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=B-hKWBlHKPQ",
+      "title": "Rob - Headache City (from \"Maniac\" OST)",
+      "description": "✔ Subscribe to Movie Music Club → http://bit.ly/1Sb2dFX\n⇓ Download full original soundtrack → https://itunes.apple.com/album/id969525713&app=itunes&ls=1\n♫ Listen to FULL SOUNDTRACK → https://www.youtube.com/watch?v=u0mpJoCl_k4&list=PLvOU2OeQiM",
+      "duration": 118,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=JlznLFRzcb4",
+      "title": "Rob - Wedding Maze (from \"Maniac\" OST)",
+      "description": "✔ Subscribe to Movie Music Club → http://bit.ly/1Sb2dFX\n⇓ Download full original soundtrack → https://itunes.apple.com/album/id969525713&app=itunes&ls=1\n♫ Listen to FULL SOUNDTRACK → https://www.youtube.com/watch?v=u0mpJoCl_k4&list=PLvOU2OeQiM",
+      "duration": 225,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=EGkzk8bF2v4",
+      "title": "Rob - Haunted (Alternate Version) (from \"Maniac\" OST)",
+      "description": "✔ Subscribe to Movie Music Club → http://bit.ly/1Sb2dFX\n⇓ Download full original soundtrack → https://itunes.apple.com/album/id969525713&app=itunes&ls=1\n♫ Listen to FULL SOUNDTRACK → https://www.youtube.com/watch?v=u0mpJoCl_k4&list=PLvOU2OeQiM",
+      "duration": 127,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5icYouYKoMw",
+      "title": "Rob - Boum (from \"Maniac\" OST)",
+      "description": "✔ Subscribe to Movie Music Club → http://bit.ly/1Sb2dFX\n⇓ Download full original soundtrack → https://itunes.apple.com/album/id969525713&app=itunes&ls=1\n♫ Listen to FULL SOUNDTRACK → https://www.youtube.com/watch?v=u0mpJoCl_k4&list=PLvOU2OeQiM",
+      "duration": 59,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=oHFCOWIxPeQ",
+      "title": "Rob - Juno (feat. Chloë Alper) (from \"Maniac\" OST)",
+      "description": "✔ Subscribe to Movie Music Club → http://bit.ly/1Sb2dFX\n⇓ Download full original soundtrack → https://itunes.apple.com/album/id969525713&app=itunes&ls=1\n♫ Listen to FULL SOUNDTRACK → https://www.youtube.com/watch?v=u0mpJoCl_k4&list=PLvOU2OeQiM",
+      "duration": 206,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=pHoXzjJaykY",
+      "title": "Rob — Maniac (Death Waltz Recording Company, 12\" Frosted Clear Vinyl, 2014)",
+      "description": "As is with many genre scores of recent times, Rob's score is heavily indebted to the synth sounds of the '80s. It's a really striking piece of work, absolutely grimy and sleazy and appropriately murderous, but with a real sense of melody.\n\n00:00 Doll\n01:4",
+      "duration": 2124,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Stage & Screen"
+  ],
+  "styles": [
+    "Electro",
+    "Soundtrack"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Doll",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Haunted",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Double Trouble",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Bells",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Haunted Piano",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Headache",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "Floor Light",
+      "duration": ""
+    },
+    {
+      "position": "A8",
+      "type_": "track",
+      "title": "Haunted Sequence",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Slow Machine",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Floor ",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Maze",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Headache City",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Wedding Maze",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Haunted (Alternative Version)",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "title": "Boum",
+      "duration": ""
+    },
+    {
+      "position": "B8",
+      "type_": "track",
+      "title": "Juno",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/1mJnUdOdbJ4d16WYLihFUSxJH3g1Tx46y2rn22BIecw/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjc3/OTMtMTM2Nzc3MDI5/Ni00MzIzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/1mJnUdOdbJ4d16WYLihFUSxJH3g1Tx46y2rn22BIecw/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjc3/OTMtMTM2Nzc3MDI5/Ni00MzIzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/vqnomJoE_MWG9wuruLY4XJUma34Q-Lw_dn8PMHg6p-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjc3/OTMtMTM2Nzc3MDI5/Ni00MzIzLmpwZWc.jpeg",
+      "width": 600,
+      "height": 579
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/rCF_Pu0wTcR5Z9Lbdur4rsOxPhtbJOvij40pqyRWVXY/rs:fit/g:sm/q:90/h:600/w:358/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjc3/OTMtMTM2Nzc3MDMy/Mi05MTY5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/rCF_Pu0wTcR5Z9Lbdur4rsOxPhtbJOvij40pqyRWVXY/rs:fit/g:sm/q:90/h:600/w:358/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjc3/OTMtMTM2Nzc3MDMy/Mi05MTY5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/sdKcdMJ1vEo636IAkJXXUFQLu8pQA2Qy8FSVkSEF1TU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjc3/OTMtMTM2Nzc3MDMy/Mi05MTY5LmpwZWc.jpeg",
+      "width": 358,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/1p8VIezQspj817vLN36eiNGMnCb3mKSzm13132YGxSk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjc3/OTMtMTM2Nzc3MDMx/My00NzQ5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/1p8VIezQspj817vLN36eiNGMnCb3mKSzm13132YGxSk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjc3/OTMtMTM2Nzc3MDMx/My00NzQ5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/yEkISFu7z00nH4CBvptYRIbeZc1eTeube-qYx4C7cOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjc3/OTMtMTM2Nzc3MDMx/My00NzQ5LmpwZWc.jpeg",
+      "width": 600,
+      "height": 591
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/iAcqYQ55q3wi4U0h-nCrwtj65XNcxeSXncJ-9Xmdcs8/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjc3/OTMtMTQ3NjYzMDI2/MC02MTExLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/iAcqYQ55q3wi4U0h-nCrwtj65XNcxeSXncJ-9Xmdcs8/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjc3/OTMtMTQ3NjYzMDI2/MC02MTExLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/H9Jd0GFjgyC_Mpzau7ss1IuVVkoBk66mSm7VNEB4oqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjc3/OTMtMTQ3NjYzMDI2/MC02MTExLmpwZWc.jpeg",
+      "width": 600,
+      "height": 583
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/q8S0Ccrd_E1xyWQY1vzlZGSUHTN39saepWX7LDcfUOw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjc3/OTMtMTQ3NjYzMDI2/Ni03OTA0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/q8S0Ccrd_E1xyWQY1vzlZGSUHTN39saepWX7LDcfUOw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjc3/OTMtMTQ3NjYzMDI2/Ni03OTA0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/4LqiiLy8ecMwDg5YOn-oiYDC5CnuRtAWaINuO9w_nqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjc3/OTMtMTQ3NjYzMDI2/Ni03OTA0LmpwZWc.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/-oGmJVzcgz9iUOYyGtn44HpCTKkktx1kDxdkpnjfA5s/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjc3/OTMtMTQ3NjYzMDI3/Mi03OTAzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/-oGmJVzcgz9iUOYyGtn44HpCTKkktx1kDxdkpnjfA5s/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjc3/OTMtMTQ3NjYzMDI3/Mi03OTAzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/ySGTKX0LA5UJj5xbB7sRRnuSl9C5IO1u6BUAFxafV5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjc3/OTMtMTQ3NjYzMDI3/Mi03OTAzLmpwZWc.jpeg",
+      "width": 598,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/vqnomJoE_MWG9wuruLY4XJUma34Q-Lw_dn8PMHg6p-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjc3/OTMtMTM2Nzc3MDI5/Ni00MzIzLmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

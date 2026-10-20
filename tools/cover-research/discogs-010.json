@@ -1,0 +1,533 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 4,
+    "per_page": 10,
+    "items": 32,
+    "urls": {
+      "last": "https://api.discogs.com/database/search?type=release&release_title=Film+Music&artist=Takemitsu&per_page=10&page=4",
+      "next": "https://api.discogs.com/database/search?type=release&release_title=Film+Music&artist=Takemitsu&per_page=10&page=2"
+    }
+  },
+  "results": [
+    {
+      "country": "Japan",
+      "year": "1980",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Promo",
+        "Stereo"
+      ],
+      "label": [
+        "Victor",
+        "武満徹 映画音楽 = Film Music By Toru Takemitsu",
+        "Victor Musical Industries, Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Classical"
+      ],
+      "style": [
+        "Modern Classical",
+        "Contemporary",
+        "Experimental"
+      ],
+      "id": 21010204,
+      "barcode": [
+        "JASRAC"
+      ],
+      "master_id": 2384242,
+      "master_url": "https://api.discogs.com/masters/2384242",
+      "uri": "/release/21010204-Toru-Takemitsu-Film-Music-By-Toru-Takemitsu-8",
+      "catno": "KVX-1069",
+      "title": "Toru Takemitsu - Film Music By Toru Takemitsu 8",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/21010204",
+      "community": {
+        "want": 23,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Promo",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "1980",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Promo"
+      ],
+      "label": [
+        "Victor",
+        "Victor Musical Industries, Inc.",
+        "武満徹 映画音楽 = Film Music By Toru Takemitsu"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Classical"
+      ],
+      "style": [
+        "Modern Classical",
+        "Contemporary",
+        "Experimental"
+      ],
+      "id": 15667514,
+      "barcode": [],
+      "master_id": 1811096,
+      "master_url": "https://api.discogs.com/masters/1811096",
+      "uri": "/release/15667514-Toru-Takemitsu-Film-Music-By-Toru-Takemitsu-6",
+      "catno": "KVX-1067",
+      "title": "Toru Takemitsu - Film Music By Toru Takemitsu 6",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/15667514",
+      "community": {
+        "want": 30,
+        "have": 3
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "1980",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Promo"
+      ],
+      "label": [
+        "Victor",
+        "Victor Musical Industries, Inc.",
+        "Victor Musical Industries, Inc.",
+        "武満徹 映画音楽 = Film Music By Toru Takemitsu"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Classical"
+      ],
+      "style": [
+        "Modern Classical",
+        "Contemporary",
+        "Experimental"
+      ],
+      "id": 20651203,
+      "barcode": [],
+      "master_id": 2344051,
+      "master_url": "https://api.discogs.com/masters/2344051",
+      "uri": "/release/20651203-Toru-Takemitsu-Film-Music-By-Toru-Takemitsu-7",
+      "catno": "KVX-1068",
+      "title": "Toru Takemitsu - Film Music By Toru Takemitsu 7",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/20651203",
+      "community": {
+        "want": 25,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "1980",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Promo"
+      ],
+      "label": [
+        "Victor",
+        "Victor Musical Industries, Inc.",
+        "武満徹 映画音楽 = Film Music By Toru Takemitsu"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Classical"
+      ],
+      "style": [
+        "Modern Classical",
+        "Contemporary",
+        "Experimental"
+      ],
+      "id": 14841879,
+      "barcode": [],
+      "master_id": 1689322,
+      "master_url": "https://api.discogs.com/masters/1689322",
+      "uri": "/release/14841879-Toru-Takemitsu-Film-Music-By-Toru-Takemitsu-5",
+      "catno": "KVX-1066",
+      "title": "Toru Takemitsu - Film Music By Toru Takemitsu 5",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/14841879",
+      "community": {
+        "want": 32,
+        "have": 4
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "1990",
+      "format": [
+        "CD"
+      ],
+      "label": [
+        "JVC"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 5202127,
+      "barcode": [
+        "VICG-5124",
+        "4988002223268"
+      ],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/5202127-Toru-Takemitsu-Film-Music-By-Toru-Takemitsu-1",
+      "catno": "VICG-5124",
+      "title": "Toru Takemitsu - Film Music By Toru Takemitsu 1",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/5202127",
+      "community": {
+        "want": 68,
+        "have": 35
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1"
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "1980",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Promo",
+        "Stereo"
+      ],
+      "label": [
+        "Victor",
+        "Victor Musical Industries, Inc.",
+        "Victor Musical Industries, Inc.",
+        "武満徹 映画音楽 = Film Music By Toru Takemitsu"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Classical"
+      ],
+      "style": [
+        "Modern Classical",
+        "Contemporary",
+        "Experimental"
+      ],
+      "id": 20658610,
+      "barcode": [
+        "JASRAC",
+        "〄 Ⓑ KVX 1070A 131 ✣ Ⓓ AJ",
+        "KVX 1070B 111 ✣"
+      ],
+      "master_id": 2344795,
+      "master_url": "https://api.discogs.com/masters/2344795",
+      "uri": "/release/20658610-Toru-Takemitsu-Film-Music-By-Toru-Takemitsu-9",
+      "catno": "KVX-1070",
+      "title": "Toru Takemitsu - Film Music By Toru Takemitsu 9",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/20658610",
+      "community": {
+        "want": 50,
+        "have": 0
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Promo",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "1980",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Promo",
+        "Stereo"
+      ],
+      "label": [
+        "Victor",
+        "武満徹 映画音楽 = Film Music By Toru Takemitsu",
+        "Victor Musical Industries, Inc.",
+        "Victor Musical Industries, Inc.",
+        "Victor Company Of Japan, Ltd."
+      ],
+      "type": "release",
+      "genre": [
+        "Classical"
+      ],
+      "style": [
+        "Modern Classical",
+        "Contemporary"
+      ],
+      "id": 2307277,
+      "barcode": [
+        "JASRAC",
+        "G 〄 Ⓑ KVX 1065A Ⓢ 111 ✣ AD",
+        " KVX 1065B 111 ✣"
+      ],
+      "master_id": 4378446,
+      "master_url": "https://api.discogs.com/masters/4378446",
+      "uri": "/release/2307277-Toru-Takemitsu-Film-Music-By-Toru-Takemitsu-4",
+      "catno": "KVX-1065",
+      "title": "Toru Takemitsu - Film Music By Toru Takemitsu 4",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/2307277",
+      "community": {
+        "want": 146,
+        "have": 41
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Promo",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "1980",
+      "format": [
+        "Vinyl",
+        "LP"
+      ],
+      "label": [
+        "Victor",
+        "Victor Musical Industries, Inc.",
+        "武満徹 映画音楽 = Film Music By Toru Takemitsu"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Classical"
+      ],
+      "style": [
+        "Modern Classical",
+        "Contemporary",
+        "Experimental"
+      ],
+      "id": 2576961,
+      "barcode": [],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/2576961-Toru-Takemitsu-Film-Music-By-Toru-Takemitsu-2",
+      "catno": "KVX-1063",
+      "title": "Toru Takemitsu - Film Music By Toru Takemitsu 2",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/2576961",
+      "community": {
+        "want": 174,
+        "have": 48
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "1980",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Victor",
+        "Victor Musical Industries, Inc.",
+        "武満徹 映画音楽 = Film Music By Toru Takemitsu"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Classical"
+      ],
+      "style": [
+        "Contemporary",
+        "Modern Classical"
+      ],
+      "id": 20651578,
+      "barcode": [],
+      "master_id": 2344090,
+      "master_url": "https://api.discogs.com/masters/2344090",
+      "uri": "/release/20651578-Toru-Takemitsu-Film-Music-By-Toru-Takemitsu-10",
+      "catno": "KVX-1071",
+      "title": "Toru Takemitsu - Film Music By Toru Takemitsu 10",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/20651578",
+      "community": {
+        "want": 22,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "1997",
+      "format": [
+        "CD",
+        "Compilation",
+        "Stereo",
+        "Mono"
+      ],
+      "label": [
+        "Nonesuch",
+        "Nonesuch",
+        "Nonesuch Film Series",
+        "Victor Entertainment, Inc.",
+        "Warner Music Japan Inc.",
+        "Warner Music Japan Inc.",
+        "Victor Entertainment, Inc.",
+        "WEA International Inc.",
+        "WEA International Inc.",
+        "Shochiku Music Publishing Co., Ltd.",
+        "Schott Japan Company, Ltd.",
+        "Helicon Music Corp.",
+        "Abbey Road Studios",
+        "Gateway Mastering",
+        "Digisonics, Northridge, CA"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Modern Classical",
+        "Soundtrack"
+      ],
+      "id": 32684562,
+      "barcode": [
+        "4 943674 509027",
+        "JASRAC",
+        "BMI",
+        "WPCS-5090 1",
+        "IFPI L277",
+        "IFPI 4504"
+      ],
+      "master_id": 900211,
+      "master_url": "https://api.discogs.com/masters/900211",
+      "uri": "/release/32684562-Toru-Takemitsu-The-Film-Music-Of-Toru-Takemitsu",
+      "catno": "WPCS-5090",
+      "title": "Toru Takemitsu - The Film Music Of Toru Takemitsu",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/32684562",
+      "community": {
+        "want": 8,
+        "have": 4
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Compilation",
+            "Stereo",
+            "Mono"
+          ]
+        }
+      ]
+    }
+  ]
+}

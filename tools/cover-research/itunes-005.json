@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 2898817,
+      "collectionId": 1619422870,
+      "amgArtistId": 124826,
+      "artistName": "Howard Shore",
+      "collectionName": "Videodrome (The Complete Restored Score)",
+      "collectionCensoredName": "Videodrome (The Complete Restored Score)",
+      "artistViewUrl": "https://music.apple.com/us/artist/howard-shore/2898817?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/videodrome-the-complete-restored-score/1619422870?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0d/a3/2b/0da32bd9-b5c3-3b91-4ecf-c8ebf41c1689/470.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0d/a3/2b/0da32bd9-b5c3-3b91-4ecf-c8ebf41c1689/470.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 17,
+      "copyright": "℗ 2021 Back Lot Music, a division of Univesal Studios Music LLLP",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2022-05-27T07:00:00Z",
+      "primaryGenreName": "Soundtrack"
+    }
+  ]
+}

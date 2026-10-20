@@ -1,0 +1,584 @@
+{
+  "id": 11590425,
+  "status": "Accepted",
+  "year": 2018,
+  "resource_url": "https://api.discogs.com/releases/11590425",
+  "uri": "https://www.discogs.com/release/11590425-Sam-Waymon-Ganja-Hess-Original-1973-Motion-Picture-Soundtrack",
+  "artists": [
+    {
+      "name": "Sam Waymon",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 533290,
+      "resource_url": "https://api.discogs.com/artists/533290",
+      "thumbnail_url": "https://i.discogs.com/HU1eigopzBPjfnQ5ep3wD7OZ56B-49Z3U9a8GiehdJo/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUzMzI5/MC0xNjE3OTk5NjY2/LTM1NjEuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Sam Waymon",
+  "labels": [
+    {
+      "name": "Strange Disc Records",
+      "catno": "SD-006LP",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 726766,
+      "resource_url": "https://api.discogs.com/labels/726766",
+      "thumbnail_url": "https://i.discogs.com/d5nP-fbPG_eeRiWcLeIntnVsaH-F4c42JQ-i6wnUPlI/rs:fit/g:sm/q:90/h:358/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTcyNjc2/Ni0xNDA4Mjg5MDQ1/LTMwNzYuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Light In The Attic",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 24105,
+      "resource_url": "https://api.discogs.com/labels/24105",
+      "thumbnail_url": "https://i.discogs.com/4CUa_sHIERYWsR-O6WrvAS94n48cuee6FrQnFSdaTRM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI0MTA1/LTEyOTkwMTEzODMu/anBlZw.jpeg"
+    },
+    {
+      "name": "Strange Disc Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 726766,
+      "resource_url": "https://api.discogs.com/labels/726766",
+      "thumbnail_url": "https://i.discogs.com/d5nP-fbPG_eeRiWcLeIntnVsaH-F4c42JQ-i6wnUPlI/rs:fit/g:sm/q:90/h:358/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTcyNjc2/Ni0xNDA4Mjg5MDQ1/LTMwNzYuanBlZw.jpeg"
+    },
+    {
+      "name": "GZ Media",
+      "catno": "170151E",
+      "entity_type": "44",
+      "entity_type_name": "Plated At",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    },
+    {
+      "name": "Precision Record Pressing",
+      "catno": "10-84411",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 523699,
+      "resource_url": "https://api.discogs.com/labels/523699",
+      "thumbnail_url": "https://i.discogs.com/DfWvGCw34Q127_Eqz8MBLNwe-7lZqvAuM3xxalopIBo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUyMzY5/OS0xNjk5MzgyMzgz/LTIwNDYucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Record Store Day",
+        "Limited Edition"
+      ],
+      "text": "Brown"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 419,
+    "want": 180,
+    "rating": {
+      "count": 29,
+      "average": 3.83
+    },
+    "submitter": {
+      "username": "onewaystatic",
+      "resource_url": "https://api.discogs.com/users/onewaystatic"
+    },
+    "contributors": [
+      {
+        "username": "onewaystatic",
+        "resource_url": "https://api.discogs.com/users/onewaystatic"
+      },
+      {
+        "username": "tom66909",
+        "resource_url": "https://api.discogs.com/users/tom66909"
+      },
+      {
+        "username": "thefifthchord",
+        "resource_url": "https://api.discogs.com/users/thefifthchord"
+      },
+      {
+        "username": "Diognes_The_Fox",
+        "resource_url": "https://api.discogs.com/users/Diognes_The_Fox"
+      },
+      {
+        "username": "omelby",
+        "resource_url": "https://api.discogs.com/users/omelby"
+      },
+      {
+        "username": "WolfXCIX",
+        "resource_url": "https://api.discogs.com/users/WolfXCIX"
+      },
+      {
+        "username": "mjk37",
+        "resource_url": "https://api.discogs.com/users/mjk37"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2018-02-19T00:39:36-08:00",
+  "date_changed": "2026-04-14T20:36:42-07:00",
+  "num_for_sale": 22,
+  "lowest_price": 20.22,
+  "master_id": 1394622,
+  "master_url": "https://api.discogs.com/masters/1394622",
+  "title": "Ganja & Hess (Original 1973 Motion Picture Soundtrack)",
+  "country": "US",
+  "released": "2018-04-21",
+  "notes": "Exclusive Record Store Day 2018 release, released for the first time ever on any format.\n\nLimited to 1000 units worldwide. (Brown Vinyl)\nComes with obi strip & insert/liner notes\n\n\"Bongili Work Song\" - Used by permission of Folkways Records & sampled from [url=https://www.discogs.com/Various-Music-Of-Equatorial-Africa/master/557464]Music of Equatorial Africa[/url] (1950)",
+  "released_formatted": "21 Apr 2018",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "092624999747"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "10-84411 / SD-006LP-A 170151E1/A",
+      "description": "A-side runout etching"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "10-84411 / SD-006LP-B 170151E2/A",
+      "description": "B-side runout etching"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=5_gkmU3S5Zs",
+      "title": "Sam Waymon - Blood of the Thing (part1) from Ganja & Hess (1973)",
+      "description": "Sam Waymon, Duane Jones, Ganja & Hess, Ganja and Hess, Marlene Clark, Bill Gunn, Nina Simone, 1973, Night of the Living Dead, Mabel King, Leonard Jackson, Candece Tarpley, Enrico Fales, Chiz Schultz, James E. Hinton, Victor Kanefsky",
+      "duration": 102,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=uZ9N40e-z18",
+      "title": "Sam Waymon - You Got To Learn, To Let It Go [Ganja & Hess OST, 1973]",
+      "description": "Track from the Blaxploitation horror, \"Ganja & Hess\". Music by Sam Waymon.\nhttp://www.daarac.org/2016/06/sam-waymon-ganja-hess-soundtrack-1973.html",
+      "duration": 182,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=XQDZzW8VIQk",
+      "title": "Ganja and Hess - Robes",
+      "description": "Beautiful scene from a wonderfully strange movie.",
+      "duration": 125,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=cnth2Oprkc4",
+      "title": "Sam Waymon - Theme From Blood Couple (1973)",
+      "description": "https://www.discogs.com/master/1394622-Sam-Waymon-Ganja-Hess-Original-1973-Motion-Picture-Soundtrack",
+      "duration": 115,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zO9fkF_ieHE",
+      "title": "Ganja and Hess - Church",
+      "description": "The ecstatic climax of this insane movie. I guess this video was already on youtube but the the scene demands higher sound quality. Some of the best music ever.",
+      "duration": 189,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=WapJl7XZ1TQ",
+      "title": "Ganja & Hess [Party/Dream Scene]",
+      "description": "Opening from Ganja & Hess. Dir. Bill Gunn, 1973.\n\n#ganjaandhess #billgunn #blaxploitation",
+      "duration": 35,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5_gkmU3S5Zs",
+      "title": "Sam Waymon - Blood of the Thing (part1) from Ganja & Hess (1973)",
+      "description": "Sam Waymon, Duane Jones, Ganja & Hess, Ganja and Hess, Marlene Clark, Bill Gunn, Nina Simone, 1973, Night of the Living Dead, Mabel King, Leonard Jackson, Candece Tarpley, Enrico Fales, Chiz Schultz, James E. Hinton, Victor Kanefsky",
+      "duration": 102,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=uZ9N40e-z18",
+      "title": "Sam Waymon - You Got To Learn, To Let It Go [Ganja & Hess OST, 1973]",
+      "description": "Track from the Blaxploitation horror, \"Ganja & Hess\". Music by Sam Waymon.\nhttp://www.daarac.org/2016/06/sam-waymon-ganja-hess-soundtrack-1973.html",
+      "duration": 182,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=XQDZzW8VIQk",
+      "title": "Ganja and Hess - Robes",
+      "description": "Beautiful scene from a wonderfully strange movie.",
+      "duration": 125,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=cnth2Oprkc4",
+      "title": "Sam Waymon - Theme From Blood Couple (1973)",
+      "description": "https://www.discogs.com/master/1394622-Sam-Waymon-Ganja-Hess-Original-1973-Motion-Picture-Soundtrack",
+      "duration": 115,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zO9fkF_ieHE",
+      "title": "Ganja and Hess - Church",
+      "description": "The ecstatic climax of this insane movie. I guess this video was already on youtube but the the scene demands higher sound quality. Some of the best music ever.",
+      "duration": 189,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=WapJl7XZ1TQ",
+      "title": "Ganja & Hess [Party/Dream Scene]",
+      "description": "Opening from Ganja & Hess. Dir. Bill Gunn, 1973.\n\n#ganjaandhess #billgunn #blaxploitation",
+      "duration": 35,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=sz51ItZKNxg",
+      "title": "Bongili Work Song (Girls' Chorus, Pestle Sounds)",
+      "description": "Provided to YouTube by Smithsonian Folkways Recordings\n\nBongili Work Song (Girls' Chorus, Pestle Sounds) · Young Bongili women beating out bananas\n\nMusic of Equatorial Africa\n\n℗ 2004 Smithsonian Folkways Recordings / 1950 Folkways Records\n\nReleased on:",
+      "duration": 78,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5_gkmU3S5Zs",
+      "title": "Sam Waymon - Blood of the Thing (part1) from Ganja & Hess (1973)",
+      "description": "Sam Waymon, Duane Jones, Ganja & Hess, Ganja and Hess, Marlene Clark, Bill Gunn, Nina Simone, 1973, Night of the Living Dead, Mabel King, Leonard Jackson, Candece Tarpley, Enrico Fales, Chiz Schultz, James E. Hinton, Victor Kanefsky",
+      "duration": 102,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=uZ9N40e-z18",
+      "title": "Sam Waymon - You Got To Learn, To Let It Go [Ganja & Hess OST, 1973]",
+      "description": "Track from the Blaxploitation horror, \"Ganja & Hess\". Music by Sam Waymon.\nhttp://www.daarac.org/2016/06/sam-waymon-ganja-hess-soundtrack-1973.html",
+      "duration": 182,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=AE_6cfmf2Rg",
+      "title": "Sam Waymon - Blood of the Thing (part2) from Ganja & Hess (1973)",
+      "description": "Sam Waymon, Duane Jones, Ganja & Hess, Ganja and Hess, Marlene Clark, Bill Gunn, Nina Simone, 1973, Night of the Living Dead, Mabel King, Leonard Jackson, Candece Tarpley, Enrico Fales, Chiz Schultz, James E. Hinton, Victor Kanefsky",
+      "duration": 110,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=BDuUoism_DQ",
+      "title": "You Got To Learn by Sam Waymon",
+      "description": "You Got To Learn (by Sam Waymon) in Spike Lee's \"Da Sweet Blood of Jesus\"",
+      "duration": 379,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Blues",
+    "Folk, World, & Country",
+    "Stage & Screen"
+  ],
+  "styles": [
+    "African",
+    "Gospel",
+    "Soundtrack",
+    "Experimental"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Intro",
+      "duration": "0:34"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "The Blood Of The Thing (Part 1)",
+      "duration": "0:49"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "The Blood Of The Thing (Part 2) Shadow Of The Cross",
+      "duration": "1:48"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Bongili Work Song #1 (Myrthian Dreams)",
+      "duration": "1:36"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Hess Is Stabbed",
+      "duration": "0:52"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "March Blues",
+      "extraartists": [
+        {
+          "name": "Mabel King",
+          "anv": "",
+          "join": "",
+          "role": "Vocals [Sung By]",
+          "tracks": "",
+          "id": 909725,
+          "resource_url": "https://api.discogs.com/artists/909725"
+        }
+      ],
+      "duration": "3:01"
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "You've Got To Learn To Let It Go (Instrumental)",
+      "duration": "1:25"
+    },
+    {
+      "position": "A8",
+      "type_": "track",
+      "title": "Bongili Work Song #2",
+      "duration": "0:39"
+    },
+    {
+      "position": "A9",
+      "type_": "track",
+      "title": "Survival Drive",
+      "duration": "0:46"
+    },
+    {
+      "position": "A10",
+      "type_": "track",
+      "title": "Bongili Work Song #3",
+      "duration": "2:39"
+    },
+    {
+      "position": "A11",
+      "type_": "track",
+      "title": "The Seduction (Amalgam)",
+      "duration": "5:19"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Intro (Reprise) - You've Got To Learn To Let It Go",
+      "duration": "1:48"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "You've Got To Learn To Let It Go (Church Version)",
+      "duration": "1:36"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Just As I Am",
+      "extraartists": [
+        {
+          "name": "Evangel Revival Church",
+          "anv": "",
+          "join": "",
+          "role": "Featuring [With]",
+          "tracks": "",
+          "id": 7424930,
+          "resource_url": "https://api.discogs.com/artists/7424930"
+        }
+      ],
+      "duration": "5:14"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "The Blood Of The Thing (Reprise)",
+      "duration": "1:07"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Resurrection",
+      "duration": "0:44"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "There Is A Fountain Filled With Blood",
+      "duration": "1:33"
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "title": "You've Got To Learn To Let It Go (Studio Version)",
+      "duration": "2:59"
+    },
+    {
+      "position": "",
+      "type_": "heading",
+      "title": "Bonus Tracks",
+      "duration": ""
+    },
+    {
+      "position": "B8",
+      "type_": "track",
+      "title": "Bongili Work Song (Original Version)",
+      "duration": "1:12"
+    },
+    {
+      "position": "B9",
+      "type_": "track",
+      "title": "Theme From Blood Couple",
+      "extraartists": [
+        {
+          "name": "Fima Noveck",
+          "anv": "",
+          "join": "",
+          "role": "Assemblage [Reassembled By]",
+          "tracks": "",
+          "id": 7424931,
+          "resource_url": "https://api.discogs.com/artists/7424931"
+        }
+      ],
+      "duration": "1:47"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Sam Waymon",
+      "anv": "",
+      "join": "",
+      "role": "Composed By, Producer, Performer",
+      "tracks": "",
+      "id": 533290,
+      "resource_url": "https://api.discogs.com/artists/533290"
+    },
+    {
+      "name": "James Flowers",
+      "anv": "",
+      "join": "",
+      "role": "Curated By [All Tracks]",
+      "tracks": "",
+      "id": 7424934,
+      "resource_url": "https://api.discogs.com/artists/7424934"
+    },
+    {
+      "name": "Tom Cummings (8)",
+      "anv": "",
+      "join": "",
+      "role": "Curated By [All Tracks]",
+      "tracks": "",
+      "id": 7424933,
+      "resource_url": "https://api.discogs.com/artists/7424933"
+    },
+    {
+      "name": "Nadi Qamar",
+      "anv": "",
+      "join": "",
+      "role": "Featuring, Thumb Piano",
+      "tracks": "",
+      "id": 355201,
+      "resource_url": "https://api.discogs.com/artists/355201"
+    },
+    {
+      "name": "Nicholas Forster",
+      "anv": "",
+      "join": "",
+      "role": "Liner Notes",
+      "tracks": "",
+      "id": 7424932,
+      "resource_url": "https://api.discogs.com/artists/7424932"
+    },
+    {
+      "name": "William Cowper",
+      "anv": "",
+      "join": "",
+      "role": "Lyrics By",
+      "tracks": "B6",
+      "id": 698438,
+      "resource_url": "https://api.discogs.com/artists/698438"
+    },
+    {
+      "name": "Phil Merckx",
+      "anv": "",
+      "join": "",
+      "role": "Supervised By [Reissue Concept]",
+      "tracks": "",
+      "id": 2834344,
+      "resource_url": "https://api.discogs.com/artists/2834344"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/7BlSvOK4gsXM-lv_nCUkb-xn-oOCb2Rg1ZC6cuKJiEM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NDI1LTE1MTkwMjk1/NzctNjk0NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/7BlSvOK4gsXM-lv_nCUkb-xn-oOCb2Rg1ZC6cuKJiEM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NDI1LTE1MTkwMjk1/NzctNjk0NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/JITaDAMX-RrWnQ0Str3HY0tVezxzN-yrrBtVere5JfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NDI1LTE1MTkwMjk1/NzctNjk0NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/rrhdoOjIO4nKEzMfcIiY1yXbB-6U4AXXwGZwt4erX5E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NDI1LTE1Mzk1NTAz/MjktMzQ4OC5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/rrhdoOjIO4nKEzMfcIiY1yXbB-6U4AXXwGZwt4erX5E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NDI1LTE1Mzk1NTAz/MjktMzQ4OC5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/-D4Tm7u3xtHA7Q5-57h-P2bRc0gQ772Whv6H7hAllnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NDI1LTE1Mzk1NTAz/MjktMzQ4OC5wbmc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/miTtKn-GsEH6SBfRwcirOAnpqKXqyAKWwmfv15tLEh0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NDI1LTE1Mzk1NTAz/MzAtNjQyMi5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/miTtKn-GsEH6SBfRwcirOAnpqKXqyAKWwmfv15tLEh0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NDI1LTE1Mzk1NTAz/MzAtNjQyMi5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/q8Cb4-j5Q42u2yIgMSnE9YAYdMagJYbUq9ZGTD82x-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NDI1LTE1Mzk1NTAz/MzAtNjQyMi5wbmc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/DC-2oiFOI_P2zDzqwA488U_v1Cx4NvK2Nogd4u4Xlps/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NDI1LTE1Mzk1NTAz/MzAtMTg0Mi5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/DC-2oiFOI_P2zDzqwA488U_v1Cx4NvK2Nogd4u4Xlps/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NDI1LTE1Mzk1NTAz/MzAtMTg0Mi5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/vphsEHxtlhhW2BHNJ5SkQHIXvXEQXH2brIkl7dQVHvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NDI1LTE1Mzk1NTAz/MzAtMTg0Mi5wbmc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/xhiaTviqJHQyfnC6KSNVMzOysO1GjRuFNCmTIpQ4Rqg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NDI1LTE1NzEwMzQw/NjYtOTUzMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/xhiaTviqJHQyfnC6KSNVMzOysO1GjRuFNCmTIpQ4Rqg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NDI1LTE1NzEwMzQw/NjYtOTUzMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/y5HKkZ4Pw33AJH4TcqYG-NbAiNJnQ_LirXm7fmvt26g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NDI1LTE1NzEwMzQw/NjYtOTUzMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/FeuriCg_6oZVSSCyvCzWJs27ybYcpFDwA-dEXxpS3mU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NDI1LTE1NzEwMzQw/NjctMjYxNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/FeuriCg_6oZVSSCyvCzWJs27ybYcpFDwA-dEXxpS3mU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NDI1LTE1NzEwMzQw/NjctMjYxNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/xYdJ_CaEALQbpJbCJH2pzBdJYwYBDtpyaYSz6hJuIw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NDI1LTE1NzEwMzQw/NjctMjYxNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/2E77QtHe1P-7z2mvWL2J5efu7eJ3DO-o_Q1oJfPNGq8/rs:fit/g:sm/q:90/h:600/w:136/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NDI1LTE2MzYyNjg2/NzMtNDc0My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/2E77QtHe1P-7z2mvWL2J5efu7eJ3DO-o_Q1oJfPNGq8/rs:fit/g:sm/q:90/h:600/w:136/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NDI1LTE2MzYyNjg2/NzMtNDc0My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/eL-9-WkgnH3uQaXoY4kM5d9k5GeDs3xvHDl7aokC0TE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NDI1LTE2MzYyNjg2/NzMtNDc0My5qcGVn.jpeg",
+      "width": 136,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/lWf34MemjCA7FarjjpwJic53i3INzblhstl2PgmnXtY/rs:fit/g:sm/q:90/h:600/w:137/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NDI1LTE2MzYyNjg2/OTYtNzQ0MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/lWf34MemjCA7FarjjpwJic53i3INzblhstl2PgmnXtY/rs:fit/g:sm/q:90/h:600/w:137/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NDI1LTE2MzYyNjg2/OTYtNzQ0MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/3NbZMLnX4j3dpu34r6PEt0R_Pd27n8rVnBTTiRhpI1g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NDI1LTE2MzYyNjg2/OTYtNzQ0MC5qcGVn.jpeg",
+      "width": 137,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/JITaDAMX-RrWnQ0Str3HY0tVezxzN-yrrBtVere5JfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NDI1LTE1MTkwMjk1/NzctNjk0NS5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

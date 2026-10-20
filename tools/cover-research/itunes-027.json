@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 6321168,
+      "collectionId": 6321250,
+      "amgArtistId": 530362,
+      "artistName": "Donald Rubinstein",
+      "collectionName": "George A. Romero's MARTIN",
+      "collectionCensoredName": "George A. Romero's MARTIN",
+      "artistViewUrl": "https://music.apple.com/us/artist/donald-rubinstein/6321168?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/george-a-romeros-martin/6321250?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Features/1d/e4/ab/dj.twmgaxvq.tif/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/1d/e4/ab/dj.twmgaxvq.tif/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 22,
+      "copyright": "℗ 1999 LEVELGREEN",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2001-08-17T07:00:00Z",
+      "primaryGenreName": "Jazz"
+    }
+  ]
+}

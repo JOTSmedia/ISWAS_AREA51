@@ -1,0 +1,607 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 2,
+    "per_page": 10,
+    "items": 15,
+    "urls": {
+      "last": "https://api.discogs.com/database/search?type=release&release_title=Day+of+the+Dead&artist=John+Harrison&per_page=10&page=2",
+      "next": "https://api.discogs.com/database/search?type=release&release_title=Day+of+the+Dead&artist=John+Harrison&per_page=10&page=2"
+    }
+  },
+  "results": [
+    {
+      "country": "Poland",
+      "genre": [
+        "Classical",
+        "Stage & Screen"
+      ],
+      "format": [
+        "CD",
+        "Album",
+        "Unofficial Release"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score"
+      ],
+      "id": 1533415,
+      "label": [
+        "Kraton Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "BOD HYPE DNY 777"
+      ],
+      "master_id": 254798,
+      "master_url": "https://api.discogs.com/masters/254798",
+      "uri": "/release/1533415-John-Harrison-Day-Of-The-Dead",
+      "catno": "none",
+      "title": "John Harrison (6) - Day Of The Dead",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/1533415",
+      "community": {
+        "want": 42,
+        "have": 24
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2014",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Reissue",
+        "Remastered",
+        "Repress"
+      ],
+      "label": [
+        "Waxwork Records",
+        "Studio Sound Recorders",
+        "Planesong Studios",
+        "Precision Audiosonics",
+        "Harbro Music",
+        "Famous Music"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 6337120,
+      "barcode": [
+        "7 28028 30398 8",
+        "WW003-A",
+        "WW003-B",
+        "WW003-C",
+        "WW003-D"
+      ],
+      "master_id": 254798,
+      "master_url": "https://api.discogs.com/masters/254798",
+      "uri": "/release/6337120-John-Harrison-George-A-Romeros-Day-Of-The-Dead",
+      "catno": "WW003",
+      "title": "John Harrison (6) - George A. Romero's Day Of The Dead",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/6337120",
+      "community": {
+        "want": 259,
+        "have": 204
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Grey [Zombie Skin] Swirl",
+          "descriptions": [
+            "LP",
+            "Reissue",
+            "Remastered",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Remastered",
+        "Repress"
+      ],
+      "label": [
+        "Waxwork Records",
+        "Studio Sound Recorders",
+        "Planesong Studios",
+        "Precision Audiosonics",
+        "Harbro Music",
+        "Famous Music"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 10921483,
+      "barcode": [
+        "7 28028 45118 4"
+      ],
+      "master_id": 254798,
+      "master_url": "https://api.discogs.com/masters/254798",
+      "uri": "/release/10921483-John-Harrison-George-A-Romeros-Day-Of-The-Dead",
+      "catno": "WW003",
+      "title": "John Harrison (6) - George A. Romero's Day Of The Dead",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/10921483",
+      "community": {
+        "want": 303,
+        "have": 1004
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Red Smear On Clear [Blood Smear], 180g",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2013",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Remastered",
+        "Test Pressing"
+      ],
+      "label": [
+        "Waxwork Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 35007086,
+      "barcode": [],
+      "master_id": 254798,
+      "master_url": "https://api.discogs.com/masters/254798",
+      "uri": "/release/35007086-John-Harrison-George-A-Romeros-Day-Of-The-Dead",
+      "catno": "WW003",
+      "title": "John Harrison (6) - George A. Romero's Day Of The Dead",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/35007086",
+      "community": {
+        "want": 6,
+        "have": 1
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Remastered",
+            "Test Pressing"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2013",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Vinyl",
+        "LP",
+        "All Media",
+        "Remastered"
+      ],
+      "label": [
+        "Waxwork Records",
+        "Harbro Music",
+        "Famous Music"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 4967065,
+      "barcode": [
+        "7 28028 30398 8"
+      ],
+      "master_id": 254798,
+      "master_url": "https://api.discogs.com/masters/254798",
+      "uri": "/release/4967065-John-Harrison-George-A-Romeros-Day-Of-The-Dead",
+      "catno": "WW003",
+      "title": "John Harrison (6) - George A. Romero's Day Of The Dead",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/4967065",
+      "community": {
+        "want": 435,
+        "have": 726
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Yellow [Cream Yellow] Marbled, 180 Gram",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Green [Military Green] Marbled, 180 Gram",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "descriptions": [
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Vinyl",
+        "LP",
+        "All Media",
+        "Album",
+        "Reissue",
+        "Remastered",
+        "Repress",
+        "Stereo"
+      ],
+      "label": [
+        "Waxwork Records",
+        "Studio Sound Recorders",
+        "Planesong Studios",
+        "Precision Audiosonics",
+        "GZ Media",
+        "Memphis Record Pressing",
+        "DeadFilms Inc.",
+        "Harbro Music",
+        "Famous Music"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 20231830,
+      "barcode": [
+        "7 28028 45118 4",
+        "7 28028 50886 4",
+        "MRP0785 / WW003-A 158677E1/C #5",
+        "MRP0785 / WW003-B 158677E2/D #9",
+        "MRP0785 / WW003-C 158677E2/B #5",
+        "MRP0785 / WW003-D 158677E4/A #11"
+      ],
+      "master_id": 254798,
+      "master_url": "https://api.discogs.com/masters/254798",
+      "uri": "/release/20231830-John-Harrison-George-A-Romeros-Day-Of-The-Dead",
+      "catno": "WW003",
+      "title": "John Harrison (6) - George A. Romero's Day Of The Dead",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/20231830",
+      "community": {
+        "want": 145,
+        "have": 823
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear Transparent w/ Red, Yellow, And Black Smoke",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Teal With Blue Swirl",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "text": "Zombie Rot",
+          "descriptions": [
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Repress",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2013",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Limited Edition",
+        "Remastered"
+      ],
+      "label": [
+        "Waxwork Records",
+        "Studio Sound Recorders",
+        "Planesong Studios",
+        "Precision Audiosonics"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Ambient"
+      ],
+      "id": 5024471,
+      "barcode": [
+        "7 28028 30398 8",
+        "WW003-A",
+        "WW003-B",
+        "WW003-C",
+        "WW003-D"
+      ],
+      "master_id": 254798,
+      "master_url": "https://api.discogs.com/masters/254798",
+      "uri": "/release/5024471-John-Harrison-George-A-Romeros-Day-Of-The-Dead",
+      "catno": "WW003",
+      "title": "John Harrison (6) - George A. Romero's Day Of The Dead",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/5024471",
+      "community": {
+        "want": 358,
+        "have": 324
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Blue/Red Swirl [Zombie Flesh & Blood], 180 Gram",
+          "descriptions": [
+            "LP",
+            "Limited Edition",
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2014",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Repress"
+      ],
+      "label": [
+        "Waxwork Records",
+        "Studio Sound Recorders",
+        "Planesong Studios",
+        "Precision Audiosonics",
+        "Harbro Music",
+        "Famous Music"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Score",
+        "Soundtrack"
+      ],
+      "id": 6337171,
+      "barcode": [
+        "7 28028 30398 8",
+        "728028303988",
+        "WW003-A",
+        "WW003-B",
+        "WW003-C",
+        "WW003-D"
+      ],
+      "master_id": 254798,
+      "master_url": "https://api.discogs.com/masters/254798",
+      "uri": "/release/6337171-John-Harrison-George-A-Romeros-Day-Of-The-Dead",
+      "catno": "WW003",
+      "title": "John Harrison (6) - George A. Romero's Day Of The Dead",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/6337171",
+      "community": {
+        "want": 271,
+        "have": 226
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Grey Marbled / Red Translucent [Zombie Skin And Blood] Split",
+          "descriptions": [
+            "LP",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1985",
+      "format": [
+        "Cassette",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Saturn Records",
+        "Jeree Studios",
+        "Studio Sound Recorders",
+        "Studio Sound Recorders"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Funk / Soul",
+        "Pop",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 6805946,
+      "barcode": [],
+      "master_id": 254798,
+      "master_url": "https://api.discogs.com/masters/254798",
+      "uri": "/release/6805946-John-Harrison-George-A-Romeros-Day-Of-The-Dead-Original-Motion-Picture-Soundtrack",
+      "catno": "SR-CAS-1701",
+      "title": "John Harrison (6) - George A. Romero's Day Of The Dead (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/6805946",
+      "community": {
+        "want": 126,
+        "have": 69
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1985",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Saturn Records",
+        "Jeree Studios",
+        "Studio Sound Recorders",
+        "Studio Sound Recorders",
+        "Saturn Record Company",
+        "Saturn Record Company",
+        "Independants",
+        "Saturn Records",
+        "Harbro Music",
+        "Street Stuff Music",
+        "Sterling Sound"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Funk / Soul",
+        "Pop",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 1570536,
+      "barcode": [
+        "SRLP-1701-A STERLING",
+        "SRLP 1701B STERLING",
+        "BMI"
+      ],
+      "master_id": 254798,
+      "master_url": "https://api.discogs.com/masters/254798",
+      "uri": "/release/1570536-John-Harrison-George-A-Romeros-Day-Of-The-Dead-Original-Motion-Picture-Soundtrack",
+      "catno": "SR LP 1701",
+      "title": "John Harrison (6) - George A. Romero's Day Of The Dead (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/1570536",
+      "community": {
+        "want": 684,
+        "have": 845
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,506 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 6,
+    "per_page": 10,
+    "items": 56,
+    "urls": {
+      "last": "https://api.discogs.com/database/search?type=release&release_title=Alien&artist=Jerry+Goldsmith&per_page=10&page=6",
+      "next": "https://api.discogs.com/database/search?type=release&release_title=Alien&artist=Jerry+Goldsmith&per_page=10&page=2"
+    }
+  },
+  "results": [
+    {
+      "country": "Australia",
+      "year": "2000",
+      "format": [
+        "DVD",
+        "DVD-Video",
+        "Copy Protected"
+      ],
+      "label": [
+        "20th Century Fox Home Entertainment",
+        "Twentieth Century Fox",
+        "Twentieth Century Fox Film Corporation, Inc.",
+        "Twentieth Century Fox Home Entertainment, Inc.",
+        "Twentieth Century Fox Home Entertainment South Pacific Pty Ltd"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Score"
+      ],
+      "id": 16110206,
+      "barcode": [
+        "9321337015545",
+        "833375-2 25.F1.DV.1090V2.1.S9A IFPI L604 833376-1 25.F1.DV.1090V2.1.S9B IFPI L604",
+        "IFPI L604",
+        "IFPI B709"
+      ],
+      "master_id": 1827983,
+      "master_url": "https://api.discogs.com/masters/1827983",
+      "uri": "/release/16110206-Jerry-Goldsmith-Alien",
+      "catno": "1090SDW",
+      "title": "Jerry Goldsmith - Alien",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/16110206",
+      "community": {
+        "want": 0,
+        "have": 3
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "DVD",
+          "qty": "1",
+          "descriptions": [
+            "DVD-Video",
+            "Copy Protected"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Australia",
+      "year": "2000",
+      "format": [
+        "DVD",
+        "DVD-Video",
+        "Box Set"
+      ],
+      "label": [
+        "20th Century Fox",
+        "Twentieth Century Fox Film Corporation, Inc.",
+        "Twentieth Century Fox Home Entertainment, Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Score"
+      ],
+      "id": 14759760,
+      "barcode": [],
+      "master_id": 1827983,
+      "master_url": "https://api.discogs.com/masters/1827983",
+      "uri": "/release/14759760-Jerry-Goldsmith-Alien",
+      "catno": "0083SDW",
+      "title": "Jerry Goldsmith - Alien",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/14759760",
+      "community": {
+        "want": 0,
+        "have": 3
+      },
+      "format_quantity": 5,
+      "formats": [
+        {
+          "name": "DVD",
+          "qty": "5",
+          "descriptions": [
+            "DVD-Video"
+          ]
+        },
+        {
+          "name": "Box Set",
+          "qty": "1"
+        }
+      ]
+    },
+    {
+      "country": "Australia",
+      "year": "2000",
+      "format": [
+        "DVD",
+        "DVD-Video",
+        "PAL"
+      ],
+      "label": [
+        "20th Century Fox Home Entertainment",
+        "Twentieth Century Fox",
+        "Twentieth Century Fox Film Corporation, Inc.",
+        "Twentieth Century Fox Home Entertainment, Inc.",
+        "Twentieth Century Fox Home Entertainment South Pacific Pty Ltd"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Score"
+      ],
+      "id": 29890003,
+      "barcode": [
+        "9321337015545",
+        "814870 25.F1.DV1090V2.1.S9A IFPI L604 816332 25.F1.DV1090V2.1.S9B IFPI L604 ",
+        "IFPI L604",
+        "IFPI B702"
+      ],
+      "master_id": 1827983,
+      "master_url": "https://api.discogs.com/masters/1827983",
+      "uri": "/release/29890003-Jerry-Goldsmith-Alien",
+      "catno": "1090SDW",
+      "title": "Jerry Goldsmith - Alien",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/29890003",
+      "community": {
+        "want": 0,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "DVD",
+          "qty": "1",
+          "descriptions": [
+            "DVD-Video",
+            "PAL"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2000",
+      "format": [
+        "CDr",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Soundtrack Library"
+      ],
+      "type": "release",
+      "genre": [
+        "Classical"
+      ],
+      "style": [
+        "Classical"
+      ],
+      "id": 9284415,
+      "barcode": [],
+      "master_id": 90770,
+      "master_url": "https://api.discogs.com/masters/90770",
+      "uri": "/release/9284415-Jerry-Goldsmith-Alien",
+      "catno": "CD-05",
+      "title": "Jerry Goldsmith - Alien",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/9284415",
+      "community": {
+        "want": 56,
+        "have": 18
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Spain",
+      "year": "1979",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "20th Century Records",
+        "20th Century-Fox Record Corporation"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Modern Classical",
+        "Score"
+      ],
+      "id": 4570347,
+      "barcode": [
+        "M. 26 243-1979",
+        "SGAE",
+        "PERMISO Nº 3724"
+      ],
+      "master_id": 90770,
+      "master_url": "https://api.discogs.com/masters/90770",
+      "uri": "/release/4570347-Jerry-Goldsmith-Alien-El-8%C2%BA-Pasajero",
+      "catno": "T-593",
+      "title": "Jerry Goldsmith - Alien, El 8º Pasajero",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/4570347",
+      "community": {
+        "want": 200,
+        "have": 55
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "1979",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Single",
+        "Stereo"
+      ],
+      "label": [
+        "20th Century Fox Records",
+        "Sound Track Golden Series",
+        "King Record Co. Ltd",
+        "King Record Co. Ltd"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score"
+      ],
+      "id": 7997824,
+      "barcode": [
+        "JASRAC",
+        "(SIST 2378) Ce",
+        "(SIST 2379) Ce",
+        "〄 SIST 2378-2",
+        "〄 SIST 2379-2",
+        "¥600"
+      ],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/7997824-Jerry-Goldsmith-%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3-Alien",
+      "catno": "FMS-101",
+      "title": "Jerry Goldsmith - エイリアン = Alien",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/7997824",
+      "community": {
+        "want": 53,
+        "have": 45
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "7\"",
+            "45 RPM",
+            "Single",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1999",
+      "format": [
+        "CD"
+      ],
+      "label": [
+        "Starbeast Music"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 20924377,
+      "barcode": [],
+      "master_id": 90770,
+      "master_url": "https://api.discogs.com/masters/90770",
+      "uri": "/release/20924377-Jerry-Goldsmith-Alien-Expanded-Edition",
+      "catno": "SBSS-001",
+      "title": "Jerry Goldsmith - Alien (Expanded Edition)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/20924377",
+      "community": {
+        "want": 51,
+        "have": 7
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1"
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "1984",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Promo",
+        "Reissue"
+      ],
+      "label": [
+        "Casablanca",
+        "Polystar",
+        "Soundtrack Golden Prize Series",
+        "Polystar Co.,Ltd."
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 13527299,
+      "barcode": [],
+      "master_id": 90770,
+      "master_url": "https://api.discogs.com/masters/90770",
+      "uri": "/release/13527299-Jerry-Goldsmith-%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3-Alien-Original-Soundtrack",
+      "catno": "25SA-261",
+      "title": "Jerry Goldsmith - エイリアン = Alien Original Soundtrack",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/13527299",
+      "community": {
+        "want": 118,
+        "have": 3
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Promo",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2006",
+      "format": [
+        "CD",
+        "Album",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Nostromo Enterprises"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Modern Classical",
+        "Score"
+      ],
+      "id": 3300040,
+      "barcode": [
+        "3 418119 792006"
+      ],
+      "master_id": 90770,
+      "master_url": "https://api.discogs.com/masters/90770",
+      "uri": "/release/3300040-Jerry-Goldsmith-Alien-Complete-Motion-Picture-Score",
+      "catno": "ALCD-19792006",
+      "title": "Jerry Goldsmith - Alien (Complete Motion Picture Score)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/3300040",
+      "community": {
+        "want": 75,
+        "have": 29
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "2",
+          "descriptions": [
+            "Album",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Mondo",
+        "Universal Music Enterprises",
+        "Mondo Tees"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score"
+      ],
+      "id": 11159893,
+      "barcode": [],
+      "master_id": 90770,
+      "master_url": "https://api.discogs.com/masters/90770",
+      "uri": "/release/11159893-Jerry-Goldsmith-Alien-Original-Motion-Picture-Soundtrack",
+      "catno": "MOND 027",
+      "title": "Jerry Goldsmith - Alien (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/11159893",
+      "community": {
+        "want": 408,
+        "have": 513
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    }
+  ]
+}

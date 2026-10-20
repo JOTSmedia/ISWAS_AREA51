@@ -1,0 +1,272 @@
+{
+  "id": 14403577,
+  "status": "Accepted",
+  "year": 2019,
+  "resource_url": "https://api.discogs.com/releases/14403577",
+  "uri": "https://www.discogs.com/release/14403577-Orville-Stoeber-Walter-Sear-Lets-Scare-Jessica-to-Death",
+  "artists": [
+    {
+      "name": "Orville Stoeber",
+      "anv": "",
+      "join": ",",
+      "role": "",
+      "tracks": "",
+      "id": 1166019,
+      "resource_url": "https://api.discogs.com/artists/1166019",
+      "thumbnail_url": "https://i.discogs.com/1kz94Kwf2kmRY7fOjLHf2_KNssBQAXnMBgyJ9K9Zvj4/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTExNjYw/MTktMTU2Nzk1MDIx/Ny04NDYwLmpwZWc.jpeg"
+    },
+    {
+      "name": "Walter Sear",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 76094,
+      "resource_url": "https://api.discogs.com/artists/76094",
+      "thumbnail_url": "https://i.discogs.com/8vrUBoUC2N6Xk_hRPukYU6zdbDLgKo4kcJcdWAZS-p8/rs:fit/g:sm/q:90/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc2MDk0/LTExMTA5NjcwMTMu/anBn.jpeg"
+    }
+  ],
+  "artists_sort": "Orville Stoeber, Walter Sear",
+  "labels": [
+    {
+      "name": "Blow Out Records (3)",
+      "catno": "BORLP-002",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 4320268,
+      "resource_url": "https://api.discogs.com/labels/4320268",
+      "thumbnail_url": "https://i.discogs.com/m5z25c5HkiMQnH25XtiytFH8bMv48ZLsQWC3ALhejHk/rs:fit/g:sm/q:90/h:378/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMjAy/NjgtMTc2MjE4Nzc2/OC01NjUwLmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Lathe Cut",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Unofficial Release",
+        "Stereo"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 20,
+    "want": 135,
+    "rating": {
+      "count": 1,
+      "average": 5.0
+    },
+    "submitter": {
+      "username": "Ivangorod",
+      "resource_url": "https://api.discogs.com/users/Ivangorod"
+    },
+    "contributors": [
+      {
+        "username": "Ivangorod",
+        "resource_url": "https://api.discogs.com/users/Ivangorod"
+      },
+      {
+        "username": "Llapollo",
+        "resource_url": "https://api.discogs.com/users/Llapollo"
+      },
+      {
+        "username": "moominmammaa",
+        "resource_url": "https://api.discogs.com/users/moominmammaa"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2019-11-15T07:22:29-08:00",
+  "date_changed": "2025-11-19T03:12:30-08:00",
+  "num_for_sale": 0,
+  "lowest_price": null,
+  "title": "Let's Scare Jessica to Death",
+  "country": "UK",
+  "released": "2019-11-16",
+  "notes": "Featuring a suite of music, sound effects and dialogue from the film Lets Scare Jessica To Death (1971) backed with a compilation of themes from cult 1970s horror scores including Death Bed (1977), Season Of The Witch (1972), Lemora (1973), Children Shouldn't Play With Dead Things (1972), Deathdream (1974) and Wampyr (aka Martin, 1977).\n\nLimited edition of 24 copies, packaged as 'faux seventies' release with ageing details, alternate film poster print and inserts.",
+  "released_formatted": "16 Nov 2019",
+  "identifiers": [],
+  "videos": [],
+  "genres": [
+    "Stage & Screen"
+  ],
+  "styles": [
+    "Score",
+    "Soundtrack"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Orville Stoeber",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 1166019,
+          "resource_url": "https://api.discogs.com/artists/1166019"
+        },
+        {
+          "name": "Walter Sear",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 76094,
+          "resource_url": "https://api.discogs.com/artists/76094"
+        }
+      ],
+      "title": "Let's Scare Jessica to Death",
+      "duration": "13:55"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Cyclobe",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 45135,
+          "resource_url": "https://api.discogs.com/artists/45135"
+        }
+      ],
+      "title": "Death Bed: Opening Titles/End Credits",
+      "duration": "2:09"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Steve Gorn",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 420248,
+          "resource_url": "https://api.discogs.com/artists/420248"
+        }
+      ],
+      "title": "Season of the Witch: Opening Titles ",
+      "duration": "3:57"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Dan Neufeld",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 779804,
+          "resource_url": "https://api.discogs.com/artists/779804"
+        }
+      ],
+      "title": "Lemora: Main Theme",
+      "duration": "1:55"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Carl Zittrer",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 1198929,
+          "resource_url": "https://api.discogs.com/artists/1198929"
+        }
+      ],
+      "title": "Children Shouldn't Play with Dead Things: Opening Titles/End Credits",
+      "duration": "3:01"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Carl Zittrer",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 1198929,
+          "resource_url": "https://api.discogs.com/artists/1198929"
+        }
+      ],
+      "title": "Deathdream: Opening Titles/End Credits",
+      "duration": "2:15"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Goblin",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 98228,
+          "resource_url": "https://api.discogs.com/artists/98228"
+        }
+      ],
+      "title": "Wampyr: Finale",
+      "duration": "1:41"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/ZXpzaJ7XIbIgjSKANAG_XILb0ck_lHTqrLbwIpubmPU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAz/NTc3LTE2MjQwMzMy/NDctNDk2NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ZXpzaJ7XIbIgjSKANAG_XILb0ck_lHTqrLbwIpubmPU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAz/NTc3LTE2MjQwMzMy/NDctNDk2NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/hT3kzwCj04m6R87DNGIBsrHBZIRJTQpFHgxaklobYyc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAz/NTc3LTE2MjQwMzMy/NDctNDk2NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Dw28VLs2_2C-gxjIDUHUOZFKQ4e9DZRU0rQ5mIpvQpQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAz/NTc3LTE2MjQwMzMy/NDktNjkxMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Dw28VLs2_2C-gxjIDUHUOZFKQ4e9DZRU0rQ5mIpvQpQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAz/NTc3LTE2MjQwMzMy/NDktNjkxMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/_otqcx6LTr5jB6pztH8-mCzb-mj05xGcstrPBVVOAPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAz/NTc3LTE2MjQwMzMy/NDktNjkxMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/3zX_ArM9PK4PhX0OUlE1Dk-3L5Yex1Y3kpRyptr_Eeg/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAz/NTc3LTE1NzM5MjEy/NjYtMTMxMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/3zX_ArM9PK4PhX0OUlE1Dk-3L5Yex1Y3kpRyptr_Eeg/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAz/NTc3LTE1NzM5MjEy/NjYtMTMxMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/K0UEdEf9eo6tF6KnyWAB4ZmVC7oQ6_vkw8IvJGydnEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAz/NTc3LTE1NzM5MjEy/NjYtMTMxMC5qcGVn.jpeg",
+      "width": 600,
+      "height": 400
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Y-IWRwlAsfSOCAQ2HKcKUDMkLeBBed49s_aY1z9uelk/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAz/NTc3LTE1NzM5MjEy/NzctOTYzNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Y-IWRwlAsfSOCAQ2HKcKUDMkLeBBed49s_aY1z9uelk/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAz/NTc3LTE1NzM5MjEy/NzctOTYzNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/XYKH9lC1bYdBCcxBZ9mHZs1210fkKKO6L9b9S10Y874/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAz/NTc3LTE1NzM5MjEy/NzctOTYzNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 400
+    }
+  ],
+  "thumb": "https://i.discogs.com/hT3kzwCj04m6R87DNGIBsrHBZIRJTQpFHgxaklobYyc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAz/NTc3LTE2MjQwMzMy/NDctNDk2NS5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,18 @@
+{
+  "type": "Original code-authored native 3D meshes",
+  "generator": "assets/hospitality-room-v17-15.js",
+  "date": "2026-10-20",
+  "piano": "Custom Steinway-style concert grand, 88 modeled keys, open lid, cast frame, strings, pedals and bench",
+  "proportion_reference": "https://www.steinway.com/pianos/steinway/grand/model-d",
+  "manufacturer_CAD": false,
+  "native_detail_maps": [
+    4096,
+    4096
+  ],
+  "device_tiers": [
+    1024,
+    2048,
+    4096
+  ],
+  "render_resolution": "Adaptive real-time browser output; not a claim of a fixed 4K canvas on every device"
+}

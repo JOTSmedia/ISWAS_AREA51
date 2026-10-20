@@ -1,0 +1,1202 @@
+[
+  {
+    "rank": 1,
+    "title": "The Texas Chain Saw Massacre",
+    "year": 1974,
+    "page": "https://en.wikipedia.org/wiki/The_Texas_Chain_Saw_Massacre",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/a/a0/The_Texas_Chain_Saw_Massacre_%281974%29_theatrical_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      250,
+      367
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 2,
+    "title": "The Exorcist",
+    "year": 1973,
+    "page": "https://en.wikipedia.org/wiki/The_Exorcist",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/7/7b/Exorcist_ver2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      252,
+      378
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 3,
+    "title": "Psycho",
+    "year": 1960,
+    "page": "https://en.wikipedia.org/wiki/Psycho_(1960_film)",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Psycho_%281960%29_theatrical_poster_%28retouched%29.jpg/330px-Psycho_%281960%29_theatrical_poster_%28retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      489
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 4,
+    "title": "Jaws",
+    "year": 1975,
+    "page": "https://en.wikipedia.org/wiki/Jaws_(film)",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Jaws_movie_poster.jpg/330px-Jaws_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      496
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 5,
+    "title": "Rosemary's Baby",
+    "year": 1968,
+    "page": "https://en.wikipedia.org/wiki/Rosemary's_Baby_(film)",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/e/ef/Rosemarys_baby_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      254,
+      392
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 6,
+    "title": "Night of the Living Dead",
+    "year": 1968,
+    "page": "https://en.wikipedia.org/wiki/Night_of_the_Living_Dead",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/9/91/Night_of_the_Living_Dead_%281968%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      245,
+      362
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 7,
+    "title": "Audition",
+    "year": 1999,
+    "page": "https://en.wikipedia.org/wiki/Audition_(1999_film)",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/3/32/Audition-1999-poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      254,
+      358
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 8,
+    "title": "Frankenstein",
+    "year": 1931,
+    "page": "https://en.wikipedia.org/wiki/Frankenstein_(1931_film)",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Frankenstein_poster_1931.jpg/330px-Frankenstein_poster_1931.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      494
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 9,
+    "title": "Sal\u00f2, or the 120 Days of Sodom",
+    "year": 1975,
+    "page": "https://en.wikipedia.org/wiki/Sal%C3%B2%2C_or_the_120_Days_of_Sodom",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/f/f3/Saloposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      252,
+      395
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 10,
+    "title": "Carrie",
+    "year": 1976,
+    "page": "https://en.wikipedia.org/wiki/Carrie_(1976_film)",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/d/d7/Carrieposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      255,
+      381
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 11,
+    "title": "Alien",
+    "year": 1979,
+    "page": "https://en.wikipedia.org/wiki/Alien_(film)",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/c/c3/Alien_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      250,
+      382
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 12,
+    "title": "King Kong",
+    "year": 1933,
+    "page": "https://en.wikipedia.org/wiki/King_Kong_(1933_film)",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Kingkongposter.jpg/330px-Kingkongposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      678
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 13,
+    "title": "The Silence of the Lambs",
+    "slug": "The Silence of the Lambs (film)",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs_%28film%29",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/8/86/The_Silence_of_the_Lambs_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "pixels": [
+      220,
+      326
+    ]
+  },
+  {
+    "rank": 14,
+    "title": "Nosferatu",
+    "year": 1922,
+    "page": "https://en.wikipedia.org/wiki/Nosferatu",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/90/Nosferatu_poster_%28Albin_Grau%2C_1922%29_1.jpg/330px-Nosferatu_poster_%28Albin_Grau%2C_1922%29_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      230
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 15,
+    "title": "Don't Look Now",
+    "year": 1973,
+    "page": "https://en.wikipedia.org/wiki/Don't_Look_Now",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/b/b8/Dont_look_movieposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      270,
+      375
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 16,
+    "title": "Halloween",
+    "slug": "Halloween (1978 film)",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/Halloween_%281978_film%29",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/af/Halloween_%281978%29_theatrical_poster.jpg/250px-Halloween_%281978%29_theatrical_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "pixels": [
+      250,
+      371
+    ]
+  },
+  {
+    "rank": 17,
+    "title": "Diabolique",
+    "year": 1955,
+    "page": "https://en.wikipedia.org/wiki/Les_Diaboliques_(film)",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/3/37/Lesdiaboliquesposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      259,
+      368
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 18,
+    "title": "The Shining",
+    "slug": "The Shining (film)",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/The_Shining_%28film%29",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/1d/The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg/250px-The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "pixels": [
+      250,
+      360
+    ]
+  },
+  {
+    "rank": 19,
+    "title": "The Mummy",
+    "year": 1932,
+    "page": "https://en.wikipedia.org/wiki/The_Mummy_(1932_film)",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/The_Mummy_1932_film_poster.jpg/330px-The_Mummy_1932_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      507
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 20,
+    "title": "Get Out",
+    "year": 2017,
+    "page": "https://en.wikipedia.org/wiki/Get_Out",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/a/a3/Get_Out_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      258,
+      387
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 21,
+    "title": "Black Sunday",
+    "slug": "Black Sunday (1960 film)",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/Black_Sunday_%281960_film%29",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/8b/La_maschera_del_demonio_%28film_cover%29.jpg/250px-La_maschera_del_demonio_%28film_cover%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "pixels": [
+      250,
+      352
+    ]
+  },
+  {
+    "rank": 22,
+    "title": "Carnival of Souls",
+    "year": 1962,
+    "page": "https://en.wikipedia.org/wiki/Carnival_of_Souls",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Carnival_of_Souls_%281962_pressbook_cover%29.jpg/330px-Carnival_of_Souls_%281962_pressbook_cover%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      514
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 23,
+    "title": "Dawn of the Dead",
+    "year": 1978,
+    "page": "https://en.wikipedia.org/wiki/Dawn_of_the_Dead_(1978_film)",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/6/63/Dawn_of_the_dead.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      224,
+      350
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 24,
+    "title": "The Blair Witch Project",
+    "slug": "The Blair Witch Project",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/The_Blair_Witch_Project",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/2/26/Blair_Witch_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "pixels": [
+      220,
+      327
+    ]
+  },
+  {
+    "rank": 25,
+    "title": "Scream",
+    "year": 1996,
+    "page": "https://en.wikipedia.org/wiki/Scream_(1996_film)",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/8/86/Scream_%281996_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      260,
+      382
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 26,
+    "title": "The Innocents",
+    "slug": "The Innocents (1961 film)",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/The_Innocents_%281961_film%29",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/13/The_Innocents_%281961_film%29.jpg/250px-The_Innocents_%281961_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "pixels": [
+      250,
+      364
+    ]
+  },
+  {
+    "rank": 27,
+    "title": "Dracula",
+    "year": 1931,
+    "page": "https://en.wikipedia.org/wiki/Dracula_(1931_English-language_film)",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Dracula_%281931_film_poster_-_Style_F%29.jpg/330px-Dracula_%281931_film_poster_-_Style_F%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      496
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 28,
+    "title": "The Wicker Man",
+    "year": 1973,
+    "page": "https://en.wikipedia.org/wiki/The_Wicker_Man",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/1/11/The_Wicker_Man_%281973_film%29_UK_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      265,
+      374
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 29,
+    "title": "The Phantom of the Opera",
+    "year": 1925,
+    "page": "https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(1925_film)",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Phantom_of_the_opera_1925_poster.jpg/330px-Phantom_of_the_opera_1925_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      523
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 30,
+    "title": "Eyes Without a Face",
+    "year": 1960,
+    "page": "https://en.wikipedia.org/wiki/Eyes_Without_a_Face_(film)",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/c/c1/Eyeswithoutaface_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      238,
+      317
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 31,
+    "title": "Ring",
+    "slug": "Ring (film)",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/Ring_%28film%29",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/4a/Ringu_%281998%29_Japanese_theatrical_poster.jpg/250px-Ringu_%281998%29_Japanese_theatrical_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "pixels": [
+      250,
+      356
+    ]
+  },
+  {
+    "rank": 32,
+    "title": "The Night of the Hunter",
+    "year": 1955,
+    "page": "https://en.wikipedia.org/wiki/The_Night_of_the_Hunter",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/The_Night_of_the_Hunter_%281955_poster%29.jpg/330px-The_Night_of_the_Hunter_%281955_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      508
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 33,
+    "title": "M",
+    "year": 1931,
+    "page": "https://en.wikipedia.org/wiki/M_(1931_film)",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/a/ab/M_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      220,
+      335
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 34,
+    "title": "Evil Dead II",
+    "slug": "Evil Dead II",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/Evil_Dead_II",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/6/6d/Evil_Dead_II_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "pixels": [
+      248,
+      381
+    ]
+  },
+  {
+    "rank": 35,
+    "title": "Invasion of the Body Snatchers",
+    "year": 1956,
+    "page": "https://en.wikipedia.org/wiki/Invasion_of_the_Body_Snatchers",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Invasion_of_the_Body_Snatchers_%281956_poster%29.jpg/330px-Invasion_of_the_Body_Snatchers_%281956_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      495
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 36,
+    "title": "Hereditary",
+    "year": 2018,
+    "page": "https://en.wikipedia.org/wiki/Hereditary_(film)",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/d/d9/Hereditary.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      260,
+      373
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 37,
+    "title": "Deep Red",
+    "slug": "Deep Red",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/Deep_Red",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/03/Profondo_Rosso_poster.jpg/250px-Profondo_Rosso_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "pixels": [
+      250,
+      349
+    ]
+  },
+  {
+    "rank": 38,
+    "title": "Freaks",
+    "year": 1932,
+    "page": "https://en.wikipedia.org/wiki/Freaks_(1932_film)",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Freaks_%281932%29_original_one-sheet.jpg/330px-Freaks_%281932%29_original_one-sheet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      508
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 39,
+    "title": "Kwaidan",
+    "year": 1964,
+    "page": "https://en.wikipedia.org/wiki/Kwaidan_(film)",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/7/7c/Kwaidan-poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      265,
+      376
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 40,
+    "title": "Bride of Frankenstein",
+    "year": 1935,
+    "page": "https://en.wikipedia.org/wiki/Bride_of_Frankenstein",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/The_Bride_of_Frankenstein_%281935_poster%29.jpg/330px-The_Bride_of_Frankenstein_%281935_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      493
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 41,
+    "title": "The Devils",
+    "slug": "The Devils (film)",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/The_Devils_%28film%29",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/75/Thedevils1971poster.png/250px-Thedevils1971poster.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "pixels": [
+      250,
+      379
+    ]
+  },
+  {
+    "rank": 42,
+    "title": "28 Days Later",
+    "year": 2002,
+    "page": "https://en.wikipedia.org/wiki/28_Days_Later",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e4/28_days_later.jpg/330px-28_days_later.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      251
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 43,
+    "title": "Vampyr",
+    "year": 1932,
+    "page": "https://en.wikipedia.org/wiki/Vampyr",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/0/0c/Vampyr1932.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      278,
+      359
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 44,
+    "title": "Manhunter",
+    "year": 1986,
+    "page": "https://en.wikipedia.org/wiki/Manhunter_(film)",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/7/77/Manhunter_michael_mann_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      252,
+      394
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 45,
+    "title": "The Invisible Man",
+    "year": 1933,
+    "page": "https://en.wikipedia.org/wiki/The_Invisible_Man_(1933_film)",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/The_Invisible_Man_%281933_poster_-_Style_B%29.jpg/330px-The_Invisible_Man_%281933_poster_-_Style_B%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      497
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 46,
+    "title": "The Thing",
+    "slug": "The Thing (1982 film)",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/The_Thing_%281982_film%29",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/e/e3/The_Thing_%281982_film%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "pixels": [
+      250,
+      379
+    ]
+  },
+  {
+    "rank": 47,
+    "title": "Godzilla",
+    "year": 1954,
+    "page": "https://en.wikipedia.org/wiki/Godzilla_(1954_film)",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Gojira_1954_Japanese_poster.jpg/330px-Gojira_1954_Japanese_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      464
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 48,
+    "title": "The Birds",
+    "year": 1963,
+    "page": "https://en.wikipedia.org/wiki/The_Birds_(film)",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/The_Birds_original_poster.jpg/330px-The_Birds_original_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      506
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 49,
+    "title": "The Witch",
+    "year": 2015,
+    "page": "https://en.wikipedia.org/wiki/The_Witch_(2015_film)",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/b/bf/The_Witch_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      259,
+      384
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 50,
+    "title": "Onibaba",
+    "slug": "Onibaba (film)",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/Onibaba_%28film%29",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/23/Onibaba-poster.jpg/250px-Onibaba-poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "pixels": [
+      250,
+      358
+    ]
+  },
+  {
+    "rank": 51,
+    "title": "Irr\u00e9versible",
+    "year": 2002,
+    "page": "https://en.wikipedia.org/wiki/Irr%C3%A9versible",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/c/c6/Irreversible_ver2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      250,
+      334
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 52,
+    "title": "Blood and Black Lace",
+    "slug": "Blood and Black Lace",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/Blood_and_Black_Lace",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/7c/Blood-and-black-lace.jpg/250px-Blood-and-black-lace.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "pixels": [
+      250,
+      360
+    ]
+  },
+  {
+    "rank": 53,
+    "title": "Eraserhead",
+    "year": 1977,
+    "page": "https://en.wikipedia.org/wiki/Eraserhead",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Eraserhead_-_Filmex_%2777_poster.jpg/330px-Eraserhead_-_Filmex_%2777_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      426
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 54,
+    "title": "Let the Right One In",
+    "year": 2008,
+    "page": "https://en.wikipedia.org/wiki/Let_the_Right_One_In_(film)",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/c/c9/Let_the_Right_One_In_%28Swedish%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      264,
+      377
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 55,
+    "title": "The Cabinet of Dr. Caligari",
+    "year": 1920,
+    "page": "https://en.wikipedia.org/wiki/The_Cabinet_of_Dr._Caligari",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Das_Cabinet_des_Dr._Caligari.JPG/330px-Das_Cabinet_des_Dr._Caligari.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      445
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 56,
+    "title": "The Fly",
+    "slug": "The Fly (1986 film)",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/The_Fly_%281986_film%29",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/a/aa/Fly_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "pixels": [
+      221,
+      350
+    ]
+  },
+  {
+    "rank": 57,
+    "title": "Peeping Tom",
+    "year": 1960,
+    "page": "https://en.wikipedia.org/wiki/Peeping_Tom_(1960_film)",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e7/Peepingtomposter.jpg/330px-Peepingtomposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      492
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 58,
+    "title": "Raw",
+    "year": 2016,
+    "page": "https://en.wikipedia.org/wiki/Raw_(film)",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/d/d2/Raw_%28film%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      250,
+      340
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 59,
+    "title": "What Ever Happened to Baby Jane?",
+    "slug": "What Ever Happened to Baby Jane? (film)",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/What_Ever_Happened_to_Baby_Jane%3F_%28film%29",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d0/What_Ever_Happened_to_Baby_Jane%3F_%281962%29.jpg/250px-What_Ever_Happened_to_Baby_Jane%3F_%281962%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "pixels": [
+      250,
+      385
+    ]
+  },
+  {
+    "rank": 60,
+    "title": "Funny Games",
+    "year": 1997,
+    "page": "https://en.wikipedia.org/wiki/Funny_Games_(1997_film)",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/5/52/Funny_Games1997.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      266,
+      374
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 61,
+    "title": "Candyman",
+    "slug": "Candyman (1992 film)",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/Candyman_%281992_film%29",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/8/89/Candymanposter.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "pixels": [
+      248,
+      368
+    ]
+  },
+  {
+    "rank": 62,
+    "title": "Gremlins",
+    "year": 1984,
+    "page": "https://en.wikipedia.org/wiki/Gremlins",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/3/3d/Gremlins1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      220,
+      342
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 63,
+    "title": "Dr. Jekyll and Mr. Hyde",
+    "year": 1931,
+    "page": "https://en.wikipedia.org/wiki/Dr._Jekyll_and_Mr._Hyde_(1931_film)",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/JekyllAndHyde1931Poster.jpg/330px-JekyllAndHyde1931Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      497
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 64,
+    "title": "Planet Terror",
+    "year": 2007,
+    "page": "https://en.wikipedia.org/wiki/Planet_Terror",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/5/5b/Planet-terror-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      265,
+      376
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 65,
+    "title": "The Incredible Shrinking Man",
+    "year": 1957,
+    "page": "https://en.wikipedia.org/wiki/The_Incredible_Shrinking_Man",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/IncredibleShrinkingMan-poster.jpg/330px-IncredibleShrinkingMan-poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      502
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 66,
+    "title": "The Babadook",
+    "slug": "The Babadook",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/The_Babadook",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/d/d7/The-Babadook-Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "pixels": [
+      250,
+      357
+    ]
+  },
+  {
+    "rank": 67,
+    "title": "Possession",
+    "year": 1981,
+    "page": "https://en.wikipedia.org/wiki/Possession_(1981_film)",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/2/24/Possession_film_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      250,
+      336
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 68,
+    "title": "The Sixth Sense",
+    "year": 1999,
+    "page": "https://en.wikipedia.org/wiki/The_Sixth_Sense",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/a/a4/The_Sixth_Sense_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      220,
+      330
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 69,
+    "title": "Near Dark",
+    "slug": "Near Dark",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/Near_Dark",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b3/Neardarktheatposter.jpg/250px-Neardarktheatposter.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "pixels": [
+      250,
+      380
+    ]
+  },
+  {
+    "rank": 70,
+    "title": "The Wailing",
+    "year": 2016,
+    "page": "https://en.wikipedia.org/wiki/The_Wailing_(2016_film)",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/e/eb/The_Wailing_%28film%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      220,
+      315
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 71,
+    "title": "Hostel: Part II",
+    "slug": "Hostel: Part II",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/Hostel%3A_Part_II",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/26/Hostelpart2finalposter.jpg/250px-Hostelpart2finalposter.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "pixels": [
+      250,
+      370
+    ]
+  },
+  {
+    "rank": 72,
+    "title": "Creature from the Black Lagoon",
+    "year": 1954,
+    "page": "https://en.wikipedia.org/wiki/Creature_from_the_Black_Lagoon",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Creature_from_the_Black_Lagoon_poster.jpg/330px-Creature_from_the_Black_Lagoon_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      500
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 73,
+    "title": "Blood for Dracula",
+    "year": 1974,
+    "page": "https://en.wikipedia.org/wiki/Blood_for_Dracula",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/8/85/Blood-for-dracula-german-movie-poster-md.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      260,
+      384
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 74,
+    "title": "A Nightmare on Elm Street",
+    "slug": "A Nightmare on Elm Street",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/fa/A_Nightmare_on_Elm_Street_%281984%29_theatrical_poster.jpg/250px-A_Nightmare_on_Elm_Street_%281984%29_theatrical_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "pixels": [
+      250,
+      379
+    ]
+  },
+  {
+    "rank": 75,
+    "title": "The Descent",
+    "year": 2005,
+    "page": "https://en.wikipedia.org/wiki/The_Descent",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d5/Descentposter.jpg/330px-Descentposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      247
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 76,
+    "title": "I Walked with a Zombie",
+    "year": 1943,
+    "page": "https://en.wikipedia.org/wiki/I_Walked_with_a_Zombie",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/I_Walked_With_a_Zombie_%281943_poster%29.jpeg/330px-I_Walked_With_a_Zombie_%281943_poster%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      497
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 77,
+    "title": "The Blob",
+    "year": 1958,
+    "page": "https://en.wikipedia.org/wiki/The_Blob",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/8/80/The_Blob_%281958%29_theatrical_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      263,
+      379
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 78,
+    "title": "Angst",
+    "slug": "Angst (1983 film)",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/Angst_%281983_film%29",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/af/Angst_%281983_film%29.png/250px-Angst_%281983_film%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "pixels": [
+      250,
+      331
+    ]
+  },
+  {
+    "rank": 79,
+    "title": "The Omen",
+    "year": 1976,
+    "page": "https://en.wikipedia.org/wiki/The_Omen",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/1/1d/Omen_ver4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      260,
+      390
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 80,
+    "title": "House of Wax",
+    "year": 1953,
+    "page": "https://en.wikipedia.org/wiki/House_of_Wax_(1953_film)",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/House_of_Wax_%281953_film_poster%29.jpg/330px-House_of_Wax_%281953_film_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      500
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 81,
+    "title": "The Wolf Man",
+    "year": 1941,
+    "page": "https://en.wikipedia.org/wiki/The_Wolf_Man_(1941_film)",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/4/4d/The-wolfman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      259,
+      385
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 82,
+    "title": "What Lies Beneath",
+    "slug": "What Lies Beneath",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/What_Lies_Beneath",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d8/What_lies_beneath_%28poster%29.jpg/250px-What_lies_beneath_%28poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "pixels": [
+      250,
+      370
+    ]
+  },
+  {
+    "rank": 83,
+    "title": "The Little Shop of Horrors",
+    "year": 1960,
+    "page": "https://en.wikipedia.org/wiki/The_Little_Shop_of_Horrors",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/The_Little_Shop_of_Horrors_%281960%29_-_Half-Sheet_poster.webp/330px-The_Little_Shop_of_Horrors_%281960%29_-_Half-Sheet_poster.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      259
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 84,
+    "title": "Dead Ringers",
+    "year": 1988,
+    "page": "https://en.wikipedia.org/wiki/Dead_Ringers_(film)",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/5/52/Dead_ringers_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      220,
+      324
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 85,
+    "title": "Re-Animator",
+    "year": 1985,
+    "page": "https://en.wikipedia.org/wiki/Re-Animator",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/6/6e/Reanimator_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      248,
+      390
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 86,
+    "title": "Village of the Damned",
+    "year": 1960,
+    "page": "https://en.wikipedia.org/wiki/Village_of_the_Damned_(1960_film)",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/d/d3/Villageofthedamned1960.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      253,
+      394
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 87,
+    "title": "The Vanishing",
+    "slug": "The Vanishing (1988 film)",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/The_Vanishing_%281988_film%29",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d6/The-vanishing-1988-poster.jpg/250px-The-vanishing-1988-poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "pixels": [
+      250,
+      358
+    ]
+  },
+  {
+    "rank": 88,
+    "title": "Blood Feast",
+    "year": 1963,
+    "page": "https://en.wikipedia.org/wiki/Blood_Feast",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/b/ba/Blood-feast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      257,
+      389
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 89,
+    "title": "Dracula",
+    "year": 1958,
+    "page": "https://en.wikipedia.org/wiki/Dracula_(1958_film)",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/67/Dracula1958UKPoster.jpg/330px-Dracula1958UKPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      247
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 90,
+    "title": "A Page of Madness",
+    "slug": "A Page of Madness",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/A_Page_of_Madness",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/6/68/A_page_of_madness_film.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "pixels": [
+      200,
+      300
+    ]
+  },
+  {
+    "rank": 91,
+    "title": "Dead of Night",
+    "year": 1945,
+    "page": "https://en.wikipedia.org/wiki/Dead_of_Night",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/d/d9/DeadOfNight1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      260,
+      387
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 92,
+    "title": "The Human Centipede 2 (Full Sequence)",
+    "slug": "The Human Centipede 2 (Full Sequence)",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/The_Human_Centipede_2_%28Full_Sequence%29",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/55/Human_Centipede_2_Poster.jpg/250px-Human_Centipede_2_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "pixels": [
+      250,
+      371
+    ]
+  },
+  {
+    "rank": 93,
+    "title": "Cat People",
+    "year": 1942,
+    "page": "https://en.wikipedia.org/wiki/Cat_People_(1942_film)",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Cat_People_%281942_poster%29.jpg/330px-Cat_People_%281942_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      495
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 94,
+    "title": "Event Horizon",
+    "slug": "Event Horizon (film)",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/Event_Horizon_%28film%29",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/8c/Event_horizon_ver1.jpg/250px-Event_horizon_ver1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "pixels": [
+      250,
+      376
+    ]
+  },
+  {
+    "rank": 95,
+    "title": "Braindead",
+    "year": 1992,
+    "page": "https://en.wikipedia.org/wiki/Braindead_(film)",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/7/71/Dead_Alive_%281993%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      261,
+      382
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 96,
+    "title": "Invasion of the Body Snatchers",
+    "slug": "Invasion of the Body Snatchers (1978 film)",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/Invasion_of_the_Body_Snatchers_%281978_film%29",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/93/Invasion_of_the_body_snatchers_movie_poster_1978.jpg/250px-Invasion_of_the_body_snatchers_movie_poster_1978.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "pixels": [
+      250,
+      379
+    ]
+  },
+  {
+    "rank": 97,
+    "title": "The Haunting",
+    "year": 1963,
+    "page": "https://en.wikipedia.org/wiki/The_Haunting_(1963_film)",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/The_Haunting_1963_poster.png/330px-The_Haunting_1963_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pixels": [
+      330,
+      498
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 98,
+    "title": "The Devil's Backbone",
+    "slug": "The Devil's Backbone",
+    "status": "downloaded",
+    "page": "https://en.wikipedia.org/wiki/The_Devil%27s_Backbone",
+    "image_source": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/20/Espinazo_del_diablo_poster.jpg/250px-Espinazo_del_diablo_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "pixels": [
+      250,
+      331
+    ]
+  },
+  {
+    "rank": 99,
+    "title": "Suspiria",
+    "year": 1977,
+    "page": "https://en.wikipedia.org/wiki/Suspiria",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/c/cd/SuspiriaItaly.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      250,
+      348
+    ],
+    "status": "downloaded"
+  },
+  {
+    "rank": 100,
+    "title": "Repulsion",
+    "year": 1965,
+    "page": "https://en.wikipedia.org/wiki/Repulsion_(film)",
+    "image_source": "https://upload.wikimedia.org/wikipedia/en/8/89/Repulsion_%281965_film_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pixels": [
+      262,
+      379
+    ],
+    "status": "downloaded"
+  }
+]

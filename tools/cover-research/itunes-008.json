@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 5961082,
+      "collectionId": 549513352,
+      "amgArtistId": 210652,
+      "artistName": "David Lynch & Alan R. Splet",
+      "collectionName": "Eraserhead",
+      "collectionCensoredName": "Eraserhead",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/david-lynch/5961082?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/eraserhead/549513352?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/6c/69/25/6c69258d-2d69-c39a-e5d7-d854454c7d66/616892078944.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/6c/69/25/6c69258d-2d69-c39a-e5d7-d854454c7d66/616892078944.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 4,
+      "copyright": "℗ 2012 Sacred Bones Records",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "1982-01-01T08:00:00Z",
+      "primaryGenreName": "Alternative"
+    }
+  ]
+}

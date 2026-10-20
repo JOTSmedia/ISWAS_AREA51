@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 285166800,
+      "collectionId": 285166781,
+      "artistName": "Basil Kirchen",
+      "collectionName": "The Abominable Dr. Phibes (Soundtrack from the Motion Picture)",
+      "collectionCensoredName": "The Abominable Dr. Phibes (Soundtrack from the Motion Picture)",
+      "artistViewUrl": "https://music.apple.com/us/artist/basil-kirchen/285166800?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/the-abominable-dr-phibes-soundtrack-from-the/285166781?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music/be/66/8b/mzi.ynejecfo.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music/be/66/8b/mzi.ynejecfo.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 13,
+      "copyright": "℗ 2008 MGM Music",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2008-06-11T07:00:00Z",
+      "primaryGenreName": "Soundtrack"
+    }
+  ]
+}

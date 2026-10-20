@@ -1,0 +1,28 @@
+{
+  "artwork": "Actual released soundtrack album front covers and traceable historical archival release covers, matched to the reference films and composers; no generated sleeves or movie-poster substitutions.",
+  "coverCount": 100,
+  "archivalEditionRanks": [
+    35,
+    40,
+    71,
+    82
+  ],
+  "compilationEditionRanks": [
+    10,
+    85,
+    90
+  ],
+  "catalogue": "FACT 100 Greatest Horror Soundtracks, ranked metadata from user-specified RYM list",
+  "source": "https://rateyourmusic.com/list/Outh9X/facts-100-greatest-horror-soundtracks/",
+  "sourceManifest": "tools/record-cover-sources.json",
+  "atlasExportDimensions": [
+    1024,
+    2048,
+    4096
+  ],
+  "atlasLayout": "10 by 10; original aspect ratio contained within each tile;2% gutter",
+  "sourceResolution": "Per-cover nativeDimensions in sourceManifest; the4096atlas size is not a claim of native 4K original album artwork.",
+  "popupExports": "At most 512px on the longest edge, loaded only when selected.",
+  "rights": "Album-cover artwork remains copyright its respective rights holders; no new license or ownership is claimed.",
+  "generator": "tools/build_record_sleeves.py"
+}

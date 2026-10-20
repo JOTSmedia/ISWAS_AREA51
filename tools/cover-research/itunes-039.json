@@ -1,0 +1,49 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 15788088,
+      "collectionId": 6820529098,
+      "amgArtistId": 45115,
+      "artistName": "Stelvio Cipriani",
+      "collectionName": "Tentacles (from \"Tentacoli\") [Alternative Version] - Single",
+      "collectionCensoredName": "Tentacles (from \"Tentacoli\") [Alternative Version] - Single",
+      "artistViewUrl": "https://music.apple.com/us/artist/stelvio-cipriani/15788088?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/tentacles-from-tentacoli-alternative-version-single/6820529098?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/a4/06/28a40694-168c-3659-12b2-cf9eae654e36/8024709340528.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/a4/06/28a40694-168c-3659-12b2-cf9eae654e36/8024709340528.png/100x100bb.jpg",
+      "collectionPrice": 0.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 1,
+      "copyright": "℗ 2026 Creazioni Artistiche Musicali CAM Srl",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2026-10-16T07:00:00Z",
+      "primaryGenreName": "Soundtrack"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 15788088,
+      "collectionId": 6817824945,
+      "amgArtistId": 45115,
+      "artistName": "Stelvio Cipriani",
+      "collectionName": "My Son's Friend Is A Champion Pisser (from \"Tentacles\") [Version 2] - Single",
+      "collectionCensoredName": "My Son's Friend Is A Champion Pisser (from \"Tentacles\") [Version 2] - Single",
+      "artistViewUrl": "https://music.apple.com/us/artist/stelvio-cipriani/15788088?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/my-sons-friend-is-a-champion-pisser-from-tentacles/6817824945?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/85/d2/9485d2ee-ff61-e394-5e25-417b0b4ba5bb/8024709341921.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/85/d2/9485d2ee-ff61-e394-5e25-417b0b4ba5bb/8024709341921.png/100x100bb.jpg",
+      "collectionPrice": 0.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 1,
+      "copyright": "℗ 2026 Creazioni Artistiche Musicali CAM Srl",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2026-10-09T07:00:00Z",
+      "primaryGenreName": "Soundtrack"
+    }
+  ]
+}

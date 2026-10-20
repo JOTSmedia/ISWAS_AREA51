@@ -1,0 +1,576 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 2,
+    "per_page": 10,
+    "items": 13,
+    "urls": {
+      "last": "https://api.discogs.com/database/search?type=release&release_title=Cannibal+Holocaust&artist=Riz+Ortolani&per_page=10&page=2",
+      "next": "https://api.discogs.com/database/search?type=release&release_title=Cannibal+Holocaust&artist=Riz+Ortolani&per_page=10&page=2"
+    }
+  },
+  "results": [
+    {
+      "country": "Germany",
+      "year": "1995",
+      "format": [
+        "CD",
+        "Album",
+        "Remastered",
+        "Limited Edition"
+      ],
+      "label": [
+        "Lucertola Media",
+        "Edizioni 71"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score",
+        "Tribal",
+        "Modern Classical",
+        "Experimental",
+        "Classic Rock"
+      ],
+      "id": 389143,
+      "barcode": [
+        "BOD LLM CD 003 ",
+        "IFPI L357",
+        "IFPI 5202",
+        "GEMA",
+        "ADD"
+      ],
+      "master_id": 61282,
+      "master_url": "https://api.discogs.com/masters/61282",
+      "uri": "/release/389143-Riz-Ortolani-Cannibal-Holocaust",
+      "catno": "LMCD 003",
+      "title": "Riz Ortolani - Cannibal Holocaust",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/389143",
+      "community": {
+        "want": 230,
+        "have": 130
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Remastered",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Reissue"
+      ],
+      "label": [
+        "Mondo",
+        "Grindhouse Releasing",
+        "Grindhouse Releasing, Inc.",
+        "Cannibal Holocaust",
+        "Creative Team Inc.",
+        "Mondo Tees LLC",
+        "GZ Media"
+      ],
+      "type": "release",
+      "genre": [
+        "Jazz",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Jazz-Funk",
+        "Score"
+      ],
+      "id": 6723222,
+      "barcode": [
+        "127408E1/A",
+        "127408E2/A"
+      ],
+      "master_id": 61282,
+      "master_url": "https://api.discogs.com/masters/61282",
+      "uri": "/release/6723222-Riz-Ortolani-Cannibal-Holocaust",
+      "catno": "MOND-047",
+      "title": "Riz Ortolani - Cannibal Holocaust",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/6723222",
+      "community": {
+        "want": 568,
+        "have": 342
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "180 Gram",
+          "descriptions": [
+            "LP",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Austria",
+      "year": "2008",
+      "format": [
+        "CD"
+      ],
+      "label": [
+        "XT VIDEO Entertainment"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Tribal",
+        "Modern Classical",
+        "Experimental",
+        "Classic Rock"
+      ],
+      "id": 14424507,
+      "barcode": [],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/14424507-Riz-Ortolani-Cannibal-Holocaust-",
+      "catno": "660140",
+      "title": "Riz Ortolani - Cannibal Holocaust ",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/14424507",
+      "community": {
+        "want": 5,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1"
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2014",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue",
+        "Remastered"
+      ],
+      "label": [
+        "Grindhouse Releasing",
+        "Box Office Spectaculars",
+        "Creative Team Inc.",
+        "Creative Team Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Modern Classical",
+        "Score"
+      ],
+      "id": 6551201,
+      "barcode": [
+        "7 97679 00112 3",
+        "797679001123",
+        "CANNIBAL HOLOCAUST (SOUNDTRACK) MADE IN TAIWAN ",
+        "IFPI LT001",
+        "IFPI 2N52"
+      ],
+      "master_id": 61282,
+      "master_url": "https://api.discogs.com/masters/61282",
+      "uri": "/release/6551201-Riz-Ortolani-Cannibal-Holocaust",
+      "catno": "BOS 011",
+      "title": "Riz Ortolani - Cannibal Holocaust",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/6551201",
+      "community": {
+        "want": 112,
+        "have": 129
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2005",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue",
+        "Remastered",
+        "Enhanced"
+      ],
+      "label": [
+        "Red Stream",
+        "Red Stream, Inc.",
+        "Red Stream, Inc.",
+        "CTC Creative Team Company",
+        "CD Digital Card"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Interview",
+        "Modern Classical",
+        "Score"
+      ],
+      "id": 530099,
+      "barcode": [
+        "6 66616 01842 8",
+        "CDDC/CA - 0388-Cannibal Holocaust- 11039",
+        "IFPI WA76"
+      ],
+      "master_id": 61282,
+      "master_url": "https://api.discogs.com/masters/61282",
+      "uri": "/release/530099-Riz-Ortolani-Cannibal-Holocaust",
+      "catno": "RSR - 0184",
+      "title": "Riz Ortolani - Cannibal Holocaust",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/530099",
+      "community": {
+        "want": 204,
+        "have": 349
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Digipak",
+          "descriptions": [
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Enhanced"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Reissue",
+        "Remastered"
+      ],
+      "label": [
+        "Mondo",
+        "Grindhouse Releasing",
+        "Grindhouse Releasing",
+        "CTC Creative Team Company",
+        "Mondo Tees LLC",
+        "GZ Media"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Funk / Soul",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Score",
+        "Soundtrack"
+      ],
+      "id": 6618260,
+      "barcode": [
+        "127408E1/A",
+        "127408E2/A"
+      ],
+      "master_id": 61282,
+      "master_url": "https://api.discogs.com/masters/61282",
+      "uri": "/release/6618260-Riz-Ortolani-Cannibal-Holocaust",
+      "catno": "MOND-047",
+      "title": "Riz Ortolani - Cannibal Holocaust",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/6618260",
+      "community": {
+        "want": 736,
+        "have": 1122
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Green w/ Light Green Splatter [Green Inferno]",
+          "descriptions": [
+            "LP",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Italy",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Record Store Day"
+      ],
+      "label": [
+        "AMS Records",
+        "Riz Ortolani",
+        "EMI Catalogue Partnership Italy Srl"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Folk, World, & Country",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Experimental",
+        "Soundtrack",
+        "Score"
+      ],
+      "id": 26848097,
+      "barcode": [
+        "8 016158 316247",
+        "8016158316247"
+      ],
+      "master_id": 61282,
+      "master_url": "https://api.discogs.com/masters/61282",
+      "uri": "/release/26848097-Riz-Ortolani-Cannibal-Holocaust-Legacy-Edition",
+      "catno": "AMSLP162",
+      "title": "Riz Ortolani - Cannibal Holocaust (Legacy Edition)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/26848097",
+      "community": {
+        "want": 260,
+        "have": 345
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Record Store Day"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Italy",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Reissue"
+      ],
+      "label": [
+        "AMS Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Funk / Soul",
+        "Folk, World, & Country",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Experimental",
+        "Soundtrack",
+        "Score"
+      ],
+      "id": 26912450,
+      "barcode": [
+        "8 016158 316247"
+      ],
+      "master_id": 61282,
+      "master_url": "https://api.discogs.com/masters/61282",
+      "uri": "/release/26912450-Riz-Ortolani-Cannibal-Holocaust-Legacy-Edition",
+      "catno": "AMSLP162",
+      "title": "Riz Ortolani - Cannibal Holocaust (Legacy Edition)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/26912450",
+      "community": {
+        "want": 112,
+        "have": 18
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Multicoloured",
+          "descriptions": [
+            "LP",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "File",
+        "MP3",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Not On Label",
+        "Creazioni Artistiche Musicali C.A.M. Srl",
+        "Creazioni Artistiche Musicali C.A.M. Srl"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score"
+      ],
+      "id": 37896024,
+      "barcode": [],
+      "master_id": 61282,
+      "master_url": "https://api.discogs.com/masters/61282",
+      "uri": "/release/37896024-Riz-Ortolani-Cannibal-Holocaust-Original-Soundtrack",
+      "catno": "none",
+      "title": "Riz Ortolani - Cannibal Holocaust (Original Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/37896024",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "10",
+          "text": "VBR",
+          "descriptions": [
+            "MP3",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Italy",
+      "year": "2019",
+      "format": [
+        "CD",
+        "Album",
+        "Limited Edition",
+        "Reissue",
+        "Remastered",
+        "Stereo"
+      ],
+      "label": [
+        "Beat Records Company",
+        "DDJ Series",
+        "Beat Records Company",
+        "EMI Catalogue Partnership Italy Srl",
+        "Riz Ortolani"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score",
+        "Tribal",
+        "Modern Classical",
+        "Experimental"
+      ],
+      "id": 13101929,
+      "barcode": [
+        "8 032539 494809",
+        "8032539494809",
+        "S.I.A.E.",
+        "ADD",
+        "CANNIBAL HOLOCAUST DDJ047 010700011900",
+        "IFPI LV0+",
+        "IFPI WL29"
+      ],
+      "master_id": 61282,
+      "master_url": "https://api.discogs.com/masters/61282",
+      "uri": "/release/13101929-Riz-Ortolani-Cannibal-Holocaust-Original-Motion-Picture-Soundtrack",
+      "catno": "DDJ047",
+      "title": "Riz Ortolani - Cannibal Holocaust (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/13101929",
+      "community": {
+        "want": 106,
+        "have": 91
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 1,
+    "per_page": 10,
+    "items": 4,
+    "urls": {}
+  },
+  "results": [
+    {
+      "country": "UK",
+      "year": "2014",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Reissue"
+      ],
+      "label": [
+        "Finders Keepers Records",
+        "Finders Keepers Records",
+        "Finders Keepers Records",
+        "MPO"
+      ],
+      "type": "release",
+      "genre": [
+        "Jazz",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 5578375,
+      "barcode": [
+        "5060099505133",
+        "5 060099 505133",
+        "MPO // FKR071LP // A",
+        "MPO // FKR071LP // B"
+      ],
+      "master_id": 382632,
+      "master_url": "https://api.discogs.com/masters/382632",
+      "uri": "/release/5578375-Bruno-Nicolai-Tutti-I-Colori-Del-Buio-Colonna-Sonora-Originale-Del-Film",
+      "catno": "FKR071LP",
+      "title": "Bruno Nicolai - Tutti I Colori Del Buio (Colonna Sonora Originale Del Film)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/5578375",
+      "community": {
+        "want": 417,
+        "have": 409
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Italy",
+      "year": "1972",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Gemelli",
+        "Orthophonic Recording Studio, Roma",
+        "Edizioni Musicali Gemelli"
+      ],
+      "type": "release",
+      "genre": [
+        "Classical",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 3013176,
+      "barcode": [
+        "S.I.A.E."
+      ],
+      "master_id": 382632,
+      "master_url": "https://api.discogs.com/masters/382632",
+      "uri": "/release/3013176-Bruno-Nicolai-Tutti-I-Colori-Del-Buio-Colonna-Sonora-Originale-Del-Film",
+      "catno": "GG - ST 10.014",
+      "title": "Bruno Nicolai - Tutti I Colori Del Buio (Colonna Sonora Originale Del Film)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/3013176",
+      "community": {
+        "want": 584,
+        "have": 60
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Italy",
+      "year": "2004",
+      "format": [
+        "CD",
+        "Album",
+        "Remastered",
+        "Limited Edition"
+      ],
+      "label": [
+        "Digitmovies",
+        "Bruno Nicolai In Giallo",
+        "Ortophonic Studio"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Jazz",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score",
+        "Experimental",
+        "Easy Listening"
+      ],
+      "id": 760493,
+      "barcode": [],
+      "master_id": 382632,
+      "master_url": "https://api.discogs.com/masters/382632",
+      "uri": "/release/760493-Bruno-Nicolai-Tutti-I-Colori-Del-Buio-Original-Motion-Picture-Soundtrack",
+      "catno": "CDDM019",
+      "title": "Bruno Nicolai - Tutti I Colori Del Buio (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/760493",
+      "community": {
+        "want": 164,
+        "have": 115
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Remastered",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2014",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Reissue"
+      ],
+      "label": [
+        "Finders Keepers Records",
+        "Finders Keepers Records",
+        "Finders Keepers Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Jazz",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 6011856,
+      "barcode": [
+        "5060099505300",
+        "MPO // FKR071LP // A",
+        "MPO // FKR071LP // B"
+      ],
+      "master_id": 382632,
+      "master_url": "https://api.discogs.com/masters/382632",
+      "uri": "/release/6011856-Bruno-Nicolai-All-The-Colours-Of-The-Dark-Tutti-I-Colori-Del-Buio",
+      "catno": "FKR071LP-A",
+      "title": "Bruno Nicolai - All The Colours Of The Dark (Tutti I Colori Del Buio)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/6011856",
+      "community": {
+        "want": 481,
+        "have": 341
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red",
+          "descriptions": [
+            "LP",
+            "Reissue"
+          ]
+        }
+      ]
+    }
+  ]
+}

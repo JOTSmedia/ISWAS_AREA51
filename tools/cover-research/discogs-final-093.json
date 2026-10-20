@@ -1,0 +1,123 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 1,
+    "per_page": 5,
+    "items": 2,
+    "urls": {}
+  },
+  "results": [
+    {
+      "country": "US",
+      "year": "1984",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Varèse Sarabande",
+        "JODU",
+        "Audio Graphic Services",
+        "Varèse Sarabande Records, Inc.",
+        "Varèse Sarabande Records, Inc.",
+        "Varèse Sarabande Records, Inc.",
+        "KM Records Inc."
+      ],
+      "type": "master",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score",
+        "Abstract",
+        "Downtempo"
+      ],
+      "id": 108567,
+      "barcode": [
+        "ASCAP",
+        "STV-81199-A",
+        "STV-81199-B",
+        "KM 11730-A Re 2",
+        "KM 11730-B Re 1"
+      ],
+      "master_id": 108567,
+      "master_url": "https://api.discogs.com/masters/108567",
+      "uri": "/master/108567-Joseph-LoDuca-Evil-Dead-Original-Motion-Picture-Soundtrack",
+      "catno": "STV 81199",
+      "title": "Joseph LoDuca - Evil Dead (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/masters/108567",
+      "community": {
+        "want": 1488,
+        "have": 660
+      }
+    },
+    {
+      "country": "US",
+      "year": "1984",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Varèse Sarabande",
+        "JODU",
+        "Audio Graphic Services",
+        "Varèse Sarabande Records, Inc.",
+        "Varèse Sarabande Records, Inc.",
+        "Varèse Sarabande Records, Inc.",
+        "KM Records Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score",
+        "Abstract",
+        "Downtempo"
+      ],
+      "id": 564493,
+      "barcode": [
+        "ASCAP",
+        "STV-81199-A",
+        "STV-81199-B",
+        "KM 11730-A Re 2",
+        "KM 11730-B Re 1"
+      ],
+      "master_id": 108567,
+      "master_url": "https://api.discogs.com/masters/108567",
+      "uri": "/release/564493-Joseph-LoDuca-Evil-Dead-Original-Motion-Picture-Soundtrack",
+      "catno": "STV 81199",
+      "title": "Joseph LoDuca - Evil Dead (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/564493",
+      "community": {
+        "want": 1177,
+        "have": 286
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    }
+  ]
+}

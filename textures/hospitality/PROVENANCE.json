@@ -1,0 +1,16 @@
+{
+  "type": "Code-authored PBR surface maps, not photographic scans",
+  "native_resolution": [
+    4096,
+    4096
+  ],
+  "exports": [
+    1024,
+    2048,
+    4096
+  ],
+  "upscaled": false,
+  "generator": "tools/build_hospitality_materials.py",
+  "seed": 1715,
+  "note": "Native real-time 3D geometry; output canvas resolution adapts to the device. Existing leather albedo retains its original 1408px resolution; native 4096px microdetail is a separate bump map."
+}

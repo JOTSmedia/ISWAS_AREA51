@@ -1,0 +1,610 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 4,
+    "per_page": 10,
+    "items": 36,
+    "urls": {
+      "last": "https://api.discogs.com/database/search?type=release&release_title=The+Fog&artist=John+Carpenter&per_page=10&page=4",
+      "next": "https://api.discogs.com/database/search?type=release&release_title=The+Fog&artist=John+Carpenter&per_page=10&page=2"
+    }
+  },
+  "results": [
+    {
+      "country": "UK",
+      "year": "2013",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Vinyl",
+        "LP",
+        "All Media",
+        "Album",
+        "Limited Edition",
+        "Reissue",
+        "Remastered"
+      ],
+      "label": [
+        "Death Waltz Recording Company",
+        "Silva Screen",
+        "Sound Arts Recording Studio, Los Angeles",
+        "BMG Rights Management",
+        "Dimension Audio",
+        "Digital Outland",
+        "GZ Digital Media"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 4646019,
+      "barcode": [
+        "107767E1/B",
+        "107767E2/B",
+        "107767E3/A",
+        "107767E4/B"
+      ],
+      "master_id": 13905,
+      "master_url": "https://api.discogs.com/masters/13905",
+      "uri": "/release/4646019-John-Carpenter-The-Fog",
+      "catno": "DW013.5",
+      "title": "John Carpenter - The Fog",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/4646019",
+      "community": {
+        "want": 463,
+        "have": 304
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear w/ White Haze (A/B)",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear w/ Green Haze (C/D)",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2015",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Single"
+      ],
+      "label": [
+        "Silva Screen",
+        "Silva Screen Records Ltd.",
+        "StudioCanal",
+        "Sound Arts Recording Studio, Los Angeles"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 6712482,
+      "barcode": [
+        "7 38572 14757 0",
+        "LC 07371",
+        "MCPS"
+      ],
+      "master_id": 1460878,
+      "master_url": "https://api.discogs.com/masters/1460878",
+      "uri": "/release/6712482-John-Carpenter-The-Fog",
+      "catno": "SIL71475",
+      "title": "John Carpenter - The Fog",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/6712482",
+      "community": {
+        "want": 168,
+        "have": 236
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Green",
+          "descriptions": [
+            "7\"",
+            "45 RPM",
+            "Single"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2013",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Reissue"
+      ],
+      "label": [
+        "Death Waltz Recording Company"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 4644927,
+      "barcode": [],
+      "master_id": 13905,
+      "master_url": "https://api.discogs.com/masters/13905",
+      "uri": "/release/4644927-John-Carpenter-The-Fog",
+      "catno": "DW013.5",
+      "title": "John Carpenter - The Fog",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/4644927",
+      "community": {
+        "want": 281,
+        "have": 121
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Single"
+      ],
+      "label": [
+        "Silva Screen",
+        "Silva Screen Records Ltd.",
+        "StudioCanal",
+        "Sound Arts Recording Studio, Los Angeles"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 12855950,
+      "barcode": [
+        "7 38572 14757 0",
+        "LC 07371",
+        "MCPS"
+      ],
+      "master_id": 1460878,
+      "master_url": "https://api.discogs.com/masters/1460878",
+      "uri": "/release/12855950-John-Carpenter-The-Fog",
+      "catno": "SIL71475",
+      "title": "John Carpenter - The Fog",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/12855950",
+      "community": {
+        "want": 62,
+        "have": 153
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red",
+          "descriptions": [
+            "7\"",
+            "45 RPM",
+            "Single"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2013",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Vinyl",
+        "LP",
+        "All Media",
+        "Album",
+        "Limited Edition",
+        "Reissue",
+        "Remastered"
+      ],
+      "label": [
+        "Death Waltz Recording Company"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 4666844,
+      "barcode": [],
+      "master_id": 13905,
+      "master_url": "https://api.discogs.com/masters/13905",
+      "uri": "/release/4666844-John-Carpenter-The-Fog",
+      "catno": "DW013.5",
+      "title": "John Carpenter - The Fog",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/4666844",
+      "community": {
+        "want": 394,
+        "have": 252
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear w/ Green & White Splatter (A/B)",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear w/ Blue & White Splatter (C/D)",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "text": "180g",
+          "descriptions": [
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK & Europe",
+      "year": "2015",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Test Pressing"
+      ],
+      "label": [
+        "Silva Screen"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score"
+      ],
+      "id": 9808596,
+      "barcode": [],
+      "master_id": 13905,
+      "master_url": "https://api.discogs.com/masters/13905",
+      "uri": "/release/9808596-John-Carpenter-The-Fog",
+      "catno": "SILLP1301",
+      "title": "John Carpenter - The Fog",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/9808596",
+      "community": {
+        "want": 102,
+        "have": 4
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Test Pressing"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2013",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Reissue",
+        "Repress"
+      ],
+      "label": [
+        "Death Waltz Recording Company",
+        "Digital Outland",
+        "Dimension Audio",
+        "Sound Arts Recording Studio, Los Angeles",
+        "BMG Rights Management",
+        "Silva Screen",
+        "GZ Digital Media"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 4815706,
+      "barcode": [
+        "8 26853-7935-1 3",
+        "826853793513",
+        "107767E1/B",
+        "107767E2/B",
+        "107767E3/B",
+        "107767E4/B"
+      ],
+      "master_id": 13905,
+      "master_url": "https://api.discogs.com/masters/13905",
+      "uri": "/release/4815706-John-Carpenter-The-Fog",
+      "catno": "DW013.5",
+      "title": "John Carpenter - The Fog",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/4815706",
+      "community": {
+        "want": 630,
+        "have": 1356
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Gold, Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Box Set",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Sacred Bones Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Score"
+      ],
+      "id": 24468509,
+      "barcode": [],
+      "master_id": 2858947,
+      "master_url": "https://api.discogs.com/masters/2858947",
+      "uri": "/release/24468509-John-Carpenter-Cody-Carpenter-And-Daniel-Davies-The-Fog",
+      "catno": "SBR-302",
+      "title": "John Carpenter, Cody Carpenter ,  And Daniel Davies - The Fog",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/24468509",
+      "community": {
+        "want": 50,
+        "have": 101
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue And White Split w/ Black Splatter",
+          "descriptions": [
+            "7\"",
+            "45 RPM"
+          ]
+        },
+        {
+          "name": "Box Set",
+          "qty": "1",
+          "descriptions": [
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Box Set",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Sacred Bones Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Score"
+      ],
+      "id": 25111210,
+      "barcode": [],
+      "master_id": 2858947,
+      "master_url": "https://api.discogs.com/masters/2858947",
+      "uri": "/release/25111210-John-Carpenter-Cody-Carpenter-And-Daniel-Davies-The-Fog",
+      "catno": "SBR-302",
+      "title": "John Carpenter, Cody Carpenter ,  And Daniel Davies - The Fog",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/25111210",
+      "community": {
+        "want": 26,
+        "have": 46
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue & Black Swirl",
+          "descriptions": [
+            "7\"",
+            "45 RPM"
+          ]
+        },
+        {
+          "name": "Box Set",
+          "qty": "1",
+          "descriptions": [
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Germany, Austria, & Switzerland",
+      "year": "2018",
+      "format": [
+        "Blu-ray",
+        "Remastered",
+        "CD",
+        "Reissue",
+        "All Media",
+        "Deluxe Edition",
+        "Limited Edition",
+        "Remastered"
+      ],
+      "label": [
+        "StudioCanal"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Minimal",
+        "Ambient"
+      ],
+      "id": 13346484,
+      "barcode": [
+        "4006680091143"
+      ],
+      "master_id": 13905,
+      "master_url": "https://api.discogs.com/masters/13905",
+      "uri": "/release/13346484-John-Carpenter-The-Fog-Nebel-Des-Grauens",
+      "catno": "506737 SC",
+      "title": "John Carpenter - The Fog Nebel Des Grauens",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/13346484",
+      "community": {
+        "want": 37,
+        "have": 11
+      },
+      "format_quantity": 3,
+      "formats": [
+        {
+          "name": "Blu-ray",
+          "qty": "2",
+          "descriptions": [
+            "Remastered"
+          ]
+        },
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Reissue"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "text": "Digipak",
+          "descriptions": [
+            "Deluxe Edition",
+            "Limited Edition",
+            "Remastered"
+          ]
+        }
+      ]
+    }
+  ]
+}

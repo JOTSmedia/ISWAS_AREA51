@@ -1,0 +1,426 @@
+{
+  "id": 7110601,
+  "status": "Accepted",
+  "year": 2015,
+  "resource_url": "https://api.discogs.com/releases/7110601",
+  "uri": "https://www.discogs.com/release/7110601-Carlo-Maria-Cordio-Absurd-Rosso-Sangue",
+  "artists": [
+    {
+      "name": "Carlo Maria Cordio",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 316265,
+      "resource_url": "https://api.discogs.com/artists/316265",
+      "thumbnail_url": "https://i.discogs.com/d56Jo9mGnQmhggpjB_kLjBSwu94YMIDa7vpj19ieQ4c/rs:fit/g:sm/q:90/h:142/w:109/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMxNjI2/NS0xMTIxODIyODUy/LmpwZw.jpeg"
+    }
+  ],
+  "artists_sort": "Carlo Maria Cordio",
+  "labels": [
+    {
+      "name": "Death Waltz Recording Company",
+      "catno": "DW038",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 406649,
+      "resource_url": "https://api.discogs.com/labels/406649",
+      "thumbnail_url": "https://i.discogs.com/RyBPlRN2npEvvD7pPR0L11vgMVaGzSaUcFRnUCHml3Q/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQwNjY0/OS0xNTc0MDM1MDU3/LTM3MDYuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Creazioni Artistiche Musicali C.A.M. s.r.l.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 337185,
+      "resource_url": "https://api.discogs.com/labels/337185",
+      "thumbnail_url": "https://i.discogs.com/4X4D__jYReZLw559iWu1i2Z0KZluemyNOk7eGOu99p4/rs:fit/g:sm/q:90/h:102/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMzNzE4/NS0xNTY5MTYxMTQz/LTY0ODUucG5n.jpeg"
+    },
+    {
+      "name": "Creazioni Artistiche Musicali C.A.M. s.r.l.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 337185,
+      "resource_url": "https://api.discogs.com/labels/337185",
+      "thumbnail_url": "https://i.discogs.com/4X4D__jYReZLw559iWu1i2Z0KZluemyNOk7eGOu99p4/rs:fit/g:sm/q:90/h:102/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMzNzE4/NS0xNTY5MTYxMTQz/LTY0ODUucG5n.jpeg"
+    },
+    {
+      "name": "GZ Media",
+      "catno": "128143E",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Limited Edition",
+        "Remastered"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 294,
+    "want": 162,
+    "rating": {
+      "count": 36,
+      "average": 4.28
+    },
+    "submitter": {
+      "username": "amig0z",
+      "resource_url": "https://api.discogs.com/users/amig0z"
+    },
+    "contributors": [
+      {
+        "username": "amig0z",
+        "resource_url": "https://api.discogs.com/users/amig0z"
+      },
+      {
+        "username": "Llenyataire",
+        "resource_url": "https://api.discogs.com/users/Llenyataire"
+      },
+      {
+        "username": "Darthemed",
+        "resource_url": "https://api.discogs.com/users/Darthemed"
+      },
+      {
+        "username": "REGE.SATANAS",
+        "resource_url": "https://api.discogs.com/users/REGE.SATANAS"
+      },
+      {
+        "username": "dark.prince",
+        "resource_url": "https://api.discogs.com/users/dark.prince"
+      },
+      {
+        "username": "mjk37",
+        "resource_url": "https://api.discogs.com/users/mjk37"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2015-06-10T05:51:25-07:00",
+  "date_changed": "2021-04-04T08:21:47-07:00",
+  "num_for_sale": 9,
+  "lowest_price": 35.0,
+  "master_id": 844060,
+  "master_url": "https://api.discogs.com/masters/844060",
+  "title": "Absurd (Rosso Sangue)",
+  "country": "US",
+  "released": "2015",
+  "notes": "Death Waltz Recording Company in conjunction with PentaMusic is proud to unleash another cult classic from the video nasty era (and their first in an ongoing series from the legendary CAM Records in Italy) with Carlo Maria Cordio’s musical score to Joe D’Amato’s notorious ABSURD (aka ROSSO SANGUE). A pseudo-sequel to ANTHROPOPHAGUS, the film reunited D’Amato with George Eastman, star of the previous film, and brought the action from Greece to America where the near-invincible Mikos escapes from a hospital to go on a typically gory killing spree. Using drills, band saws, axes, scissors, and an oven, Mikos terrorises the kids of an American (Italian) family until he gets his inevitable comeuppance courtesy of a drawing compass.\n\nCarlo Maria Cordio’s score is centred around a versatile seven-note piano riff that gets an amazing amount of use without ever feeling too stale or repetitive. Cordio augments the riff in interesting and varied ways, sometimes going down the Goblin route with the big and impactful percussion and the funk beats, with a healthy dose of synth, or going for a bit of a chilled out proto-LETHAL WEAPON tune, with noodling electric guitar. Tension is the order of the day much of the time, with synths, an electric keyboard, and a snare drum being Cordio’s weapons. If you love your prog-rock horror music, ABSURD will be right up your alley. Just leave the axe at home, no?\n\nDouble vinyl housed inside a gate-fold sleeve printed on 425gsm reverse board featuring embossed intestines and an exclusive lobby card. \nThe spine reads: I Would Say He Does Not Regenerate Cells Perfectly, That He Is Insane.\n\n22 tracks (8 of which have never been heard before) & includes not only the full score to Absurd but also all of the cues used in the legendary splatter movie Pieces. Exclusively re-mastered for vinyl from the original CAM tapes. ",
+  "released_formatted": "2015",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "5053760014164"
+    },
+    {
+      "type": "Barcode",
+      "value": "5 053760 014164",
+      "description": "Text on OBI"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "128143E1/A",
+      "description": "Side A runout engraved"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "128143E2/A",
+      "description": "Side B runout engraved"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "128143E3/A",
+      "description": "Side C runout engraved"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "128143E4/A",
+      "description": "Side D runout engraved"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=8THPnWWiqR8",
+      "title": "Carlo Maria Cordio - Absurd [Italy] Library, Psych (1981)",
+      "description": "album: Absurd / Rosso Sangue OST (1985 CAM / 2016 Beat Records / 2018 Severin Films)\n---\nhttps://www.discogs.com/master/844060-Carlo-Maria-Cordio-Absurd\n---\ntracks:\n00:00:00 Sequence\n00:01:25 Incontro  \n00:03:16 Sole Sulle Pelle\n00:04:30 Absurd\n00:07:12 I",
+      "duration": 524,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=y0lYL2tiVEU",
+      "title": "Carlo Maria Cordio - Never More - DIGGER'S DIGEST ARCHIVES",
+      "description": "From the dark abstract ambient cult OST / Library  \"Absurd\" composed by Carlo Maria Cordi \nPromo Released only on CAM (CAM CML 197) 1985, Italy.",
+      "duration": 79,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=PnDtHN3ekzI",
+      "title": "ABSURD [FULL VINYL X2]",
+      "description": "***** DONATIVOS: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C7CZGWG3KHXG8&source=url *****\n\nMore soundtracks on: https://www.metacafe.com/channels/un-score-nelcervello/videos/\naka Terror Sin Límite aka Rosso Sangue\nSello: Death ",
+      "duration": 3863,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Stage & Screen"
+  ],
+  "styles": [
+    "Score",
+    "Soundtrack"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Absurd",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Seq 1",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Seq  2",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Seq 3",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Seq 4",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Seq 5",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Seq 6",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Seq 7",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Seq 8",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Seq 9",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Seq 10",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Seq 11",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Seq 12",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Seq 13",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Seq 14",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "Seq 15",
+      "duration": ""
+    },
+    {
+      "position": "C5",
+      "type_": "track",
+      "title": "Seq 16",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Seq 17",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Seq 18",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Seq 19",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "title": "Seq 20",
+      "duration": ""
+    },
+    {
+      "position": "D5",
+      "type_": "track",
+      "title": "Seq 21",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Carlo Maria Cordio",
+      "anv": "",
+      "join": "",
+      "role": "Composed By, Conductor",
+      "tracks": "",
+      "id": 316265,
+      "resource_url": "https://api.discogs.com/artists/316265"
+    },
+    {
+      "name": "Wes Benscoter",
+      "anv": "",
+      "join": "",
+      "role": "Cover [Cover Art By]",
+      "tracks": "",
+      "id": 721642,
+      "resource_url": "https://api.discogs.com/artists/721642"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/aaaG1otUdZ7nEhqQ7M9cLuvJXS80AaN9AtpVnmBeQ7U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQzNTM0MTEy/Ny0yODQxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/aaaG1otUdZ7nEhqQ7M9cLuvJXS80AaN9AtpVnmBeQ7U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQzNTM0MTEy/Ny0yODQxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/HeM4KbDE1lJWcU8yk2OrwFE7vKGkT3SnI7HCw4eOINQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQzNTM0MTEy/Ny0yODQxLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/shL8AWcHz8TJ13OGfiUfCAw3wRUkBYCjnCyNpElQID0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQzMzk0MTAx/Ni02NjkwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/shL8AWcHz8TJ13OGfiUfCAw3wRUkBYCjnCyNpElQID0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQzMzk0MTAx/Ni02NjkwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/7dM-gK4o0uDKkNOxKqpxaAQD1P3guZZB_jxVF3ZQ2vo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQzMzk0MTAx/Ni02NjkwLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/OHSFiPZ5mTpR9jScbulvBxiT1cbBP-LQal5zH6Di7lE/rs:fit/g:sm/q:90/h:296/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQ3MTIzNjky/MC0xMjgxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/OHSFiPZ5mTpR9jScbulvBxiT1cbBP-LQal5zH6Di7lE/rs:fit/g:sm/q:90/h:296/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQ3MTIzNjky/MC0xMjgxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/xnIL1kVPBFwSWToCP1k7xI2iqX1q28XhHHZU-aCJ_54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQ3MTIzNjky/MC0xMjgxLmpwZWc.jpeg",
+      "width": 599,
+      "height": 296
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/htnCd2HbaZvNRbnQQSFQOVBJ0Qr8Q7EvvnuQPdbOSbc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQzNTM0MTEy/OS04NTkyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/htnCd2HbaZvNRbnQQSFQOVBJ0Qr8Q7EvvnuQPdbOSbc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQzNTM0MTEy/OS04NTkyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/GM7P69iU5H1I48CIe03WRsGfhSoKUeX8Bn7XsArxub0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQzNTM0MTEy/OS04NTkyLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/syDo89MtC_-Tmh2RPHF2GCl8kPpXvWlWzh6afPYAnHA/rs:fit/g:sm/q:90/h:600/w:259/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQ3MTIzNzYx/NC0xMzc4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/syDo89MtC_-Tmh2RPHF2GCl8kPpXvWlWzh6afPYAnHA/rs:fit/g:sm/q:90/h:600/w:259/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQ3MTIzNzYx/NC0xMzc4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/wv0nLx2tatUJuvbGn_LBPwTU_kBaflVR59H1zg14WGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQ3MTIzNzYx/NC0xMzc4LmpwZWc.jpeg",
+      "width": 259,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/oQqdbCQlbMlOEtzrl2hwKrIZ_DLEl1CGs4d1U1zYnMI/rs:fit/g:sm/q:90/h:420/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQ3MTI1Mzc4/My00NTIzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/oQqdbCQlbMlOEtzrl2hwKrIZ_DLEl1CGs4d1U1zYnMI/rs:fit/g:sm/q:90/h:420/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQ3MTI1Mzc4/My00NTIzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/kjwLJ5FeeG5AgAja9v8Qbfns2EdUafwSFFQC9opozcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQ3MTI1Mzc4/My00NTIzLmpwZWc.jpeg",
+      "width": 600,
+      "height": 420
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/E2ayY14cItbuUi-KvkbrpFaCO0QoGm0i6U-9ih_VipM/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQ3MTIzODE5/Mi0xMTE3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/E2ayY14cItbuUi-KvkbrpFaCO0QoGm0i6U-9ih_VipM/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQ3MTIzODE5/Mi0xMTE3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/93OBNbnE-dKp10Aixq1gHLq0-Skq-GOBdVHO4twzUlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQ3MTIzODE5/Mi0xMTE3LmpwZWc.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ttbs88nmlk8_a_x_DvVHLKsAMZ2Sjg8HIY-wNU43O8g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQ3MTIzODE5/OC05NjA2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/ttbs88nmlk8_a_x_DvVHLKsAMZ2Sjg8HIY-wNU43O8g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQ3MTIzODE5/OC05NjA2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/wusLR4R7lCIWrs4S40WpYyt9nPjxuBFIPcoLhoxPB7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQ3MTIzODE5/OC05NjA2LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/P_dyIDmeXCZtzOMQuaWvwsy3_ecZB--ienKhg6YrT2Q/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQ3MTIzODIw/NC05MTcwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/P_dyIDmeXCZtzOMQuaWvwsy3_ecZB--ienKhg6YrT2Q/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQ3MTIzODIw/NC05MTcwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/tD-X_wgzZVWmxZ8YO6XfbwIe01hfgdwEljGpUX62iaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQ3MTIzODIw/NC05MTcwLmpwZWc.jpeg",
+      "width": 593,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/VIi9e6rYQfJZZUMFZ3CwqOVgcG2k-9FM2KGs91-9T70/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQ3MTIzODIx/MS02OTkzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/VIi9e6rYQfJZZUMFZ3CwqOVgcG2k-9FM2KGs91-9T70/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQ3MTIzODIx/MS02OTkzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/Ij-cHJjgRUXZTVgO1ZuFq_VHKsfmbRGjOjyusYBcUyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQ3MTIzODIx/MS02OTkzLmpwZWc.jpeg",
+      "width": 594,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/HeM4KbDE1lJWcU8yk2OrwFE7vKGkT3SnI7HCw4eOINQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/MDEtMTQzNTM0MTEy/Ny0yODQxLmpwZWc.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

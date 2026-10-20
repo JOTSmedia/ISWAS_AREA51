@@ -1,0 +1,22 @@
+import fs from 'node:fs';
+import assert from 'node:assert/strict';
+import vm from 'node:vm';
+const source=fs.readFileSync(new URL('../assets/index-v17-17.js',import.meta.url),'utf8');
+const start=source.indexOf('function Nv('),end=source.indexOf('function Pv(',start);
+let callback,cleanup,documentScans=0,subtreeScans=0,scheduled=0,disconnected=false;
+const cleared=[];
+const logo=()=>({nodeType:1,isConnected:true,matches:selector=>selector==='.mark-scream',querySelectorAll:()=>[],classList:{add(){},remove(){}}});
+const initial=logo();
+const document={body:{},getElementById:()=>({}),querySelectorAll:selector=>{documentScans++;assert.equal(selector,'.mark-scream');return [initial]}};
+const window={matchMedia:()=>({matches:false}),setTimeout:()=>++scheduled,clearTimeout:id=>cleared.push(id)};
+class MutationObserver{constructor(fn){callback=fn}observe(body,options){assert.equal(body,document.body);assert.equal(options.childList,true);assert.equal(options.subtree,true)}disconnect(){disconnected=true}}
+vm.runInNewContext(source.slice(start,end)+';Nv()',{I:{useEffect:fn=>cleanup=fn()},document,window,MutationObserver});
+assert.equal(documentScans,1);assert.equal(scheduled,1,'Existing logo retains its glow timer');
+for(let i=1;i<=100;i++)callback([{addedNodes:[{nodeType:3,textContent:String(i)}]}]);
+assert.equal(documentScans,1,'Loader percentage changes never rescan the whole document');assert.equal(scheduled,1);
+const inserted=logo();callback([{addedNodes:[inserted]}]);assert.equal(scheduled,2,'Directly inserted logo gets a timer');
+const nested=logo(),parent={nodeType:1,matches:()=>false,querySelectorAll:selector=>{subtreeScans++;assert.equal(selector,'.mark-scream');return [nested]}};
+callback([{addedNodes:[parent]}]);assert.equal(scheduled,3,'Logos in new route subtrees get timers');assert.equal(subtreeScans,1);
+callback([{addedNodes:[inserted,parent]}]);assert.equal(scheduled,3,'Already tracked logos do not acquire duplicate timers');assert.equal(documentScans,1);
+cleanup();assert.equal(disconnected,true);assert.equal(cleared.length,3,'Unmount cleans every active timer');
+console.log('PASS: one initial logo scan, no global scans during100 loader text updates, added-element/subtree discovery, timer deduplication, and cleanup.');

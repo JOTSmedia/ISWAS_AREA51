@@ -1,0 +1,30 @@
+import assert from 'node:assert/strict';
+import {readFileSync,statSync} from 'node:fs';
+import {createHash} from 'node:crypto';
+const root=new URL('../',import.meta.url);
+const rows=JSON.parse(readFileSync(new URL('data/horror-soundtracks.json',root)));
+const sources=JSON.parse(readFileSync(new URL('record-cover-sources.json',import.meta.url)));
+assert.equal(sources.length,100);assert.equal(new Set(sources.map(s=>s.rank)).size,100);
+const hashes=new Set();
+for(const record of rows){
+ const source=sources.find(s=>s.rank===record.rank),cover=record.cover;
+ assert.ok(source&&cover,`Record ${record.rank} has a traceable cover`);
+ assert.equal(cover.src,`textures/records/covers/soundtrack-${String(record.rank).padStart(3,'0')}.webp`);
+ assert.match(source.releaseUrl,/^https:\/\//);assert.match(source.imageUrl,/^https:\/\//);
+ assert.ok(source.albumTitle&&source.albumArtist&&source.sourceProvider);
+ assert.ok(cover.width>0&&cover.height>0&&Math.max(cover.width,cover.height)<=512);
+ assert.ok(cover.width<=source.nativeDimensions[0]&&cover.height<=source.nativeDimensions[1],'Popup artwork is never enlarged beyond its source');
+ const file=readFileSync(new URL(cover.src,root));
+ assert.equal(file.toString('ascii',0,4),'RIFF');assert.equal(file.toString('ascii',8,12),'WEBP');assert.ok(file.length>1000);
+ hashes.add(createHash('sha256').update(file).digest('hex'));
+ assert.ok(statSync(new URL(source.localSource,root)).size>1000);
+}
+assert.equal(hashes.size,100,'Every catalogue record has distinct actual artwork');
+for(const rank of [35,40,71,82])assert.ok(rows[rank-1].cover.note,'Archival/unofficial editions are identified');
+assert.match(rows[9].cover.album,/Film Music.*Takemitsu.*1/i);
+assert.match(rows[56].cover.artist,/Coil/i);
+assert.match(rows[50].composer,/Chattaway/);assert.match(rows[78].cover.artist,/Rob/i);
+assert.match(rows[92].cover.album,/Evil Dead/i);assert.match(rows[92].cover.artist,/LoDuca/i);
+const player=readFileSync(new URL('assets/record-player-v17-17.js',root),'utf8');
+assert.match(player,/<img class="record-sleeve"/);assert.match(player,/new URL\('\.\.\/'\+r\.cover\.src,import\.meta\.url\)/);
+console.log('PASS: 100 distinct locally bundled real cover images, traceable source editions, non-upscaled popup sizes, correct special-case scores, and clear archival-edition notes.');

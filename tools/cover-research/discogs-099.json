@@ -1,0 +1,435 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 1,
+    "per_page": 10,
+    "items": 8,
+    "urls": {}
+  },
+  "results": [
+    {
+      "country": "US",
+      "year": "2014",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Deluxe Edition",
+        "Limited Edition",
+        "Remastered"
+      ],
+      "label": [
+        "Strange Disc Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Surf",
+        "Score"
+      ],
+      "id": 5992493,
+      "barcode": [
+        "826853749114"
+      ],
+      "master_id": 721970,
+      "master_url": "https://api.discogs.com/masters/721970",
+      "uri": "/release/5992493-Jon-McCallum-Surf-Nazis-Must-Die-Original-1987-Motion-Picture-Soundtrack",
+      "catno": "SD-001LP",
+      "title": "Jon McCallum - Surf Nazis Must Die (Original 1987 Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/5992493",
+      "community": {
+        "want": 209,
+        "have": 515
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition",
+            "Limited Edition",
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2014",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Remastered",
+        "Deluxe Edition",
+        "Limited Edition"
+      ],
+      "label": [
+        "Strange Disc Records",
+        "United Record Pressing"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Surf",
+        "Score"
+      ],
+      "id": 5992564,
+      "barcode": [],
+      "master_id": 721970,
+      "master_url": "https://api.discogs.com/masters/721970",
+      "uri": "/release/5992564-Jon-McCallum-Surf-Nazis-Must-Die-Original-1987-Motion-Picture-Soundtrack",
+      "catno": "SD-001LP",
+      "title": "Jon McCallum - Surf Nazis Must Die (Original 1987 Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/5992564",
+      "community": {
+        "want": 135,
+        "have": 104
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue/Red Split",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Remastered",
+            "Deluxe Edition",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Strange Disc Records",
+        "Light In The Attic",
+        "Mondo",
+        "Light In The Attic",
+        "United Record Pressing"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Surf",
+        "Score"
+      ],
+      "id": 11302767,
+      "barcode": [
+        "092624999600"
+      ],
+      "master_id": 721970,
+      "master_url": "https://api.discogs.com/masters/721970",
+      "uri": "/release/11302767-Jon-McCallum-Surf-Nazis-Must-Die-Original-1987-Motion-Picture-Soundtrack",
+      "catno": "SD-001LP",
+      "title": "Jon McCallum - Surf Nazis Must Die (Original 1987 Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/11302767",
+      "community": {
+        "want": 92,
+        "have": 117
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Silver/Blue swirl",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Strange Disc Records",
+        "Light In The Attic",
+        "Zavvi",
+        "United Record Pressing"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Surf",
+        "Score"
+      ],
+      "id": 11302776,
+      "barcode": [
+        "092624999655"
+      ],
+      "master_id": 721970,
+      "master_url": "https://api.discogs.com/masters/721970",
+      "uri": "/release/11302776-Jon-McCallum-Surf-Nazis-Must-Die-Original-1987-Motion-Picture-Soundtrack",
+      "catno": "SD-001LP",
+      "title": "Jon McCallum - Surf Nazis Must Die (Original 1987 Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/11302776",
+      "community": {
+        "want": 70,
+        "have": 41
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue/Red Splatter",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2014",
+      "format": [
+        "Cassette",
+        "Album",
+        "Deluxe Edition",
+        "Limited Edition"
+      ],
+      "label": [
+        "Strange Disc Records",
+        "One Way Static Records",
+        "Light In The Attic"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Surf",
+        "Score"
+      ],
+      "id": 6075344,
+      "barcode": [
+        "725410861439"
+      ],
+      "master_id": 721970,
+      "master_url": "https://api.discogs.com/masters/721970",
+      "uri": "/release/6075344-Jon-McCallum-Surf-Nazis-Must-Die-Original-1987-Motion-Picture-Soundtrack",
+      "catno": "StrangeStatic01",
+      "title": "Jon McCallum - Surf Nazis Must Die (Original 1987 Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/6075344",
+      "community": {
+        "want": 106,
+        "have": 63
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Deluxe Edition",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Deluxe Edition",
+        "Limited Edition",
+        "Remastered",
+        "Repress"
+      ],
+      "label": [
+        "Strange Disc Records",
+        "United Record Pressing"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Surf",
+        "Score"
+      ],
+      "id": 6936821,
+      "barcode": [
+        "826853749114"
+      ],
+      "master_id": 721970,
+      "master_url": "https://api.discogs.com/masters/721970",
+      "uri": "/release/6936821-Jon-McCallum-Surf-Nazis-Must-Die-Original-1987-Motion-Picture-Soundtrack",
+      "catno": "SD-001LP",
+      "title": "Jon McCallum - Surf Nazis Must Die (Original 1987 Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/6936821",
+      "community": {
+        "want": 132,
+        "have": 160
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue & Red Swirl",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition",
+            "Limited Edition",
+            "Remastered",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Numbered",
+        "Test Pressing"
+      ],
+      "label": [
+        "Strange Disc Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Surf",
+        "Score"
+      ],
+      "id": 12273193,
+      "barcode": [],
+      "master_id": 721970,
+      "master_url": "https://api.discogs.com/masters/721970",
+      "uri": "/release/12273193-Jon-McCallum-Surf-Nazis-Must-Die-Original-1987-Motion-Picture-Soundtrack",
+      "catno": "SD-001LP",
+      "title": "Jon McCallum - Surf Nazis Must Die (Original 1987 Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/12273193",
+      "community": {
+        "want": 37,
+        "have": 4
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Numbered",
+            "Test Pressing"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Strange Disc Records",
+        "Light In The Attic"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Surf",
+        "Score"
+      ],
+      "id": 11302711,
+      "barcode": [
+        "092624999594"
+      ],
+      "master_id": 721970,
+      "master_url": "https://api.discogs.com/masters/721970",
+      "uri": "/release/11302711-Jon-McCallum-Surf-Nazis-Must-Die-Original-1987-Motion-Picture-Soundtrack",
+      "catno": "SD-001LP",
+      "title": "Jon McCallum - Surf Nazis Must Die (Original 1987 Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/11302711",
+      "community": {
+        "want": 68,
+        "have": 145
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ]
+}

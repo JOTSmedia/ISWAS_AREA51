@@ -1,0 +1,440 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 1,
+    "per_page": 10,
+    "items": 8,
+    "urls": {}
+  },
+  "results": [
+    {
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "We Release Whatever The Fuck We Want Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Classical",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Modern Classical",
+        "Score",
+        "Contemporary"
+      ],
+      "id": 17141365,
+      "barcode": [
+        "4251804122658",
+        "WRWTFWW045CD AK23937-01 manufactured by optimal media GmbhH",
+        "IFPI L578",
+        "IFPI 9706"
+      ],
+      "master_id": 403962,
+      "master_url": "https://api.discogs.com/masters/403962",
+      "uri": "/release/17141365-Richard-Band-Troll-Original-Soundtrack",
+      "catno": "WRWTFWW045CD",
+      "title": "Richard Band - Troll (Original Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/17141365",
+      "community": {
+        "want": 14,
+        "have": 17
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Reissue",
+        "Test Pressing"
+      ],
+      "label": [
+        "We Release Whatever The Fuck We Want Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Classical",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Modern Classical",
+        "Score",
+        "Contemporary"
+      ],
+      "id": 18283261,
+      "barcode": [
+        "4251804122641"
+      ],
+      "master_id": 403962,
+      "master_url": "https://api.discogs.com/masters/403962",
+      "uri": "/release/18283261-Richard-Band-Troll-Original-Soundtrack",
+      "catno": "WRWTFWW045LTD",
+      "title": "Richard Band - Troll (Original Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/18283261",
+      "community": {
+        "want": 9,
+        "have": 10
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Reissue",
+            "Test Pressing"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "We Release Whatever The Fuck We Want Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Classical",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Modern Classical",
+        "Score",
+        "Contemporary"
+      ],
+      "id": 16291162,
+      "barcode": [
+        "4251804122641"
+      ],
+      "master_id": 403962,
+      "master_url": "https://api.discogs.com/masters/403962",
+      "uri": "/release/16291162-Richard-Band-Troll-Original-Soundtrack",
+      "catno": "WRWTFWW045LTD",
+      "title": "Richard Band - Troll (Original Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/16291162",
+      "community": {
+        "want": 67,
+        "have": 230
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Yellow, 180g",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Reissue"
+      ],
+      "label": [
+        "Intrada",
+        "Fantasy Studios",
+        "Charles Band Music",
+        "Richard Band Publishing",
+        "designWELL"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Classical",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Modern Classical",
+        "Score",
+        "Contemporary"
+      ],
+      "id": 8071978,
+      "barcode": [
+        "7 20258 30012 6",
+        "7 20258 30002 7",
+        "INT-3001  A  A.MS",
+        "INT 3001  B  A.MS"
+      ],
+      "master_id": 403962,
+      "master_url": "https://api.discogs.com/masters/403962",
+      "uri": "/release/8071978-Richard-Band-Troll-Original-Motion-Picture-Soundtrack",
+      "catno": "INT 3001",
+      "title": "Richard Band - Troll (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/8071978",
+      "community": {
+        "want": 50,
+        "have": 117
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "180g",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Unknown",
+      "genre": [
+        "Electronic",
+        "Classical",
+        "Stage & Screen"
+      ],
+      "format": [
+        "CD",
+        "Album",
+        "Unofficial Release"
+      ],
+      "style": [
+        "Modern Classical",
+        "Score",
+        "Contemporary"
+      ],
+      "id": 7491063,
+      "label": [
+        "Restless Records",
+        "Empire Music"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 1877-72119-2"
+      ],
+      "master_id": 403962,
+      "master_url": "https://api.discogs.com/masters/403962",
+      "uri": "/release/7491063-Richard-Band-Troll-Original-Motion-Picture-Soundtrack",
+      "catno": "72119-1",
+      "title": "Richard Band - Troll (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/7491063",
+      "community": {
+        "want": 7,
+        "have": 4
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1985",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Restless Records",
+        "Empire Music"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Classical",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Modern Classical",
+        "Score",
+        "Contemporary"
+      ],
+      "id": 6473039,
+      "barcode": [
+        "018777211949",
+        "1877-72119-4"
+      ],
+      "master_id": 403962,
+      "master_url": "https://api.discogs.com/masters/403962",
+      "uri": "/release/6473039-Richard-Band-Troll-Original-Motion-Picture-Soundtrack",
+      "catno": "72119-4",
+      "title": "Richard Band - Troll (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/6473039",
+      "community": {
+        "want": 23,
+        "have": 9
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2006",
+      "format": [
+        "CD",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Intrada",
+        "Intrada Signature Editions",
+        "Richard H. Band Productions, Inc.",
+        "Intrada",
+        "Intrada",
+        "Intrada",
+        "designWELL"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Classical",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Modern Classical",
+        "Score",
+        "Contemporary"
+      ],
+      "id": 1070282,
+      "barcode": [
+        "CD Troll 11797 01",
+        "IFPI LL29"
+      ],
+      "master_id": 403962,
+      "master_url": "https://api.discogs.com/masters/403962",
+      "uri": "/release/1070282-Richard-Band-Troll-Original-Motion-Picture-Soundtrack",
+      "catno": "ISE 1010",
+      "title": "Richard Band - Troll (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/1070282",
+      "community": {
+        "want": 35,
+        "have": 71
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1985",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Restless Records",
+        "Empire Music",
+        "Altar Productions, Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Classical",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Modern Classical",
+        "Score",
+        "Contemporary"
+      ],
+      "id": 3365682,
+      "barcode": [
+        "0 1877-72119-1",
+        "1877-72119-1",
+        "72119-I-A G-2 S-15536 12 E 1",
+        "72119-I-A G-2 S-15536 12 E 1",
+        "MASTERED BY CAPITOL"
+      ],
+      "master_id": 403962,
+      "master_url": "https://api.discogs.com/masters/403962",
+      "uri": "/release/3365682-Richard-Band-Troll-Original-Motion-Picture-Soundtrack",
+      "catno": "72119-1",
+      "title": "Richard Band - Troll (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/3365682",
+      "community": {
+        "want": 170,
+        "have": 188
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ]
+}

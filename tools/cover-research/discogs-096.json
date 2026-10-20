@@ -1,0 +1,258 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 1,
+    "per_page": 10,
+    "items": 4,
+    "urls": {}
+  },
+  "results": [
+    {
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Remastered",
+        "Mono"
+      ],
+      "label": [
+        "Waxwork Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Ambient",
+        "Drone",
+        "Minimal"
+      ],
+      "id": 9110043,
+      "barcode": [
+        "7 28028 43072 1",
+        "728028430721",
+        "WW-023 A WW-023 A DC",
+        "WW-023 B WW-023 B DC"
+      ],
+      "master_id": 1064662,
+      "master_url": "https://api.discogs.com/masters/1064662",
+      "uri": "/release/9110043-Richard-Einhorn-Shock-Waves-Original-Motion-Picture-Score",
+      "catno": "WW023",
+      "title": "Richard Einhorn - Shock Waves (Original Motion Picture Score)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/9110043",
+      "community": {
+        "want": 157,
+        "have": 537
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Sea Foam Green",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Remastered",
+            "Mono"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2014",
+      "format": [
+        "CD",
+        "Album",
+        "Remastered",
+        "Mono"
+      ],
+      "label": [
+        "Howlin' Wolf Records",
+        "Howlin' Wolf Records",
+        "Howlin' Wolf Records",
+        "Zopix Company",
+        "Route 66 Interactive Multimedia LLC",
+        "Zopix Company",
+        "Route 66 Interactive Multimedia LLC",
+        "Optical Experts Manufacturing",
+        "Avatar Studios",
+        "Optical Experts Manufacturing"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Ambient",
+        "Drone",
+        "Minimal",
+        "Score",
+        "Soundtrack"
+      ],
+      "id": 6701894,
+      "barcode": [
+        "6 16892 26674 7",
+        "0616892266747",
+        "12/31/2014 05:38:10.10#37173 IFPI LN09 2674947 01",
+        "IFPI LN09",
+        "IFPI JI02"
+      ],
+      "master_id": 1064662,
+      "master_url": "https://api.discogs.com/masters/1064662",
+      "uri": "/release/6701894-Richard-Einhorn-Shock-Waves-Original-Motion-Picture-Soundtrack",
+      "catno": "HWRCD-025",
+      "title": "Richard Einhorn - Shock Waves (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/6701894",
+      "community": {
+        "want": 62,
+        "have": 48
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Remastered",
+            "Mono"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Remastered"
+      ],
+      "label": [
+        "Waxwork Records",
+        "Sadist Art Designs"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Ambient",
+        "Drone",
+        "Minimal"
+      ],
+      "id": 9109960,
+      "barcode": [
+        "7 28028 43072 1",
+        "728028430721"
+      ],
+      "master_id": 1064662,
+      "master_url": "https://api.discogs.com/masters/1064662",
+      "uri": "/release/9109960-Richard-Einhorn-Shock-Waves-Original-Motion-Picture-Score",
+      "catno": "WW023",
+      "title": "Richard Einhorn - Shock Waves (Original Motion Picture Score)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/9109960",
+      "community": {
+        "want": 191,
+        "have": 428
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Sea Foam Green w/ Blue Splatter",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue",
+        "Remastered"
+      ],
+      "label": [
+        "Howlin' Wolf Records",
+        "The ADS Group",
+        "Zopix Company",
+        "Route 66 Interactive Multimedia LLC",
+        "Zopix Company",
+        "Route 66 Interactive Multimedia LLC",
+        "Howlin' Wolf Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Ambient",
+        "Drone",
+        "Minimal",
+        "Score",
+        "Soundtrack"
+      ],
+      "id": 27423735,
+      "barcode": [
+        "8 43563 16600 0",
+        "0843563166000",
+        "HWRCD055 6745-CD-5742 23-143-03-2",
+        "IFPI LY89",
+        "IFPI L820"
+      ],
+      "master_id": 1064662,
+      "master_url": "https://api.discogs.com/masters/1064662",
+      "uri": "/release/27423735-Richard-Einhorn-Shock-Waves-Original-Motion-Picture-Soundtrack",
+      "catno": "HWRCD-055",
+      "title": "Richard Einhorn - Shock Waves (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/27423735",
+      "community": {
+        "want": 16,
+        "have": 33
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Expanded Edition",
+          "descriptions": [
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ]
+    }
+  ]
+}

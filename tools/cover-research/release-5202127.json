@@ -1,0 +1,141 @@
+{
+  "id": 5202127,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/5202127",
+  "uri": "https://www.discogs.com/release/5202127-Toru-Takemitsu-Film-Music-By-Toru-Takemitsu-1",
+  "artists": [
+    {
+      "name": "Toru Takemitsu",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 115467,
+      "resource_url": "https://api.discogs.com/artists/115467",
+      "thumbnail_url": "https://i.discogs.com/JkMkjtG_YXkYFYTKT8NL5tAJ50NfMd80rxjQgvj-2xY/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTExNTQ2/Ny0xNjAyOTIzMDQx/LTE5MzguanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Toru Takemitsu",
+  "labels": [
+    {
+      "name": "JVC",
+      "catno": "VICG-5124",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 28272,
+      "resource_url": "https://api.discogs.com/labels/28272",
+      "thumbnail_url": "https://i.discogs.com/WgO1MbCwbvd03_NCSa_I8zrIPHL6rv8hb4pkf2yVN6I/rs:fit/g:sm/q:90/h:245/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4Mjcy/LTEzMTU1MDQzODgu/anBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "CD",
+      "qty": "1",
+      "descriptions": []
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 35,
+    "want": 68,
+    "rating": {
+      "count": 5,
+      "average": 4.4
+    },
+    "submitter": {
+      "username": "carthage9000",
+      "resource_url": "https://api.discogs.com/users/carthage9000"
+    },
+    "contributors": [
+      {
+        "username": "carthage9000",
+        "resource_url": "https://api.discogs.com/users/carthage9000"
+      },
+      {
+        "username": "billfitzgerald",
+        "resource_url": "https://api.discogs.com/users/billfitzgerald"
+      },
+      {
+        "username": "flamerik",
+        "resource_url": "https://api.discogs.com/users/flamerik"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2013-12-17T13:02:44-08:00",
+  "date_changed": "2018-02-21T14:28:31-08:00",
+  "num_for_sale": 2,
+  "lowest_price": 29.22,
+  "title": "Film Music By Toru Takemitsu 1",
+  "country": "Japan",
+  "released": "1990",
+  "released_formatted": "1990",
+  "identifiers": [
+    {
+      "type": "Label Code",
+      "value": "VICG-5124"
+    },
+    {
+      "type": "Barcode",
+      "value": "4988002223268"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    "Stage & Screen"
+  ],
+  "styles": [
+    "Soundtrack"
+  ],
+  "tracklist": [
+    {
+      "position": "1",
+      "type_": "track",
+      "title": "Kwaidan (1964)",
+      "duration": "27:18"
+    },
+    {
+      "position": "2",
+      "type_": "track",
+      "title": "Harakiri (1962)",
+      "duration": "16:08"
+    },
+    {
+      "position": "3",
+      "type_": "track",
+      "title": "Glowing Autumn (1979)",
+      "duration": "3:13"
+    },
+    {
+      "position": "4",
+      "type_": "track",
+      "title": "The Inheritance (1962)",
+      "duration": "5:23"
+    },
+    {
+      "position": "5",
+      "type_": "track",
+      "title": "Hymn For A Tired Man (1968)",
+      "duration": "5:53"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/IzzCl-p-Y4cwGknnmZlGB__VmzkxV9wlgIgZIA8v5IE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDIx/MjctMTQyNDE5NzAx/Ny03MjAxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/IzzCl-p-Y4cwGknnmZlGB__VmzkxV9wlgIgZIA8v5IE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDIx/MjctMTQyNDE5NzAx/Ny03MjAxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/LyZMz3Z43k_YTgJQRDaLUuwfcdDrcXVHwWt1r_5iK3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDIx/MjctMTQyNDE5NzAx/Ny03MjAxLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/LyZMz3Z43k_YTgJQRDaLUuwfcdDrcXVHwWt1r_5iK3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDIx/MjctMTQyNDE5NzAx/Ny03MjAxLmpwZWc.jpeg",
+  "estimated_weight": 85,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

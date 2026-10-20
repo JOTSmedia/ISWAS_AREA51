@@ -1,0 +1,36 @@
+/* v17.18: reuse the existing loading-screen logo, fonts, blood and background. */
+html,body.access-gated{min-height:100%;margin:0;background:#07060a;color:#f4ead7}
+body.access-gated{font-family:var(--font-sans);overflow:hidden}
+.access-screen{gap:0!important}
+.access-screen .load-lock{flex-shrink:0}
+.access-caption{position:relative;z-index:3;margin:2.6rem auto 0;text-align:center;text-align-last:center}
+.access-caption h1{margin:0;font-size:clamp(.9rem,1.9vw,1.12rem);font-weight:500;line-height:1.4;letter-spacing:.3em;text-indent:.3em;color:#f4ead7}
+.access-link{display:inline-flex;align-items:center;justify-content:center;gap:.7rem;min-height:44px;margin:.75rem auto 0;padding:.35rem .6rem;border:0;background:transparent;color:#bcb0a5;font:inherit;font-size:.65rem;letter-spacing:.16em;cursor:pointer;text-decoration:underline;text-underline-offset:.4em;text-decoration-color:#6e5550;transition:color .2s}
+.access-link span{color:#c4232c;font-size:1rem}
+.access-link:hover{color:#fff2df}
+.access-link:focus-visible,.pin-close:focus-visible,.pin-submit:focus-visible{outline:2px solid #dc5660;outline-offset:4px}
+.access-feedback{position:absolute;top:100%;left:50%;width:min(85vw,29rem);transform:translateX(-50%);margin:.65rem 0 0;color:#c9b6ac;font-size:.64rem;line-height:1.6;letter-spacing:.08em;text-transform:uppercase}
+.access-noscript{max-width:90vw;font-size:.7rem;letter-spacing:.08em;color:#c9b6ac}
+.pin-dialog{position:fixed;inset:0;box-sizing:border-box;width:min(25rem,calc(100vw - 2rem));max-height:calc(100dvh - 2rem);overflow:auto;margin:auto;padding:2.7rem 2rem 2rem;border:1px solid #663039;border-radius:2px;background:#0d090d;color:#f4ead7;font:inherit;text-align:center;text-align-last:center;box-shadow:0 1.5rem 6rem #000b,0 0 2.5rem #4f071d25}
+.pin-dialog::backdrop{background:#030205ce;backdrop-filter:blur(8px)}
+.pin-dialog form{margin:0}
+.pin-close{position:absolute;top:.4rem;right:.4rem;display:grid;place-items:center;width:44px;height:44px;border:0;background:transparent;color:#bcb0a5;font:inherit;font-size:1.6rem;cursor:pointer}
+.pin-kicker{margin:0 0 .8rem;color:#c94a53;font-size:.6rem;letter-spacing:.25em}
+.pin-dialog h2{margin:0;font-size:1.1rem;font-weight:500;letter-spacing:.15em;line-height:1.4}
+.pin-dialog #pin-help{margin:.8rem 0 1.6rem;color:#bcb0a5;font-size:.6rem;letter-spacing:.05em;line-height:1.6}
+.pin-entry{position:relative;box-sizing:border-box;width:224px;max-width:100%;height:58px;margin:0 auto;border:1px solid #765059;border-radius:2px;background:#180d14}
+.pin-entry:focus-within{border-color:#dd6a75;box-shadow:0 0 0 2px #dd6a7530}
+.pin-boxes{display:grid;grid-template-columns:repeat(4,1fr);height:100%;pointer-events:none}
+.pin-boxes span{display:grid;place-items:center;border-right:1px solid #765059}
+.pin-boxes span:last-child{border-right:0}
+.pin-boxes span::after{content:"•";font-size:26px;line-height:1;opacity:0;color:#f4ead7}
+.pin-boxes span.is-filled::after{opacity:1}
+#access-pin{position:absolute;inset:0;box-sizing:border-box;width:100%;height:100%;margin:0;padding:0;border:0;border-radius:0;background:transparent;color:transparent!important;-webkit-text-fill-color:transparent!important;caret-color:transparent;font:16px/1 monospace;letter-spacing:normal;outline:none;text-align:left;text-transform:none;font-variant-caps:normal}
+#access-pin:disabled{opacity:.55}
+.pin-error{min-height:1.8rem;margin:.75rem 0 .35rem;color:#e5b5b8;font-size:.65rem;line-height:1.5;letter-spacing:.03em}
+.pin-submit{display:flex;justify-content:space-between;align-items:center;width:224px;max-width:100%;min-height:44px;margin:0 auto;padding:.75rem 1rem;border:1px solid #96343f;background:#53151e;color:#fff0e0;font:inherit;font-size:.68rem;letter-spacing:.16em;cursor:pointer}
+.pin-submit:hover{background:#70212b}
+.pin-submit:disabled{cursor:wait;opacity:.65}
+@media(max-width:767px){.access-caption{margin-top:1.5rem}.pin-dialog{padding:2.7rem 1.5rem 1.7rem}}
+@media(max-height:440px){.access-screen{padding-top:1rem!important;padding-bottom:1rem!important}.access-screen .load-lock.hero-title{font-size:1.15rem!important}.access-screen .load-scream-slot{font-size:2rem!important}.access-caption{margin-top:1rem}.pin-dialog{padding:1.4rem 1.5rem}.pin-dialog #pin-help{margin:.5rem 0 .75rem}}
+@media(prefers-reduced-motion:reduce){.access-screen *,.access-screen *::before,.access-screen *::after{animation:none!important;transition:none!important}.access-screen .drip{opacity:1!important}.access-screen .neck{transform:scaleY(1)!important}.access-screen .bead{top:calc(100% - .15em)!important;transform:translate(-50%,-58%) scale(1)!important}}

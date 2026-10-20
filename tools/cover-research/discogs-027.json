@@ -1,0 +1,445 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 1,
+    "per_page": 10,
+    "items": 8,
+    "urls": {}
+  },
+  "results": [
+    {
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Ship To Shore Phonograph Co.",
+        "Shelter Island Sound",
+        "Shelter Island Sound",
+        "Triton Studios, Boston",
+        "Intermedia Sound, Boston"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Score",
+        "Soundtrack"
+      ],
+      "id": 7303379,
+      "barcode": [
+        "7 24101 77851 3",
+        "724101778513"
+      ],
+      "master_id": 443163,
+      "master_url": "https://api.discogs.com/masters/443163",
+      "uri": "/release/7303379-Donald-Rubinstein-Martin",
+      "catno": "STS-003",
+      "title": "Donald Rubinstein - Martin",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/7303379",
+      "community": {
+        "want": 48,
+        "have": 193
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "format": [
+        "Vinyl",
+        "LP",
+        "Reissue",
+        "Remastered",
+        "Test Pressing"
+      ],
+      "style": [
+        "Score",
+        "Soundtrack"
+      ],
+      "id": 27380931,
+      "label": [
+        "Ship To Shore Phonograph Co.",
+        "Rainbo Records",
+        "Rainbo Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "STS-003 - A S 94529",
+        "STS-003 - B S 94530 RE-1"
+      ],
+      "master_id": 443163,
+      "master_url": "https://api.discogs.com/masters/443163",
+      "uri": "/release/27380931-Donald-Rubinstein-Martin",
+      "catno": "STS-003",
+      "title": "Donald Rubinstein - Martin",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/27380931",
+      "community": {
+        "want": 4,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Reissue",
+            "Remastered",
+            "Test Pressing"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Limited Edition"
+      ],
+      "label": [
+        "Ship To Shore Phonograph Co.",
+        "Donald Rubinstein",
+        "Ship To Shore Media, LLC",
+        "Ship To Shore Media, LLC",
+        "Shelter Island Sound",
+        "Triton Studios, Boston",
+        "Intermedia Sound, Boston",
+        "The Mixing Lab, Newton, Mass.",
+        "Shelter Island Sound"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Score",
+        "Soundtrack"
+      ],
+      "id": 7236543,
+      "barcode": [
+        "7 24101 77851 3",
+        "724101778513"
+      ],
+      "master_id": 443163,
+      "master_url": "https://api.discogs.com/masters/443163",
+      "uri": "/release/7236543-Donald-Rubinstein-Martin",
+      "catno": "STS-003",
+      "title": "Donald Rubinstein - Martin",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/7236543",
+      "community": {
+        "want": 79,
+        "have": 205
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blood Red",
+          "descriptions": [
+            "LP",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Limited Edition",
+        "Reissue",
+        "Remastered",
+        "Stereo"
+      ],
+      "label": [
+        "Ship To Shore Phonograph Co.",
+        "Shelter Island Sound",
+        "Shelter Island Sound",
+        "Triton Studios, Boston",
+        "Intermedia Sound, Boston",
+        "Rainbo Records",
+        "Rainbo Records",
+        "Ship To Shore Phonograph Co."
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Score",
+        "Soundtrack"
+      ],
+      "id": 7173325,
+      "barcode": [
+        "7 24101 77851 3",
+        "724101778513",
+        "STS-003 - A S 94529",
+        "STS-003 - B S 94530 RE-1"
+      ],
+      "master_id": 443163,
+      "master_url": "https://api.discogs.com/masters/443163",
+      "uri": "/release/7173325-Donald-Rubinstein-Martin",
+      "catno": "STS-003",
+      "title": "Donald Rubinstein - Martin",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/7173325",
+      "community": {
+        "want": 51,
+        "have": 212
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Black & White Swirl [Transylvanian Flashback]",
+          "descriptions": [
+            "LP",
+            "Limited Edition",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1999",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Level Green"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score"
+      ],
+      "id": 1702370,
+      "barcode": [
+        "637112200624"
+      ],
+      "master_id": 443163,
+      "master_url": "https://api.discogs.com/masters/443163",
+      "uri": "/release/1702370-Donald-Rubinstein-George-A-Romeros-Martin",
+      "catno": "22006",
+      "title": "Donald Rubinstein - George A. Romero's \"Martin\"",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/1702370",
+      "community": {
+        "want": 32,
+        "have": 45
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2023",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Second Sight Films",
+        "Donald Rubinstein",
+        "Desert Link Music"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score"
+      ],
+      "id": 26555093,
+      "barcode": [
+        "5028836041689",
+        "2NDBR4168CD 14 A00",
+        "IFPI L551",
+        "IFPI 944Q"
+      ],
+      "master_id": 443163,
+      "master_url": "https://api.discogs.com/masters/443163",
+      "uri": "/release/26555093-Donald-Rubinstein-George-A-Romeros-Martin",
+      "catno": "2NDBR4168CD",
+      "title": "Donald Rubinstein - George A. Romero's \"Martin\"",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/26555093",
+      "community": {
+        "want": 3,
+        "have": 20
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1979",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Varèse Sarabande",
+        "Varèse Sarabande Records, Inc.",
+        "Braddock Associates"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score"
+      ],
+      "id": 1226491,
+      "barcode": [
+        "VC81127A",
+        "VC81127B"
+      ],
+      "master_id": 443163,
+      "master_url": "https://api.discogs.com/masters/443163",
+      "uri": "/release/1226491-Donald-Rubinstein-George-A-Romeros-Martin-Original-Motion-Picture-Soundtrack",
+      "catno": "VC 81127",
+      "title": "Donald Rubinstein - George A. Romero's Martin (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/1226491",
+      "community": {
+        "want": 281,
+        "have": 237
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2007",
+      "format": [
+        "CD",
+        "Album",
+        "Limited Edition",
+        "Reissue",
+        "Remastered"
+      ],
+      "label": [
+        "Perseverance Records",
+        "Donald Rubinstein",
+        "Perseverance Records",
+        "Desert Link Music",
+        "Cello Studios",
+        "Cello Studios",
+        "Red Zone Studios",
+        "Triton Studios, Boston"
+      ],
+      "type": "release",
+      "genre": [
+        "Jazz",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Score",
+        "Soundtrack"
+      ],
+      "id": 3421701,
+      "barcode": [
+        "827034001922"
+      ],
+      "master_id": 443163,
+      "master_url": "https://api.discogs.com/masters/443163",
+      "uri": "/release/3421701-Donald-Rubinstein-George-A-Romeros-Martin-Original-Motion-Picture-Score-Pollock-Unused-Score",
+      "catno": "PRD 019",
+      "title": "Donald Rubinstein - George A. Romero's Martin (Original Motion Picture Score) / Pollock (Unused Score)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/3421701",
+      "community": {
+        "want": 30,
+        "have": 46
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ]
+    }
+  ]
+}

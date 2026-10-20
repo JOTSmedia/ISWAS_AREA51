@@ -1,0 +1,524 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 3,
+    "per_page": 10,
+    "items": 24,
+    "urls": {
+      "last": "https://api.discogs.com/database/search?type=release&release_title=The+Keep&artist=Tangerine+Dream&per_page=10&page=3",
+      "next": "https://api.discogs.com/database/search?type=release&release_title=The+Keep&artist=Tangerine+Dream&per_page=10&page=2"
+    }
+  },
+  "results": [
+    {
+      "country": "Unknown",
+      "year": "1994",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Blue Moon Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Synth-pop",
+        "Ambient"
+      ],
+      "id": 533994,
+      "barcode": [
+        "BMCD-12 MADE IN TAIWAN 941007-05 61662XK1",
+        "GEMA "
+      ],
+      "master_id": 233154,
+      "master_url": "https://api.discogs.com/masters/233154",
+      "uri": "/release/533994-Tangerine-Dream-The-Keep",
+      "catno": "BMCD12",
+      "title": "Tangerine Dream - The Keep",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/533994",
+      "community": {
+        "want": 125,
+        "have": 100
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2001",
+      "format": [
+        "CD",
+        "HDCD",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Orange Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Berlin-School",
+        "Ambient",
+        "Soundtrack"
+      ],
+      "id": 24863018,
+      "barcode": [
+        "3 418120 011983",
+        "ORCD-20011983"
+      ],
+      "master_id": 233154,
+      "master_url": "https://api.discogs.com/masters/233154",
+      "uri": "/release/24863018-Tangerine-Dream-The-Keep",
+      "catno": "ORCD 20011983",
+      "title": "Tangerine Dream - The Keep",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/24863018",
+      "community": {
+        "want": 17,
+        "have": 9
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Black / Silver Disc",
+          "descriptions": [
+            "HDCD",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Italy",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "format": [
+        "CDr",
+        "Unofficial Release"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 20300173,
+      "label": [
+        "Not on Label"
+      ],
+      "type": "release",
+      "barcode": [],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/20300173-Tangerine-Dream-The-Keep",
+      "catno": "none",
+      "title": "Tangerine Dream - The Keep",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/20300173",
+      "community": {
+        "want": 3,
+        "have": 0
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2001",
+      "format": [
+        "CD",
+        "HDCD",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Orange Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Synth-pop",
+        "Ambient",
+        "Soundtrack"
+      ],
+      "id": 24862760,
+      "barcode": [
+        "3 418120 011983",
+        "ORCD-20011983"
+      ],
+      "master_id": 233154,
+      "master_url": "https://api.discogs.com/masters/233154",
+      "uri": "/release/24862760-Tangerine-Dream-The-Keep",
+      "catno": "ORCD 20011983",
+      "title": "Tangerine Dream - The Keep",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/24862760",
+      "community": {
+        "want": 17,
+        "have": 5
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Black / Orange Disc",
+          "descriptions": [
+            "HDCD",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Record Store Day",
+        "Limited Edition",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Virgin",
+        "Virgin Records Ltd.",
+        "Virgin Records Ltd.",
+        "Universal International Music B.V.",
+        "GZ Media"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Berlin-School",
+        "Soundtrack"
+      ],
+      "id": 19519408,
+      "barcode": [
+        "6 02435 26708 1",
+        "LC 03098",
+        "BIEM / SDRM",
+        "217670E1 874171 00602435267081-A",
+        "217670E2 872519 00602435267081-B"
+      ],
+      "master_id": 233154,
+      "master_url": "https://api.discogs.com/masters/233154",
+      "uri": "/release/19519408-Tangerine-Dream-The-Keep",
+      "catno": "6 02435 26708 1",
+      "title": "Tangerine Dream - The Keep",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/19519408",
+      "community": {
+        "want": 642,
+        "have": 1069
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Record Store Day",
+            "Limited Edition",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2001",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Orange Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Synth-pop",
+        "Ambient",
+        "Soundtrack"
+      ],
+      "id": 545489,
+      "barcode": [
+        "3 418120 011983",
+        "ORCD-20011983"
+      ],
+      "master_id": 233154,
+      "master_url": "https://api.discogs.com/masters/233154",
+      "uri": "/release/545489-Tangerine-Dream-The-Keep",
+      "catno": "ORCD 20011983",
+      "title": "Tangerine Dream - The Keep",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/545489",
+      "community": {
+        "want": 111,
+        "have": 139
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Orange / Silver Disc",
+          "descriptions": [
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2008",
+      "format": [
+        "CD",
+        "Limited Edition",
+        "Numbered",
+        "Promo"
+      ],
+      "label": [
+        "Ricochet Dream",
+        "Sony / ATV Music Publishing",
+        "Disc Makers"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Ambient"
+      ],
+      "id": 1544039,
+      "barcode": [
+        "MSJ8029 [logo] DISC MAKERS"
+      ],
+      "master_id": 233154,
+      "master_url": "https://api.discogs.com/masters/233154",
+      "uri": "/release/1544039-Tangerine-Dream-The-Keep-Cues",
+      "catno": "RD037",
+      "title": "Tangerine Dream - The Keep Cues",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/1544039",
+      "community": {
+        "want": 141,
+        "have": 50
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Limited Edition",
+            "Numbered",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Unknown",
+      "year": "2013",
+      "format": [
+        "CDr",
+        "Album",
+        "Unofficial Release"
+      ],
+      "label": [
+        "The Restoration Project"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Berlin-School",
+        "Ambient"
+      ],
+      "id": 24852818,
+      "barcode": [
+        "RFD80M-79252 80 C6",
+        "RFD80M-79252 80 C7",
+        "ADD"
+      ],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/24852818-Tangerine-Dream-The-Keep-The-Complete-Recordings",
+      "catno": "none",
+      "title": "Tangerine Dream - The Keep (The Complete Recordings)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/24852818",
+      "community": {
+        "want": 1,
+        "have": 0
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "2",
+          "descriptions": [
+            "Album",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2013",
+      "format": [
+        "CDr",
+        "Reissue",
+        "Unofficial Release"
+      ],
+      "label": [
+        "The Restoration Project"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Berlin-School",
+        "Soundtrack"
+      ],
+      "id": 24862391,
+      "barcode": [
+        "ZE6778-CDR-A80A AZ0",
+        "ZE5977-CDR-A80A AZ0",
+        "DDD"
+      ],
+      "master_id": 233154,
+      "master_url": "https://api.discogs.com/masters/233154",
+      "uri": "/release/24862391-Tangerine-Dream-The-Keep-The-Complete-Recordings",
+      "catno": "none",
+      "title": "Tangerine Dream - The Keep (The Complete Recordings)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/24862391",
+      "community": {
+        "want": 17,
+        "have": 1
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "2",
+          "descriptions": [
+            "Reissue",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album",
+        "Remastered",
+        "Stereo"
+      ],
+      "label": [
+        "Virgin Records Ltd.",
+        "Universal UMC",
+        "Universal UMC",
+        "Virgin Records Ltd.",
+        "Virgin Records Ltd."
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack",
+        "Score",
+        "Theme",
+        "Ambient",
+        "Berlin-School"
+      ],
+      "id": 23746712,
+      "barcode": [],
+      "master_id": 233154,
+      "master_url": "https://api.discogs.com/masters/233154",
+      "uri": "/release/23746712-Tangerine-Dream-The-Keep-Original-Soundtrack",
+      "catno": "none",
+      "title": "Tangerine Dream - The Keep (Original Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/23746712",
+      "community": {
+        "want": 61,
+        "have": 5
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "16-Bit, 44.1 kHz",
+          "descriptions": [
+            "Album",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ]
+    }
+  ]
+}

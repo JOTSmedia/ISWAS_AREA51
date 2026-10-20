@@ -1,0 +1,540 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 6,
+    "per_page": 10,
+    "items": 51,
+    "urls": {
+      "last": "https://api.discogs.com/database/search?type=release&release_title=Psycho&artist=Bernard+Herrmann&per_page=10&page=6",
+      "next": "https://api.discogs.com/database/search?type=release&release_title=Psycho&artist=Bernard+Herrmann&per_page=10&page=2"
+    }
+  },
+  "results": [
+    {
+      "country": "UK",
+      "year": "2017",
+      "format": [
+        "CDr",
+        "Single",
+        "Promo",
+        "Mono"
+      ],
+      "label": [
+        "Stylotone",
+        "45 R.P.M. \"Single\" Series",
+        "Universal Pictures",
+        "Stylotone",
+        "Universal Pictures",
+        "USI B Music Publishing",
+        "Abbey Road Studios"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 34903052,
+      "barcode": [],
+      "master_id": 1317417,
+      "master_url": "https://api.discogs.com/masters/1317417",
+      "uri": "/release/34903052-Bernard-Herrmann-Psycho",
+      "catno": "STS8698P",
+      "title": "Bernard Herrmann - Psycho",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/34903052",
+      "community": {
+        "want": 4,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Single",
+            "Promo",
+            "Mono"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "genre": [
+        "Classical",
+        "Stage & Screen"
+      ],
+      "format": [
+        "Reel-To-Reel",
+        "7 ½ ips",
+        "¼\"",
+        "4-Track Stereo",
+        "7\" Cine Reel",
+        "Album",
+        "Reissue",
+        "Remastered"
+      ],
+      "style": [
+        "Score"
+      ],
+      "id": 13134193,
+      "label": [
+        "Barclay-Crocker",
+        "Unicorn Records",
+        "Unicorn Records Limited"
+      ],
+      "type": "release",
+      "barcode": [],
+      "master_id": 268938,
+      "master_url": "https://api.discogs.com/masters/268938",
+      "uri": "/release/13134193-Bernard-Herrmann-Psycho",
+      "catno": "UNC D 0336",
+      "title": "Bernard Herrmann - Psycho",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/13134193",
+      "community": {
+        "want": 32,
+        "have": 13
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Reel-To-Reel",
+          "qty": "1",
+          "text": "Dolby B",
+          "descriptions": [
+            "7 ½ ips",
+            "¼\"",
+            "4-Track Stereo",
+            "7\" Cine Reel",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "1976",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Unicorn Records",
+        "Precision Tapes Ltd.",
+        "Precision Tapes Ltd."
+      ],
+      "type": "release",
+      "genre": [
+        "Classical"
+      ],
+      "style": [
+        "Neo-Classical",
+        "Contemporary"
+      ],
+      "id": 8669682,
+      "barcode": [],
+      "master_id": 268938,
+      "master_url": "https://api.discogs.com/masters/268938",
+      "uri": "/release/8669682-Bernard-Herrmann-Psycho",
+      "catno": "ZCUN 336",
+      "title": "Bernard Herrmann - Psycho",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/8669682",
+      "community": {
+        "want": 46,
+        "have": 9
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "1976",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Unicorn Records",
+        "Barking Assembly Hall",
+        "Columbia Records Pressing Plant, Pitman"
+      ],
+      "type": "release",
+      "genre": [
+        "Classical",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Score",
+        "Neo-Classical",
+        "Contemporary"
+      ],
+      "id": 1012317,
+      "barcode": [
+        "RHS 336 A//2 P 1ᛚ 2 ",
+        "RHS 336 B//1 P 14 3"
+      ],
+      "master_id": 268938,
+      "master_url": "https://api.discogs.com/masters/268938",
+      "uri": "/release/1012317-Bernard-Herrmann-Psycho",
+      "catno": "RHS 336",
+      "title": "Bernard Herrmann - Psycho",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/1012317",
+      "community": {
+        "want": 625,
+        "have": 709
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Single",
+        "Limited Edition",
+        "Mono"
+      ],
+      "label": [
+        "Stylotone",
+        "45 R.P.M. \"Single\" Series",
+        "Universal Pictures",
+        "Stylotone",
+        "Universal Pictures",
+        "GZ Media",
+        "USI B Music Publishing",
+        "Abbey Road Studios"
+      ],
+      "type": "release",
+      "genre": [
+        "Stage & Screen"
+      ],
+      "style": [
+        "Soundtrack"
+      ],
+      "id": 10510292,
+      "barcode": [
+        "5 060249 910220",
+        "5060249910220",
+        "THANK GOD FOR THE RAIN...",
+        "141272H1/A1",
+        "141272H2/A"
+      ],
+      "master_id": 1317417,
+      "master_url": "https://api.discogs.com/masters/1317417",
+      "uri": "/release/10510292-Bernard-Herrmann-Psycho",
+      "catno": "STS 8698",
+      "title": "Bernard Herrmann - Psycho",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/10510292",
+      "community": {
+        "want": 135,
+        "have": 367
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "7\"",
+            "45 RPM",
+            "Single",
+            "Limited Edition",
+            "Mono"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1977",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Unicorn Records",
+        "Barking Assembly Hall",
+        "Wakefield Manufacturing",
+        "HNH Records Incorporated",
+        "Unicorn Records Limited",
+        "Christopher Palmer"
+      ],
+      "type": "release",
+      "genre": [
+        "Classical",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Contemporary",
+        "Neo-Classical",
+        "Score",
+        "Soundtrack"
+      ],
+      "id": 3591523,
+      "barcode": [
+        "32009",
+        "32009",
+        "UNI-75001 A RE 1 #1 (ᵛᵛ) 32009 JB",
+        "UNI-75001-B #2 (ᵛᵛ) 32009 JB",
+        "(ᵛᵛ)",
+        "77-751269"
+      ],
+      "master_id": 268938,
+      "master_url": "https://api.discogs.com/masters/268938",
+      "uri": "/release/3591523-Bernard-Herrmann-Psycho",
+      "catno": "UN1-75001",
+      "title": "Bernard Herrmann - Psycho",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/3591523",
+      "community": {
+        "want": 261,
+        "have": 185
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Italy",
+      "genre": [
+        "Classical",
+        "Stage & Screen"
+      ],
+      "format": [
+        "Cassette",
+        "Reissue"
+      ],
+      "style": [
+        "Contemporary",
+        "Neo-Classical",
+        "Score"
+      ],
+      "id": 12117254,
+      "label": [
+        "RCA",
+        "Cinema Tre"
+      ],
+      "type": "release",
+      "barcode": [
+        "S.I.A.E."
+      ],
+      "master_id": 268938,
+      "master_url": "https://api.discogs.com/masters/268938",
+      "uri": "/release/12117254-Bernard-Herrmann-Psyco-Psycho",
+      "catno": "NK 33224",
+      "title": "Bernard Herrmann - Psyco (Psycho)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/12117254",
+      "community": {
+        "want": 22,
+        "have": 5
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Italy",
+      "genre": [
+        "Classical",
+        "Stage & Screen"
+      ],
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "style": [
+        "Neo-Classical",
+        "Contemporary",
+        "Score"
+      ],
+      "id": 4690406,
+      "label": [
+        "RCA",
+        "Cinema Tre",
+        "Barking Assembly Hall"
+      ],
+      "type": "release",
+      "barcode": [],
+      "master_id": 268938,
+      "master_url": "https://api.discogs.com/masters/268938",
+      "uri": "/release/4690406-Bernard-Herrmann-Psyco-Psycho",
+      "catno": "NL 33224",
+      "title": "Bernard Herrmann - Psyco (Psycho)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/4690406",
+      "community": {
+        "want": 93,
+        "have": 137
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Italy",
+      "genre": [
+        "Classical",
+        "Stage & Screen"
+      ],
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Promo",
+        "Reissue"
+      ],
+      "style": [
+        "Neo-Classical",
+        "Contemporary",
+        "Score"
+      ],
+      "id": 9580008,
+      "label": [
+        "RCA",
+        "Cinema Tre",
+        "Barking Assembly Hall"
+      ],
+      "type": "release",
+      "barcode": [],
+      "master_id": 268938,
+      "master_url": "https://api.discogs.com/masters/268938",
+      "uri": "/release/9580008-Bernard-Herrmann-Psyco-Psycho",
+      "catno": "NL 33224",
+      "title": "Bernard Herrmann - Psyco (Psycho)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/9580008",
+      "community": {
+        "want": 48,
+        "have": 19
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Promo",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Unknown",
+      "year": "2016",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Sinetone AMR"
+      ],
+      "type": "release",
+      "genre": [
+        "Classical"
+      ],
+      "style": [
+        "Neo-Classical",
+        "Contemporary"
+      ],
+      "id": 10095167,
+      "barcode": [],
+      "master_id": 4003795,
+      "master_url": "https://api.discogs.com/masters/4003795",
+      "uri": "/release/10095167-Bernard-Herrmann-Alfred-Hitchcocks-Psycho-OST",
+      "catno": "AMR 5789",
+      "title": "Bernard Herrmann - Alfred Hitchcock's Psycho (OST)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/10095167",
+      "community": {
+        "want": 12,
+        "have": 3
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "8",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ]
+}

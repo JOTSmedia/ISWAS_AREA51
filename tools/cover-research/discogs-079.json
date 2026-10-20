@@ -1,0 +1,524 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 2,
+    "per_page": 10,
+    "items": 13,
+    "urls": {
+      "last": "https://api.discogs.com/database/search?type=release&release_title=Maniac&artist=Rob&per_page=10&page=2",
+      "next": "https://api.discogs.com/database/search?type=release&release_title=Maniac&artist=Rob&per_page=10&page=2"
+    }
+  },
+  "results": [
+    {
+      "country": "France",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Music Box Records",
+        "La Petite Reine",
+        "La Petite Reine",
+        "Hamburger Records",
+        "Music Box Records",
+        "Hippocampus Studio",
+        "Hippocampus Studio"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Score",
+        "Soundtrack"
+      ],
+      "id": 6916319,
+      "barcode": [
+        "3770002531631",
+        "MUB5.15316.001",
+        "SACEM"
+      ],
+      "master_id": 568068,
+      "master_url": "https://api.discogs.com/masters/568068",
+      "uri": "/release/6916319-Rob-Maniac-Original-Motion-Picture-Soundtrack",
+      "catno": "MBR-063",
+      "title": "Rob - Maniac (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/6916319",
+      "community": {
+        "want": 59,
+        "have": 39
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2013",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Limited Edition",
+        "Remastered"
+      ],
+      "label": [
+        "Mondo",
+        "La Petite Reine",
+        "Reine Multimédia Publishing",
+        "Because Editions"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Electro",
+        "Soundtrack"
+      ],
+      "id": 4693430,
+      "barcode": [
+        "6 16892 13374 2",
+        "A to Z MOND-011 A  PL S-86458",
+        "A to Z MOND-011 B  PL S-86459"
+      ],
+      "master_id": 568068,
+      "master_url": "https://api.discogs.com/masters/568068",
+      "uri": "/release/4693430-Rob-Maniac-Original-Motion-Picture-Soundtrack",
+      "catno": "MOND-011",
+      "title": "Rob - Maniac (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/4693430",
+      "community": {
+        "want": 249,
+        "have": 210
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "White",
+          "descriptions": [
+            "LP",
+            "Limited Edition",
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2013",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Test Pressing"
+      ],
+      "label": [
+        "Mondo",
+        "La Petite Reine",
+        "Reine Multimédia Publishing",
+        "Because Editions"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Electro",
+        "Soundtrack"
+      ],
+      "id": 11389173,
+      "barcode": [
+        "A to Z MOND-011 A  PL S-86458",
+        "A to Z MOND-011 B  PL S-86459"
+      ],
+      "master_id": 568068,
+      "master_url": "https://api.discogs.com/masters/568068",
+      "uri": "/release/11389173-Rob-Maniac-Original-Motion-Picture-Soundtrack",
+      "catno": "MOND-011",
+      "title": "Rob - Maniac (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/11389173",
+      "community": {
+        "want": 24,
+        "have": 3
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Test Pressing"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Nameless"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Electro",
+        "Soundtrack"
+      ],
+      "id": 29723962,
+      "barcode": [],
+      "master_id": 568068,
+      "master_url": "https://api.discogs.com/masters/568068",
+      "uri": "/release/29723962-Rob-Maniac-Original-Motion-Picture-Soundtrack",
+      "catno": "none",
+      "title": "Rob - Maniac (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/29723962",
+      "community": {
+        "want": 12,
+        "have": 8
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK & Europe",
+      "year": "2013",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Limited Edition"
+      ],
+      "label": [
+        "Death Waltz Recording Company"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Electro",
+        "Soundtrack"
+      ],
+      "id": 4671702,
+      "barcode": [],
+      "master_id": 568068,
+      "master_url": "https://api.discogs.com/masters/568068",
+      "uri": "/release/4671702-Rob-Maniac-Original-Motion-Picture-Soundtrack",
+      "catno": "DW014",
+      "title": "Rob - Maniac (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/4671702",
+      "community": {
+        "want": 199,
+        "have": 194
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Silver Steel w/ Blood Splatter",
+          "descriptions": [
+            "LP",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2014",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Limited Edition"
+      ],
+      "label": [
+        "Death Waltz Recording Company"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Electro",
+        "Soundtrack"
+      ],
+      "id": 5532588,
+      "barcode": [],
+      "master_id": 568068,
+      "master_url": "https://api.discogs.com/masters/568068",
+      "uri": "/release/5532588-Rob-Maniac-Original-Motion-Picture-Soundtrack",
+      "catno": "DW014S",
+      "title": "Rob - Maniac (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/5532588",
+      "community": {
+        "want": 165,
+        "have": 350
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Frosted Clear",
+          "descriptions": [
+            "LP",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "France",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP"
+      ],
+      "label": [
+        "Hamburger Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Electro",
+        "Soundtrack"
+      ],
+      "id": 4527793,
+      "barcode": [],
+      "master_id": 568068,
+      "master_url": "https://api.discogs.com/masters/568068",
+      "uri": "/release/4527793-Rob-Maniac-Original-Motion-Picture-Soundtrack",
+      "catno": "none",
+      "title": "Rob - Maniac (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/4527793",
+      "community": {
+        "want": 168,
+        "have": 81
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2013",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Limited Edition",
+        "Remastered"
+      ],
+      "label": [
+        "Mondo",
+        "La Petite Reine",
+        "Reine Multimédia Publishing",
+        "Because Editions",
+        "Rainbo Records",
+        "Rainbo Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Electro",
+        "Score",
+        "Soundtrack"
+      ],
+      "id": 4683061,
+      "barcode": [
+        "6 16892 13374 2",
+        "616892133742",
+        "A to Z MOND-011 A PL S-86458",
+        "A to Z MOND-011 B PL S-86459"
+      ],
+      "master_id": 568068,
+      "master_url": "https://api.discogs.com/masters/568068",
+      "uri": "/release/4683061-Rob-Maniac-Original-Motion-Picture-Soundtrack",
+      "catno": "MOND-011",
+      "title": "Rob - Maniac (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/4683061",
+      "community": {
+        "want": 177,
+        "have": 254
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Limited Edition",
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "France",
+      "year": "2019",
+      "format": [
+        "CD",
+        "Album",
+        "Limited Edition",
+        "Reissue"
+      ],
+      "label": [
+        "Music Box Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Score",
+        "Soundtrack"
+      ],
+      "id": 13603348,
+      "barcode": [
+        "3770006929694"
+      ],
+      "master_id": 568068,
+      "master_url": "https://api.discogs.com/masters/568068",
+      "uri": "/release/13603348-Rob-Maniac-Original-Motion-Picture-Soundtrack",
+      "catno": "MBR-163",
+      "title": "Rob - Maniac (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/13603348",
+      "community": {
+        "want": 33,
+        "have": 54
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Italy",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album",
+        "Limited Edition",
+        "Reissue"
+      ],
+      "label": [
+        "Hamburger Records",
+        "Azzurra Music"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "style": [
+        "Score",
+        "Soundtrack"
+      ],
+      "id": 26525030,
+      "barcode": [
+        "885444508981"
+      ],
+      "master_id": 568068,
+      "master_url": "https://api.discogs.com/masters/568068",
+      "uri": "/release/26525030-Rob-Maniac-Original-Motion-Picture-Soundtrack",
+      "catno": "none",
+      "title": "Rob - Maniac (Original Motion Picture Soundtrack)",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/26525030",
+      "community": {
+        "want": 5,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ]
+    }
+  ]
+}

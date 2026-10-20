@@ -1,0 +1,480 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 11,
+    "per_page": 10,
+    "items": 109,
+    "urls": {
+      "last": "https://api.discogs.com/database/search?type=release&release_title=Unhinged&artist=&per_page=10&page=11",
+      "next": "https://api.discogs.com/database/search?type=release&release_title=Unhinged&artist=&per_page=10&page=2"
+    }
+  },
+  "results": [
+    {
+      "country": "US",
+      "year": "2011",
+      "format": [
+        "Vinyl",
+        "7\""
+      ],
+      "label": [
+        "Rankoutsider Records",
+        "Slime Records",
+        "Cat Piss Studios"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Rock & Roll",
+        "Punk"
+      ],
+      "id": 2815254,
+      "barcode": [],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/2815254-Scott-Deluxe-Drake-The-Worlds-Strongest-Men-Unhinged",
+      "catno": "OUTSIDER 28",
+      "title": "Scott \"Deluxe\" Drake & The World's Strongest Men - Unhinged?",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/2815254",
+      "community": {
+        "want": 17,
+        "have": 41
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "7\""
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2014",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Kivel Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [],
+      "id": 22326418,
+      "barcode": [],
+      "master_id": 2551274,
+      "master_url": "https://api.discogs.com/masters/2551274",
+      "uri": "/release/22326418-Madmans-Lullaby-Unhinged",
+      "catno": "none",
+      "title": "Madman's Lullaby - Unhinged",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/22326418",
+      "community": {
+        "want": 4,
+        "have": 17
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2016",
+      "format": [
+        "File",
+        "FLAC",
+        "Single"
+      ],
+      "label": [
+        "1631 Recordings",
+        "1631 Recordings AB",
+        "1631 Recordings AB"
+      ],
+      "type": "release",
+      "genre": [
+        "Classical"
+      ],
+      "style": [
+        "Contemporary"
+      ],
+      "id": 34573753,
+      "barcode": [],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/34573753-Mike-Lazarev-Unhinged",
+      "catno": "none",
+      "title": "Mike Lazarev - Unhinged",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/34573753",
+      "community": {
+        "want": 1,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "3",
+          "descriptions": [
+            "FLAC",
+            "Single"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Belgium",
+      "year": "1993",
+      "format": [
+        "Cassette"
+      ],
+      "label": [
+        "Not On Label (Unhinged Self-released)"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Hardcore",
+        "Punk"
+      ],
+      "id": 1877799,
+      "barcode": [],
+      "master_id": 202046,
+      "master_url": "https://api.discogs.com/masters/202046",
+      "uri": "/release/1877799-Unhinged-Unhinged",
+      "catno": "none",
+      "title": "Unhinged - Unhinged",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/1877799",
+      "community": {
+        "want": 62,
+        "have": 41
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1"
+        }
+      ]
+    },
+    {
+      "country": "USA & Canada",
+      "year": "1996",
+      "format": [
+        "CD",
+        "Album",
+        "Repress"
+      ],
+      "label": [
+        "Griffin Music",
+        "Hard Up",
+        "Hard Up",
+        "Roy Harper",
+        "Wulfrun Hall",
+        "Forum Wythenshawe",
+        "The Bloomsbury Theatre",
+        "Civic Theatre, Leeds",
+        "Queen's Hall, Edinburgh",
+        "Cinram, Richmond, IN",
+        "Cinram, Richmond, IN"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Acoustic",
+        "Folk",
+        "Country Blues"
+      ],
+      "id": 34896140,
+      "barcode": [
+        "054421013224",
+        "0 54421 01322 4",
+        "6226-GCDHR132 B60104-02",
+        "L384",
+        "IFPI 6100"
+      ],
+      "master_id": 557882,
+      "master_url": "https://api.discogs.com/masters/557882",
+      "uri": "/release/34896140-Roy-Harper-Unhinged",
+      "catno": "GCDHR-132-2",
+      "title": "Roy Harper - Unhinged",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/34896140",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Cinram Richmond Pressing",
+          "descriptions": [
+            "Album",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "File",
+        "MP3"
+      ],
+      "label": [
+        "Deep Tech Los Angeles Records",
+        "Label Worx"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Tech House"
+      ],
+      "id": 26264573,
+      "barcode": [
+        "5054285444214",
+        "GBLV62015516"
+      ],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/26264573-Redux-Saints-Unhinged",
+      "catno": "DTLAR012",
+      "title": "Redux Saints - Unhinged",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/26264573",
+      "community": {
+        "want": 0,
+        "have": 0
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2012",
+      "format": [
+        "CD"
+      ],
+      "label": [
+        "Irabbagast Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Jazz"
+      ],
+      "style": [
+        "Free Jazz"
+      ],
+      "id": 11822940,
+      "barcode": [
+        "8 84501 77511 3"
+      ],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/11822940-Jon-Irabagons-Outright-Unhinged",
+      "catno": "002",
+      "title": "Jon Irabagon's Outright! - Unhinged",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/11822940",
+      "community": {
+        "want": 8,
+        "have": 31
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1"
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "1995",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Test Pressing"
+      ],
+      "label": [
+        "Rugger Bugger Discs",
+        "Mayking Records",
+        "MPO"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Acoustic"
+      ],
+      "id": 6670657,
+      "barcode": [],
+      "master_id": 799240,
+      "master_url": "https://api.discogs.com/masters/799240",
+      "uri": "/release/6670657-Frank-Norman-Stubbs-Unhinged",
+      "catno": "DUMP025",
+      "title": "Frank Norman Stubbs - Unhinged",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/6670657",
+      "community": {
+        "want": 58,
+        "have": 4
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "7\"",
+            "45 RPM",
+            "Test Pressing"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "File",
+        "MP3"
+      ],
+      "label": [
+        "Pharmacy Music",
+        "Copyright Control",
+        "Pharmacy Music",
+        "Pharmacy Music"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Psy-Trance"
+      ],
+      "id": 8106898,
+      "barcode": [
+        "5054282079778",
+        "USNFU1600001",
+        "ASCAP"
+      ],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/8106898-Frost-Raven-Casey-Rasch-Unhinged",
+      "catno": "PHARMACY125",
+      "title": "Frost Raven & Casey Rasch - Unhinged",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/8106898",
+      "community": {
+        "want": 1,
+        "have": 7
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "File",
+        "MP3"
+      ],
+      "label": [
+        "Deep Tech Lab",
+        "Symphonic Distribution"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Techno"
+      ],
+      "id": 26479973,
+      "barcode": [
+        "191079557943",
+        "USLZJ1789850"
+      ],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/26479973-Roxy-Delgado-Unhinged",
+      "catno": "none",
+      "title": "Roxy Delgado - Unhinged",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/26479973",
+      "community": {
+        "want": 0,
+        "have": 0
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3"
+          ]
+        }
+      ]
+    }
+  ]
+}

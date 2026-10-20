@@ -1,0 +1,16 @@
+{
+  "version": "16.3",
+  "type": "procedural PBR albedo surfaces",
+  "source_resolution": [
+    4096,
+    4096
+  ],
+  "exports": [
+    4096,
+    1024
+  ],
+  "upscaled": false,
+  "reference": "User-provided Twin Peaks Black Lodge still: ivory/deep-scarlet chevron floor (user revision), red drapery, black upholstery with wood trim",
+  "generator": "tools/build_lodge_materials.py",
+  "note": "Surface maps are generated at native resolution. Real-time render resolution is device-adaptive; no claim of photographic scans."
+}

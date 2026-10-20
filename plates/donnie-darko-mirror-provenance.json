@@ -1,0 +1,25 @@
+{
+  "source": "User-supplied Donnie Darko artwork, upper-left watermark removed using built-in image generation",
+  "source_file": "codex-clipboard-33f39053-16b7-40c1-a9d5-6a682b49e6f4.png",
+  "archived_reference": "tools/mirror-source/donnie-darko-rabbit-user-reference.png",
+  "reference_size": [
+    800,
+    1000
+  ],
+  "archived_source": "tools/mirror-source/donnie-darko-edited-source.png",
+  "source_size": [
+    1122,
+    1402
+  ],
+  "source_sha256": "559776026a842326b710de887920f8c1e060a2ed2c6b47364a447d3ed7b4761b",
+  "delivery": "plates/donnie-darko-mirror.webp",
+  "export_size": [
+    800,
+    1000
+  ],
+  "delivery_bytes": 85882,
+  "delivery_sha256": "1fe1c378cafccf810d7c3653be03497e440464e4ab3970635cfb5666c88ac667",
+  "format": "WebP quality88",
+  "prompt": "tools/mirror-source/PROMPT-v17.9.md",
+  "edits": "Localized watermark removal using the built-in image generation tool, then downscale/export for website delivery. No native4K claim."
+}

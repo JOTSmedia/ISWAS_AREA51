@@ -15,7 +15,7 @@ try:
  with opener.open('http://'+HOST+'/',timeout=20) as response:
   if not response.geturl().startswith('https://'+HOST):raise RuntimeError('Enable Enforce HTTPS in GitHub Pages; HTTP is not redirected at the edge.')
   print('PASS: HTTP redirects to the HTTPS domain at GitHub Pages')
- with opener.open('https://'+HOST+'/plates/share-black-lodge-v17-17.jpg',timeout=20) as response:
+ with opener.open('https://'+HOST+'/plates/share-black-lodge-v18-1.jpg',timeout=20) as response:
   if response.headers.get_content_type()!='image/jpeg' or response.read(2)!=b'\xff\xd8':raise RuntimeError('Upload the v17.14 JPEG share image to the publishing root.')
   print('PASS: public HTTPS share image is available to crawlers')
 except Exception as error:

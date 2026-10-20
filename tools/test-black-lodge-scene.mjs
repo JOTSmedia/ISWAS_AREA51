@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import assert from 'node:assert/strict';
 
 const moduleURL=source=>'data:text/javascript;base64,'+Buffer.from(source).toString('base64');
-const dataURL=moduleURL(fs.readFileSync(new URL('../assets/horror-locations-data-v17-17.js',import.meta.url),'utf8'));
+const dataURL=moduleURL(fs.readFileSync(new URL('../assets/horror-locations-data-v18-1.js',import.meta.url),'utf8'));
 const {HORROR_LOCATIONS,locationDirection}=await import(dataURL);
 assert.equal(HORROR_LOCATIONS.length,200);
 assert.equal(new Set(HORROR_LOCATIONS.map(record=>record.id)).size,200,'Every pin has a stable unique ID.');
@@ -52,7 +52,7 @@ Object.defineProperty(globalThis,'navigator',{value:{connection:{}},configurable
 globalThis.CustomEvent=class{constructor(type,{detail}={}){this.type=type;this.detail=detail}};
 globalThis.setInterval=fn=>{const id=nextInterval++;intervals.set(id,fn);return id};
 globalThis.clearInterval=id=>intervals.delete(id);
-const source=fs.readFileSync(new URL('../assets/black-lodge-scene-v17-17.js',import.meta.url),'utf8').replace("'./horror-locations-data-v17-17.js'",JSON.stringify(dataURL));
+const source=fs.readFileSync(new URL('../assets/black-lodge-scene-v18-1.js',import.meta.url),'utf8').replace("'./horror-locations-data-v18-1.js'",JSON.stringify(dataURL));
 const {createBlackLodge}=await import(moduleURL(source));
 const {GlobeTable}=createBlackLodge({React:R,jsx:{jsx,jsxs:jsx},useFrame:fn=>frame=fn,useThree:()=>({camera:{position:{x:0}}}),RoundedBox:class{},Vector2:Vector,Vector3:Vector,Quaternion:class{},Object3D,Color:class{},Shape,Path:Shape,Curve:class{},loadTexture:texture});
 const root=GlobeTable();layouts.forEach(fn=>fn());const cleanup=effects.map(fn=>fn()).filter(Boolean);

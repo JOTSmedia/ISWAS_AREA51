@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
-const source=readFileSync(new URL('../assets/renderer-factory-v17-17.js',import.meta.url),'utf8');
+const source=readFileSync(new URL('../assets/renderer-factory-v18-1.js',import.meta.url),'utf8');
 const {createGalleryRenderer}=await import('data:text/javascript;base64,'+Buffer.from(source).toString('base64'));
 const context={},canvas={id:'fiber-canvas',getContext:()=>context},defaults={canvas,powerPreference:'high-performance',antialias:true,alpha:true,precision:'highp'};
 {

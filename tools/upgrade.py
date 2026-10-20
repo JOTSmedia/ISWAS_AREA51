@@ -15,7 +15,7 @@ for p in list((root/'assets').glob('*.js'))+list((root/'assets').glob('*.css'))+
  s=s.replace('Explore the gallery','360 MODE')
  p.write_text(s)
 (root/'ASSET_PROVENANCE.json').write_text(json.dumps(manifest,indent=2))
-p=root/'assets/lodge-canvas-v17-17.js';s=p.read_text()
+p=root/'assets/lodge-canvas-v18-1.js';s=p.read_text()
 a=s.index('let rate=.33;');b=s.index('}else (window.__tourGlide=',a)
 s=s[:a]+'''/* v9: discrete smooth camera travel, no automatic document scrolling. */
 let nowTime=performance.now();window.__v9Stop??=e;
@@ -61,4 +61,4 @@ function MorganV9(){
 s=s.replace('function lb({onOpen:e})',component+'function lb({onOpen:e})')
 s=s.replace('(0,$.jsx)(Xy,{})','(0,$.jsx)(MorganV9,{}),(0,$.jsx)(Xy,{})')
 p.write_text(s)
-p=root/'assets/index-v17-17.js';s=p.read_text();s=s.replace('sc.scrollTop=window.__tourDir<0?Math.max(0,sc.scrollHeight-sc.clientHeight):0','sc.scrollTop=0');p.write_text(s)
+p=root/'assets/index-v18-1.js';s=p.read_text();s=s.replace('sc.scrollTop=window.__tourDir<0?Math.max(0,sc.scrollHeight-sc.clientHeight):0','sc.scrollTop=0');p.write_text(s)

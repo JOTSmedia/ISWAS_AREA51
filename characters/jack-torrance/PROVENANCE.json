@@ -1,0 +1,22 @@
+{
+  "character": "Jack Nicholson as Jack Torrance, seated patron inspired by the user-provided Gold Room reference",
+  "generation_tool": "Built-in ImageGen",
+  "native_resolution": [
+    1024,
+    1536
+  ],
+  "upscaled": false,
+  "delivery": {
+    "jack.webp": [
+      1024,
+      1536
+    ],
+    "jack-mobile.webp": [
+      512,
+      768
+    ]
+  },
+  "prompt": "tools/asset-sources/jack-prompt.txt",
+  "source": "tools/asset-sources/jack-source.png",
+  "reference_usage": "Appearance and pose reference only; the reference still is not embedded."
+}

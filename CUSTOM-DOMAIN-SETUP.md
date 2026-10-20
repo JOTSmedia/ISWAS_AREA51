@@ -6,9 +6,9 @@ Keep the custom domain set to itstartedwithascream.com. Keep CNAME and .nojekyll
 
 DNS uses the four GitHub Pages A records: 185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153. The www CNAME points to jotsmedia.github.io.
 
-Upload the extracted contents of ISWAS_v17.18-release.zip into the repository publishing root (main branch, / root), preserving folders. Do not nest the version folder inside the publishing root. Packaging does not deploy the release.
+Upload the extracted contents of ISWAS_v18.1-release.zip into the repository publishing root (main branch, / root), preserving folders. Do not nest the version folder inside the publishing root. Packaging does not deploy the release.
 
-The text-message preview uses the HTTPS image URL /plates/share-black-lodge-v17-17.jpg. That file becomes publicly available only after this release is uploaded and GitHub finishes deployment. Messaging applications may retain an earlier preview in their cache; the site cannot force every recipient application to refresh immediately.
+The text-message preview uses the HTTPS image URL /plates/share-black-lodge-v18-1.jpg. That file becomes publicly available only after this release is uploaded and GitHub finishes deployment. Messaging applications may retain an earlier preview in their cache; the site cannot force every recipient application to refresh immediately.
 
 Run tools/check-live-https.py after deployment to check the trusted certificate, HTTP redirect, and public preview JPEG. Before this release is deployed, the image check is expected to fail.
 

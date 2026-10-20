@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
-import {catalogueNeighbour,recordShelfPosition,recordFlightPose,RECORD_STATION,parseYouTubeId} from '../assets/record-catalogue-v17-17.js';
+import {catalogueNeighbour,recordShelfPosition,recordFlightPose,RECORD_STATION,parseYouTubeId} from '../assets/record-catalogue-v18-1.js';
 const rows=JSON.parse(readFileSync(new URL('../data/horror-soundtracks.json',import.meta.url)));
 const source=JSON.parse(readFileSync(new URL('./soundtrack-list-source.json',import.meta.url)));
 assert.equal(rows.length,100);assert.equal(new Set(rows.map(r=>r.rank)).size,100);

@@ -1,0 +1,53 @@
+{
+  "state": "complete",
+  "kind": "ENVIRONMENT-SPECIFIC BROWSER SAMPLE; NOT A GUARANTEE",
+  "version": "v18",
+  "view": "bar",
+  "url": "http://127.0.0.1:8020/ISWAS_v18/?room-review=1",
+  "measuredAt": "2026-10-20T21:55:30.434Z",
+  "durationMs": 5090.6,
+  "frameIntervals": 42,
+  "medianFrameIntervalMs": 120.95,
+  "p95FrameIntervalMs": 137.7,
+  "intervalsOver33Ms": 42,
+  "fractionOver33Ms": 1,
+  "percentOver33Ms": 100,
+  "longTasks": {
+    "available": true,
+    "count": 0,
+    "totalDurationMs": 0,
+    "maxDurationMs": 0
+  },
+  "viewport": {
+    "width": 1280,
+    "height": 460,
+    "devicePixelRatio": 2
+  },
+  "renderer": {
+    "start": {
+      "pixelRatio": 0.75,
+      "calls": 119,
+      "triangles": 441754,
+      "drawingBuffer": {
+        "width": 960,
+        "height": 345
+      }
+    },
+    "end": {
+      "pixelRatio": 0.75,
+      "calls": 119,
+      "triangles": 441754,
+      "drawingBuffer": {
+        "width": 960,
+        "height": 345
+      }
+    }
+  },
+  "furniture": {
+    "geometryValid": "true",
+    "draws": "26",
+    "triangles": "110262"
+  },
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+  "method": "Child requestAnimationFrame intervals for at least 5000ms, after live-scene/furniture readiness and 7500ms settle for adaptive DPR; tour paused and dossier UI hidden. Actual renderer DPR/drawing-buffer metrics are captured at sample start/end. Video is not started by the helper. Long tasks are child PerformanceObserver entries when supported."
+}

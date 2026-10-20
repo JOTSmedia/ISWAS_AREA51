@@ -41,7 +41,7 @@ for name, data in [('aged-brass', albedo), ('brass-roughness', roughness)]:
 (out / 'PROVENANCE.json').write_text(json.dumps({
     'type': 'Original code-authored physically based surface maps and native 3D model',
     'generator': 'tools/build_gramophone_materials.py',
-    'model': 'assets/gramophone-scene-v17-17.js',
+    'model': 'assets/gramophone-scene-v18-1.js',
     'native_resolution': [4096, 4096],
     'exports': [1024, 2048, 4096],
     'upscaled': False,

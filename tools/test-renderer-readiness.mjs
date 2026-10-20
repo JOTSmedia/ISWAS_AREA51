@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
 
-const source=readFileSync(new URL('../assets/lodge-canvas-v17-17.js',import.meta.url),'utf8');
+const source=readFileSync(new URL('../assets/lodge-canvas-v18-1.js',import.meta.url),'utf8');
 const start=source.indexOf('function My(){');
 const rendererSource=source.slice(start,source.indexOf('function Ny(){',start));
 function harness({ratio=1,calls=240,wallReady=true}={}){
@@ -51,6 +51,26 @@ for(const target of ['size','canvas']){
  h.size.width=4000;h.size.height=2000;h.tick();assert.ok(h.ratio<=Math.sqrt(2200000/8000000),'Resize enforces the maximum pixel budget immediately');h.dispose();
 }
 {
+ const h=harness({ratio:1.3});for(let i=0;i<43;i++)h.tick(.06);
+ assert.ok(Math.abs(h.ratio-1.1)<1e-10,'An average above45ms lowers DPR by.2 in one sampling window');
+ for(let i=0;i<43*5;i++)h.tick(.06);
+ assert.equal(h.ratio,.6,'Sustained severe slowness stops at the.6 floor');
+ assert.ok(h.changes.every(ratio=>ratio>=.6),'Severe adaptation never undershoots its detail floor');
+ const previousChanges=h.changes.length;for(let i=0;i<43*3;i++)h.tick(.04);
+ assert.equal(h.ratio,.6,'Moderate slowness retains a previously reduced DPR rather than forcing it upward');
+ assert.equal(h.changes.length,previousChanges,'The severe and normal floors do not cause resolution oscillation');
+ const previousRatio=h.ratio;for(let i=0;i<400&&h.changes.length===previousChanges;i++)h.tick();
+ assert.ok(Math.abs(h.ratio-(previousRatio+.05))<1e-10,'Fast rendering recovers with the unchanged.05 step');
+ for(let i=0;i<60*60;i++)h.tick();
+ assert.equal(h.ratio,1.35,'Recovered detail remains bounded by the original desktop ceiling');h.dispose();
+}
+{
+ const h=harness({ratio:1.3});for(let i=0;i<65;i++)h.tick(.04);
+ assert.ok(Math.abs(h.ratio-1.15)<1e-10,'Moderately slow rendering retains the original.15 reduction');
+ for(let i=0;i<65*6;i++)h.tick(.04);
+ assert.equal(h.ratio,.75,'Moderately slow rendering retains the original.75 floor');h.dispose();
+}
+{
  const h=harness();for(let i=0;i<60*25;i++)h.tick();assert.ok(h.ratio>1,'Fast rendering can gradually recover detail');assert.ok(h.ratio<=1.35,'Recovered detail stays inside the desktop ceiling');h.dispose();
 }
-console.log('PASS: real renderer callback gates readiness on nonempty valid rendering, defers textures, handles context loss/restoration and render errors, pauses hidden/zero-size surfaces, bounds retries, adapts very slow frames, and enforces resized pixel budgets.');
+console.log('PASS: renderer readiness, texture gating, context recovery, hidden/zero-size surfaces, bounded retries; severe slow frames reach DPR.6, moderate frames retain.75, steady recovery stays bounded, and resize enforces pixel budgets.');

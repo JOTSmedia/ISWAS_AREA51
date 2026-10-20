@@ -1,7 +1,7 @@
 {
   "type": "Original code-authored physically based surface maps and native 3D model",
   "generator": "tools/build_gramophone_materials.py",
-  "model": "assets/gramophone-scene-v17-17.js",
+  "model": "assets/gramophone-scene-v18-1.js",
   "native_resolution": [
     4096,
     4096

@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
-const source=readFileSync(new URL('../assets/camera-clearance-v17-17.js',import.meta.url),'utf8');
+const source=readFileSync(new URL('../assets/camera-clearance-v18-1.js',import.meta.url),'utf8');
 const {clearGlobeCamera,globeClearanceHeight}=await import('data:text/javascript;base64,'+Buffer.from(source).toString('base64'));
 const safe=(p,elevation)=>{const radial=Math.hypot(p.x-21.5,p.z-1.5);assert.ok(Math.hypot(radial,p.y-elevation)>1.4,'Camera must clear sphere, pins and near plane');if(radial<2.7)assert.ok(p.y>2.7,'Camera must pass above the entire table');};
 for(const elevation of [1.49,1.8,2.4,3,3.05])for(const [start,end] of [[[8,1.5,1.3],[36,1.45,1.2]],[[36,1.5,1.2],[8,1.5,1.3]],[[21.5,1.62,7],[21.5,1.62,-4]],[[16,1.62,-2.1],[27,1.62,4.9]],[[24.5,4.6,8.4],[11.2,1.5,1.3]]]){

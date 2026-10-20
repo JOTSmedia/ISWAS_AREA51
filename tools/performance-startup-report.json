@@ -1,0 +1,102 @@
+{
+  "method": "SIMULATION: actual shipped loader/startup JavaScript, synthetic 60Hz RAF and readiness events; not browser wall time.",
+  "frameRateHz": 60,
+  "results": [
+    {
+      "release": "v18 baseline",
+      "scenario": "POSTER DECODED AT 0MS",
+      "progress100Ms": 3333.3333333333335,
+      "revealMs": 3933.3333333333335,
+      "sceneStartRequestMs": 3933.3333333333335,
+      "sceneEnabledMs": 3950.0000000000005,
+      "firstStepMs": 33.333333333333336,
+      "visibleSteps": 100,
+      "progressAnimationMs": 3300,
+      "finalProgress": 100
+    },
+    {
+      "release": "v18 baseline",
+      "scenario": "POSTER DECODED AT 5000MS",
+      "progress100Ms": 5133.333333333334,
+      "revealMs": 5733.333333333334,
+      "sceneStartRequestMs": 1516.6666666666667,
+      "sceneEnabledMs": 1550,
+      "firstStepMs": 33.333333333333336,
+      "visibleSteps": 100,
+      "progressAnimationMs": 5100.000000000001,
+      "finalProgress": 100
+    },
+    {
+      "release": "v18 baseline",
+      "scenario": "NO POSTER; SCENE READY AT 5000MS",
+      "progress100Ms": 5150,
+      "revealMs": 5750,
+      "sceneStartRequestMs": 1516.6666666666667,
+      "sceneEnabledMs": 1550,
+      "firstStepMs": 33.333333333333336,
+      "visibleSteps": 100,
+      "progressAnimationMs": 5116.666666666667,
+      "finalProgress": 100
+    },
+    {
+      "release": "v18 baseline",
+      "scenario": "NEITHER READY WITHIN 12000MS",
+      "progress100Ms": null,
+      "revealMs": null,
+      "sceneStartRequestMs": 1516.6666666666667,
+      "sceneEnabledMs": 1550,
+      "firstStepMs": 33.333333333333336,
+      "visibleSteps": 95,
+      "progressAnimationMs": null,
+      "finalProgress": 95
+    },
+    {
+      "release": "v18.1 current",
+      "scenario": "POSTER DECODED AT 0MS",
+      "progress100Ms": 1666.6666666666667,
+      "revealMs": 2266.666666666667,
+      "sceneStartRequestMs": 2266.666666666667,
+      "sceneEnabledMs": 2283.3333333333335,
+      "firstStepMs": 16.666666666666668,
+      "visibleSteps": 100,
+      "progressAnimationMs": 1650,
+      "finalProgress": 100
+    },
+    {
+      "release": "v18.1 current",
+      "scenario": "POSTER DECODED AT 5000MS",
+      "progress100Ms": 5066.666666666667,
+      "revealMs": 5666.666666666667,
+      "sceneStartRequestMs": 1516.6666666666667,
+      "sceneEnabledMs": 1550,
+      "firstStepMs": 16.666666666666668,
+      "visibleSteps": 100,
+      "progressAnimationMs": 5050,
+      "finalProgress": 100
+    },
+    {
+      "release": "v18.1 current",
+      "scenario": "NO POSTER; SCENE READY AT 5000MS",
+      "progress100Ms": 5083.333333333334,
+      "revealMs": 5683.333333333334,
+      "sceneStartRequestMs": 1516.6666666666667,
+      "sceneEnabledMs": 1550,
+      "firstStepMs": 16.666666666666668,
+      "visibleSteps": 100,
+      "progressAnimationMs": 5066.666666666667,
+      "finalProgress": 100
+    },
+    {
+      "release": "v18.1 current",
+      "scenario": "NEITHER READY WITHIN 12000MS",
+      "progress100Ms": null,
+      "revealMs": null,
+      "sceneStartRequestMs": 1516.6666666666667,
+      "sceneEnabledMs": 1550,
+      "firstStepMs": 16.666666666666668,
+      "visibleSteps": 95,
+      "progressAnimationMs": null,
+      "finalProgress": 95
+    }
+  ]
+}

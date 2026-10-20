@@ -1,6 +1,6 @@
 import {readFileSync} from 'node:fs';
 import assert from 'node:assert/strict';
-const source=readFileSync(new URL('../assets/index-v17-17.js',import.meta.url),'utf8');
+const source=readFileSync(new URL('../assets/index-v18-1.js',import.meta.url),'utf8');
 const body=source.slice(source.indexOf('check=(now)=>{')+6,source.indexOf(';frame=window.requestAnimationFrame(check)'));
 function run({readyAt=0,kind='posterReady',stall=false,complete=true}={}){
  let now=0,raf,values=[],timers=[],classes=[],attempts=0,reveals=0;

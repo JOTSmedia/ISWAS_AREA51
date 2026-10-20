@@ -2,8 +2,8 @@ import fs from 'node:fs';
 import assert from 'node:assert/strict';
 
 const dataModule=source=>'data:text/javascript;base64,'+Buffer.from(source).toString('base64');
-const lifetime=dataModule(fs.readFileSync(new URL('../assets/bubble-lifetime-v17-17.js',import.meta.url),'utf8'));
-const source=fs.readFileSync(new URL('../assets/morgan-bubbles-v17-17.js',import.meta.url),'utf8').replace("'./bubble-lifetime-v17-17.js'",JSON.stringify(lifetime));
+const lifetime=dataModule(fs.readFileSync(new URL('../assets/bubble-lifetime-v18-1.js',import.meta.url),'utf8'));
+const source=fs.readFileSync(new URL('../assets/morgan-bubbles-v18-1.js',import.meta.url),'utf8').replace("'./bubble-lifetime-v18-1.js'",JSON.stringify(lifetime));
 
 let measuredHeight=64;
 class Element {
@@ -60,7 +60,7 @@ for(const [rect,label] of [[{left:250,right:350,top:280,bottom:340},'right'],[{l
 }
 assert.equal(wormholeGeometry({x:100,y:300},{left:300,right:400,top:280,bottom:340},{width:1000,height:800}),null,'Long floating paths are rejected.');
 assert.equal(wormholeGeometry({x:4,y:4},{left:40,right:140,top:10,bottom:50},{width:320,height:568}),null,'The rotated image cannot spill outside the screen.');
-const css=fs.readFileSync(new URL('../assets/styles-v17-17.css',import.meta.url),'utf8');
+const css=fs.readFileSync(new URL('../assets/styles-v18-1.css',import.meta.url),'utf8');
 assert.doesNotMatch(source,/createElementNS|morgan-bubble-tail|<svg/,'No viewport SVG or mouth tail is created.');
 assert.match(css,/\.morgan-wormhole-path\{[^}]*pointer-events:none!important/,'The image cannot impede books, controls or bubble buttons.');
 assert.match(css,/\.morgan-speech-bubble:after\{content:none!important/,'The legacy triangle is disabled at its source.');

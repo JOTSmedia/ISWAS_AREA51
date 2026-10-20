@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict';
-import {frameRecordCamera,recordViewport} from '../assets/record-camera-v17-17.js';
+import {frameRecordCamera,recordViewport} from '../assets/record-camera-v18-1.js';
 let active=true,arrivals=0;
 globalThis.document={documentElement:{classList:{contains:()=>active}}};
 globalThis.window={dispatchEvent:()=>arrivals++};
@@ -12,7 +12,7 @@ for(const [w,h] of [[1512,789],[390,844],[320,720],[844,390]]){
  // Simulate the renderer's resize update arriving after our own frame.
  camera.aspect=w/h;frameRecordCamera(camera,aim,1/60);assert.equal(camera.aspect,box.width/box.height);
  // Project every flight location into the unobscured area, with the actual camera basis.
- const {recordFlightPose}=await import('../assets/record-catalogue-v17-17.js');
+ const {recordFlightPose}=await import('../assets/record-catalogue-v18-1.js');
  const pos=camera.position,dy=aim.y-pos.y,dz=aim.z-pos.z,len=Math.hypot(dy,dz),fy=dy/len,fz=dz/len;
  for(let rank=1;rank<=100;rank++)for(let t=0;t<=1;t+=.05){
   const [x,y,z]=recordFlightPose(rank,t).position,ry=y-pos.y,rz=z-pos.z,depth=ry*fy+rz*fz;

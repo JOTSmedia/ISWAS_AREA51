@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import {runInNewContext} from 'node:vm';
-const source=fs.readFileSync(new URL('../assets/black-lodge-scene-v17-17.js',import.meta.url),'utf8');
+const source=fs.readFileSync(new URL('../assets/black-lodge-scene-v18-1.js',import.meta.url),'utf8');
 const {createBlackLodge}=await import('data:text/javascript;base64,'+Buffer.from(source).toString('base64'));
 const made=[];
 class Geometry{constructor(...args){this.args=args;made.push(this)}}
@@ -33,7 +33,7 @@ for(let i=0;i<5;i++){
  assert.equal(first.props.children[i].props.dispose,null,'One fixture cannot dispose a shared resource.');
 }
 assert.deepEqual(first.props.children.at(-1).props,{position:[0,2.85,0],color:'#ccb999',intensity:2.8,distance:5,decay:2});
-const bundle=fs.readFileSync(new URL('../assets/lodge-canvas-v17-17.js',import.meta.url),'utf8');
+const bundle=fs.readFileSync(new URL('../assets/lodge-canvas-v18-1.js',import.meta.url),'utf8');
 const begin=bundle.indexOf('function rb({position:e}){'),end=bundle.indexOf(' function ib(',begin);
 assert.ok(begin>=0&&end>begin);
 const sandbox={$:{jsx},LodgeLamp};

@@ -6,7 +6,7 @@ import vm from 'node:vm';
 import { fileURLToPath } from 'node:url';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const source = fs.readFileSync(path.join(root, 'assets/index-v17-17.js'), 'utf8');
+const source = fs.readFileSync(path.join(root, 'assets/index-v18-1.js'), 'utf8');
 const fragment = Symbol('fragment');
 const jsx = (type, props) => ({ type, props });
 const context = vm.createContext({
@@ -83,10 +83,10 @@ function loadPresentation(filename, otherExports = {}) {
   });
   return new Function('mainExports', 'otherExports', 'window', script)(mainExports, otherExports, {});
 }
-const dossier = loadPresentation('dossier-DjjHUuDC-v17-17.js');
+const dossier = loadPresentation('dossier-DjjHUuDC-v18-1.js');
 const routeFiles = {
-  '': 'routes-_h6z7-DI-v17-17.js', need: 'need-CeNEguFh-v17-17.js', stars: 'stars-CUuKb4v8-v17-17.js',
-  locations: 'locations-v17-17.js', form: 'form-BBEd8Wd--v17-17.js', comparison: 'comparison-DJ0RniAw-v17-17.js', contact: 'contact-DBe8tnEL-v17-17.js',
+  '': 'routes-_h6z7-DI-v18-1.js', need: 'need-CeNEguFh-v18-1.js', stars: 'stars-CUuKb4v8-v18-1.js',
+  locations: 'locations-v18-1.js', form: 'form-BBEd8Wd--v18-1.js', comparison: 'comparison-DJ0RniAw-v18-1.js', contact: 'contact-DBe8tnEL-v18-1.js',
 };
 for (const route of ['', 'need', 'stars', 'locations', 'form', 'comparison', 'contact']) {
   const filename = path.join(root, route, 'index.html');

@@ -1,8 +1,8 @@
 import fs from 'node:fs';
 import vm from 'node:vm';
 import assert from 'node:assert/strict';
-const source=fs.readFileSync(new URL('../assets/index-v17-17.js',import.meta.url),'utf8');
-const css=fs.readFileSync(new URL('../assets/styles-v17-17.css',import.meta.url),'utf8');
+const source=fs.readFileSync(new URL('../assets/index-v18-1.js',import.meta.url),'utf8');
+const css=fs.readFileSync(new URL('../assets/styles-v18-1.css',import.meta.url),'utf8');
 assert.match(css,/html:not\(\.is-gallery\):not\(\.locations-layout\) \.sheet,\s*html:not\(\.is-gallery\):not\(\.locations-layout\) \.dossier-panel\{pointer-events:auto!important\}/,'Ordinary prose receives native pointer/touch events, while 360 and Locations retain their dedicated surfaces');
 const start=source.indexOf('function zv(e,t){let n=Dc()'),end=source.indexOf('function Bv(',start);
 function harness(){

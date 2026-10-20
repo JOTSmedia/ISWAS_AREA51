@@ -6,7 +6,7 @@ from pathlib import Path
 import json
 
 ROOT = Path(__file__).resolve().parent.parent
-SHELLS = ROOT / 'assets/gated-pages-v17-18.json'
+SHELLS = ROOT / 'assets/gated-pages-v18-1.json'
 ROUTES = ['index.html'] + [f'{name}/index.html' for name in ['need', 'stars', 'locations', 'form', 'comparison', 'contact']]
 # Save the exact upstream HTML once, so rebuilding never nests gate pages.
 if SHELLS.exists():
@@ -35,9 +35,9 @@ for route in ROUTES:
 <meta name="theme-color" content="#07060a">
 <style>body.access-gated::before{{content:none!important;background:none!important}}</style>
 <link rel="icon" type="image/svg+xml" href="{prefix}favicon.svg">
-<link rel="stylesheet" href="{prefix}assets/styles-v17-17.css">
-<link rel="stylesheet" href="{prefix}assets/access-gate-v17-18.css">
-<script src="{prefix}assets/access-gate-v17-18.js" data-entry="{route}" defer></script>
+<link rel="stylesheet" href="{prefix}assets/access-gate-base-v18-1.css">
+<link rel="stylesheet" href="{prefix}assets/access-gate-v18-1.css">
+<script src="{prefix}assets/access-gate-v18-1.js" data-entry="{route}" defer></script>
 </head><body class="access-gated">
 <main class="load-screen access-screen" aria-label="Coming soon">
 {logo}

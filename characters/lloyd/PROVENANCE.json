@@ -1,0 +1,26 @@
+{
+  "character": "Lloyd-inspired Gold Room bartender",
+  "generation_tool": "Built-in image_gen imagegen",
+  "source": "tools/asset-sources/lloyd-source.png",
+  "prompt": "tools/asset-sources/lloyd-prompt.txt",
+  "native_resolution": [
+    1024,
+    1536
+  ],
+  "upscaled": false,
+  "delivery": {
+    "characters/lloyd/lloyd.webp": [
+      1024,
+      1536
+    ],
+    "characters/lloyd/lloyd-mobile.webp": [
+      512,
+      768
+    ]
+  },
+  "reference": "User-provided The Shining Gold Room still; character/costume reference only. The film still is not embedded in the site.",
+  "television": "Original native 3D model informed by the user-provided vintage-TV photograph; the watermarked stock photo is not used as a texture.",
+  "video_url": "https://www.youtube.com/watch?v=iGqoLtIby9s",
+  "video_delivery": "Official YouTube privacy-enhanced iframe, fitted to the TV aperture with CSS3D. Video is not downloaded or bundled.",
+  "existing_materials": "Existing hospitality walnut, marble and leather maps retained."
+}

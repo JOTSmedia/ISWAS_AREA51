@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
-const source=readFileSync(new URL('../assets/black-lodge-scene-v17-17.js',import.meta.url),'utf8');
+const source=readFileSync(new URL('../assets/black-lodge-scene-v18-1.js',import.meta.url),'utf8');
 const {pickGlobePin,globePinVisible,GLOBE_PIN_HEAD_RADIUS}=await import('data:text/javascript;base64,'+Buffer.from(source).toString('base64'));
 const center={x:0,y:0,z:0},origin={x:0,y:0,z:7.5},front={x:0,y:0,z:GLOBE_PIN_HEAD_RADIUS},back={x:0,y:0,z:-GLOBE_PIN_HEAD_RADIUS};
 const normalize=v=>{const length=Math.hypot(v.x,v.y,v.z);return{x:v.x/length,y:v.y/length,z:v.z/length}};

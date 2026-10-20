@@ -3,8 +3,8 @@
 
 Uses Python's standard library and, when available, Node for JavaScript syntax.
 No source files are changed. Run from any working directory:
-  python3 ISWAS_v16.4/tools/package_release.py --check
-  python3 ISWAS_v16.4/tools/package_release.py --output ISWAS_v16.4-release.zip
+  python3 ISWAS_v18.1/tools/package_release.py --check
+  python3 ISWAS_v18.1/tools/package_release.py --output ISWAS_v18.1-release.zip
 """
 
 from __future__ import annotations
@@ -33,12 +33,22 @@ ASSET_PATH = re.compile(rf"^[\w@./%+~:=-]+\.(?:{ASSET_EXTENSIONS})(?:[?#][^\s]*)
 QUOTED = re.compile(r'''(?P<q>["'`])(?P<v>(?:\\.|(?!(?P=q))[^\\])*)(?P=q)''')
 CSS_URL = re.compile(r'''url\(\s*(["']?)(.*?)\1\s*\)''', re.I | re.S)
 REQUIRED = (
-    "assets/access-gate-v17-18.js",
-    "assets/access-gate-v17-18.css",
-    "assets/gated-pages-v17-18.json",
+    "media/ring-tape-v18-1.mp4",
+    "assets/lloyd-host-v18-1.js",
+    "assets/lloyd-host-v18-1.css",
+    "assets/access-gate-base-v18-1.css",
+    "characters/jack-torrance/jack.webp",
+    "characters/jack-torrance/jack-mobile.webp",
+    "assets/vintage-television-v18-1.js",
+    "assets/vintage-television-v18-1.css",
+    "characters/lloyd/lloyd.webp",
+    "characters/lloyd/lloyd-mobile.webp",
+    "assets/access-gate-v18-1.js",
+    "assets/access-gate-v18-1.css",
+    "assets/gated-pages-v18-1.json",
     "CNAME",
-    "assets/gallery-progress-v17-17.js",
-    "assets/gallery-progress-v17-17.css",
+    "assets/gallery-progress-v18-1.js",
+    "assets/gallery-progress-v18-1.css",
     "textures/gramophone/aged-brass-1024.webp",
     "textures/gramophone/aged-brass-2048.webp",
     "textures/gramophone/aged-brass-4096.webp",
@@ -46,34 +56,34 @@ REQUIRED = (
     "textures/gramophone/brass-roughness-2048.webp",
     "textures/gramophone/brass-roughness-4096.webp",
 
-    "assets/gramophone-scene-v17-17.js",
-    "assets/record-player-v17-17.js",
-    "assets/record-player-v17-17.css",
-    "assets/record-catalogue-v17-17.js",
+    "assets/gramophone-scene-v18-1.js",
+    "assets/record-player-v18-1.js",
+    "assets/record-player-v18-1.css",
+    "assets/record-catalogue-v18-1.js",
     "data/horror-soundtracks.json",
     "textures/records/sleeves-4096.webp",
     "textures/records/sleeves-2048.webp",
     "textures/records/sleeves-1024.webp",
-    "assets/hospitality-room-v17-17.js",
+    "assets/hospitality-room-v18-1.js",
     ".nojekyll",
-    "plates/share-black-lodge-v17-17.jpg",
+    "plates/share-black-lodge-v18-1.jpg",
     "index.html",
-    "assets/v9-guide-v17-17.js",
-    "assets/popup-behavior-v17-17.js",
-    "assets/morgan-bubbles-v17-17.js",
-    "assets/morgan-model-v17-17.js",
-    "assets/mirror-ripple-v17-17.js",
-    "assets/donnie-darko-ui-v17-17.js",
-    "assets/bubble-lifetime-v17-17.js",
-    "assets/black-lodge-scene-v17-17.js",
-    "assets/camera-clearance-v17-17.js",
-    "assets/decorative-books-v17-17.js",
-    "assets/horror-locations-data-v17-17.js",
-    "assets/horror-globe-ui-v17-17.js",
-    "assets/horror-globe-ui-v17-17.css",
-    "assets/locations-v17-17.js",
-    "assets/globe-zoom-v17-17.js",
-    "assets/locations-v17-17.css",
+    "assets/v9-guide-v18-1.js",
+    "assets/popup-behavior-v18-1.js",
+    "assets/morgan-bubbles-v18-1.js",
+    "assets/morgan-model-v18-1.js",
+    "assets/mirror-ripple-v18-1.js",
+    "assets/donnie-darko-ui-v18-1.js",
+    "assets/bubble-lifetime-v18-1.js",
+    "assets/black-lodge-scene-v18-1.js",
+    "assets/camera-clearance-v18-1.js",
+    "assets/decorative-books-v18-1.js",
+    "assets/horror-locations-data-v18-1.js",
+    "assets/horror-globe-ui-v18-1.js",
+    "assets/horror-globe-ui-v18-1.css",
+    "assets/locations-v18-1.js",
+    "assets/globe-zoom-v18-1.js",
+    "assets/locations-v18-1.css",
     "locations/index.html",
     "textures/globe-earth-4096.webp",
     "textures/globe-earth-2048.webp",
@@ -95,7 +105,7 @@ REQUIRED = (
     "audio/vincent-price-laugh.mp3",
 )
 NONRUNTIME_DIRS = {".git", ".github", "tools", "tests", "__pycache__", "node_modules"}
-RUNTIME_DIRS = {"audio", "assets", "plates", "portraits", "textures", "characters", "fonts", "books", "data"}
+RUNTIME_DIRS = {"audio", "media", "assets", "plates", "portraits", "textures", "characters", "fonts", "books", "data"}
 
 
 def source_document(path: Path) -> bool:
@@ -238,7 +248,7 @@ def validate(files: list[Path], node: str | None) -> tuple[set[Path], list[str]]
         failures.append(f"Cannot validate library data: {error}")
 
     try:
-        location_module = (ROOT / "assets/horror-locations-data-v17-17.js").read_text()
+        location_module = (ROOT / "assets/horror-locations-data-v18-1.js").read_text()
         start = location_module.index("export const HORROR_LOCATIONS = ") + len("export const HORROR_LOCATIONS = ")
         locations = json.JSONDecoder().raw_decode(location_module[start:])[0]
         valid = isinstance(locations, list) and len(locations) == 200
@@ -256,7 +266,7 @@ def validate(files: list[Path], node: str | None) -> tuple[set[Path], list[str]]
     # Validate preserved post-PIN documents at their original URL paths, too.
     documents = [(source, None) for source in files]
     try:
-        pages = json.loads((ROOT / "assets/gated-pages-v17-18.json").read_text())
+        pages = json.loads((ROOT / "assets/gated-pages-v18-1.json").read_text())
         expected = {"index.html"} | {f"{name}/index.html" for name in ("need", "stars", "locations", "form", "comparison", "contact")}
         if set(pages) != expected:
             failures.append("Post-PIN documents must contain all seven original presentation pages.")
@@ -354,7 +364,9 @@ def write_release(output: Path, files: list[Path]) -> None:
         "Use an HTTP(S) static server; opening index.html directly as a file is not supported.\n"
         "The same files support a site at the domain root or in a version subfolder.\n"
         "No build step or external Grok runtime is required. Browser WebGL is required for the 3D gallery.\n\n"
-        "v17.18: COMING SOON with a four-digit PIN entry before the original loader.\n"
+        "v18.1: Jack patron, interactive Lloyd, native local Ring tape, and performance updates.\n"
+        "The TV plays the supplied local MP4; sound and controls open on user interaction.\n"
+        "The COMING SOON PIN entrance from v17.18 is retained.\n"
         "IMPORTANT: This GitHub Pages gate is a client-side privacy screen and can be bypassed.\n"
         "It does not protect confidential files. Do not treat the static files or public repository as private.\n"
         "The current tab remembers entry for four hours on subsequent page loads.\n\n"

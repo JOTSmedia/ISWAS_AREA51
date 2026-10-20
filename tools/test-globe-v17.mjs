@@ -4,8 +4,8 @@ import {readFileSync} from 'node:fs';
 // Run the real GlobeTable callbacks without a browser/GPU; this verifies animation
 // timing and lifecycle behavior, while visual frame rate remains a browser check.
 const asModule=source=>'data:text/javascript;base64,'+Buffer.from(source).toString('base64');
-const dataURL=asModule(readFileSync(new URL('../assets/horror-locations-data-v17-17.js',import.meta.url),'utf8'));
-const source=readFileSync(new URL('../assets/black-lodge-scene-v17-17.js',import.meta.url),'utf8').replace("'./horror-locations-data-v17-17.js'",JSON.stringify(dataURL));
+const dataURL=asModule(readFileSync(new URL('../assets/horror-locations-data-v18-1.js',import.meta.url),'utf8'));
+const source=readFileSync(new URL('../assets/black-lodge-scene-v18-1.js',import.meta.url),'utf8').replace("'./horror-locations-data-v18-1.js'",JSON.stringify(dataURL));
 const {createBlackLodge,illuminateGlobeOcean,preserveGlobePinSize,GLOBE_PIN_HEAD_RADIUS,GLOBE_REST_ELEVATION,GLOBE_HOVER_ELEVATION,stepGlobeElevation,globeTableInFocus}=await import(asModule(source));
 class Bus {
  constructor(){this.handlers=new Map}
@@ -213,7 +213,7 @@ console.log('PASS: actual globe callbacks at 30/60/120fps on both geometry tiers
 {
  // Use the actual bundled Fiber dispatcher: a native click is a distinct event
  // after pointer-up and can otherwise fall through to the table underneath.
- const compiled=readFileSync(new URL('../assets/lodge-canvas-v17-17.js',import.meta.url),'utf8');
+ const compiled=readFileSync(new URL('../assets/lodge-canvas-v18-1.js',import.meta.url),'utf8');
  const dispatcherStart=compiled.indexOf('function f_(e){'),dispatcherEnd=compiled.indexOf('var p_=',dispatcherStart);
  assert.ok(dispatcherStart>=0&&dispatcherEnd>dispatcherStart);
  const createEvents=new Function('Hg','c_','l_','U',compiled.slice(dispatcherStart,dispatcherEnd)+';return f_')(
@@ -247,7 +247,7 @@ console.log('PASS: actual globe callbacks at 30/60/120fps on both geometry tiers
  console.log('PASS: actual Fiber pointer-down/up/click ordering preserves pin selection, prevents table click-through, and holds the globe stationary while aiming.');
 }
 
-const archive=readFileSync(new URL('../assets/horror-globe-ui-v17-17.js',import.meta.url),'utf8');
+const archive=readFileSync(new URL('../assets/horror-globe-ui-v18-1.js',import.meta.url),'utf8');
 assert.match(archive,/EARTH IMAGERY: NASA EARTH OBSERVATORY · LOCATION NOTES FROM THE SUPPLIED ARCHIVE/,'Earth imagery and supplied location notes have separate accurate credits');
 assert.doesNotMatch(archive,/NATURAL EARTH/,'The archive no longer credits the replaced cartographic imagery');
 

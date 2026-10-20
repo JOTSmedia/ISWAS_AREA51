@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
-const source=readFileSync(new URL('../assets/lodge-canvas-v17-17.js',import.meta.url),'utf8');
+const source=readFileSync(new URL('../assets/lodge-canvas-v18-1.js',import.meta.url),'utf8');
 const start=source.indexOf('function clampGlobeZoom(');
 assert.ok(start>=0,'Locations uses a dedicated framing helper');
 const {frame,visit,clamp,damp}=new Function(source.slice(start,source.indexOf('function Oy(){',start))+';return {frame:frameLocationsCamera,visit:frameGlobeVisitCamera,clamp:clampGlobeZoom,damp:dampGlobeZoom}')();

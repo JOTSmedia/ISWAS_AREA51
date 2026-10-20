@@ -28,10 +28,11 @@ for(const record of records){
  assert.ok(derivative.length<original.length/2,record.derivative+' reduces cold-transfer cost');
  before+=original.length;after+=derivative.length;
 }
-const scene=fs.readFileSync(new URL('assets/black-lodge-scene-v17-17.js',root),'utf8');
-const bundle=fs.readFileSync(new URL('assets/lodge-canvas-v17-17.js',root),'utf8');
+const scene=fs.readFileSync(new URL('assets/black-lodge-scene-v18-1.js',root),'utf8');
+const bundle=fs.readFileSync(new URL('assets/lodge-canvas-v18-1.js',root),'utf8');
 assert.ok(scene.includes('const tier=mobile?1024:2048;'));
-assert.equal((bundle.match(/walnut-2048\.webp/g)||[]).length,2);
+assert.equal((bundle.match(/walnut-2048\.webp/g)||[]).length,1,'Walnut uses one load shared by two independent texture transforms');
+assert.ok(bundle.includes('shelfMap=woodMap.clone()'));
 assert.equal((bundle.match(/walnut-height-2048\.webp/g)||[]).length,1);
 assert.ok(!/walnut(?:-height)?-4096\.webp/.test(bundle),'Desktop startup retains originals without requesting4096 tiers');
 assert.ok(!bundle.includes('leatherMap=loadFrame('),'Obsolete chair upholstery is not downloaded');

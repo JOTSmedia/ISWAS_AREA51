@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import vm from 'node:vm';
-const source=fs.readFileSync(new URL('../assets/index-v17-17.js',import.meta.url),'utf8');
+const source=fs.readFileSync(new URL('../assets/index-v18-1.js',import.meta.url),'utf8');
 const start=source.indexOf('function Nv('),end=source.indexOf('function Pv(',start);
 let callback,cleanup,documentScans=0,subtreeScans=0,scheduled=0,disconnected=false;
 const cleared=[];

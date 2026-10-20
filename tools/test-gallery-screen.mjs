@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import vm from 'node:vm';
-const source=fs.readFileSync(new URL('../assets/lodge-canvas-v17-17.js',import.meta.url),'utf8');
+const source=fs.readFileSync(new URL('../assets/lodge-canvas-v18-1.js',import.meta.url),'utf8');
 assert.ok(!source.includes('plasterMap=loadFrame('));
 assert.ok(!source.includes('rugMap=loadFrame('));
 const component=source.slice(source.indexOf('function Zy(){'),source.indexOf('function Qy()'));

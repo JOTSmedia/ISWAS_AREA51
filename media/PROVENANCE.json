@@ -1,0 +1,14 @@
+{
+  "source": "/Users/bethrooney/Downloads/The Ring \u2013 The VHS Tape 2002 Promo VHS Capture.mp4",
+  "source_sha256": "cda794f7b8de52ab496fab16b9fc100d45bfa23cec09e3628688f2bf03afc8c1",
+  "delivery": "media/ring-tape-v18-1.mp4",
+  "delivery_sha256": "80aae15d6282dfce08ab3bc666958b75e19ed7498430987d4be5dc5ebdca8bbb",
+  "processing": "ffmpeg stream copy, unchanged H.264/AAC media streams, +faststart MP4 metadata for progressive playback",
+  "resolution": [
+    640,
+    480
+  ],
+  "duration_seconds": 95.746032,
+  "bytes": 14676960,
+  "autoplay": "Muted only when nearby TV is visible after gallery entry; sound requires explicit interaction"
+}

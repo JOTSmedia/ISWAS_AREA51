@@ -1,0 +1,11 @@
+.vintage-tv-media{position:fixed;left:0;top:0;width:1px;height:1px;opacity:0;pointer-events:none;clip-path:inset(50%)}
+.vintage-tv-controls[hidden],.vintage-tv-access[hidden]{display:none!important}
+.vintage-tv-controls{position:fixed;left:50%;transform:translateX(-50%);width:max-content;bottom:6rem;z-index:38;display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:.5rem;max-width:calc(100vw - 2rem);padding:.65rem;border:1px solid #9c8055;background:#100c09f5;color:#f4ead7;font-family:var(--font-sans);box-shadow:0 8px 32px #0008}
+.vintage-tv-title{flex:0 0 100%;text-align:center;font-size:.65rem;letter-spacing:.15em;padding:.15rem}
+.vintage-tv-controls button{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:.5rem .75rem;border:1px solid #806945;background:#21180f;color:#f4ead7;font:inherit;font-size:.65rem;letter-spacing:.08em;cursor:pointer}
+.vintage-tv-controls button:hover{background:#483420}
+.vintage-tv-controls button:disabled{opacity:.5;cursor:default}
+.vintage-tv-controls :focus-visible{outline:2px solid #f2d389;outline-offset:2px}
+.vintage-tv-status{flex:0 0 100%;font-size:.6rem;letter-spacing:.08em;text-align:center;min-height:1em;color:#d3c2a2}
+.vintage-tv-access:focus{position:fixed;z-index:80;left:1rem;top:1rem;width:auto;height:auto;clip:auto;clip-path:none;padding:1rem;border:1px solid #c6a15a;background:#160f0b;color:#f4ead7}
+@media(max-width:700px){.vintage-tv-controls{top:7.5rem;bottom:auto;gap:.35rem;padding:.5rem}.vintage-tv-controls button{padding:.5rem .6rem;font-size:.6rem}}

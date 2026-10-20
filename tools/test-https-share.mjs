@@ -3,7 +3,7 @@ import {readFileSync,existsSync} from 'node:fs';
 import vm from 'node:vm';
 const root=new URL('../',import.meta.url),routes=['','need','stars','locations','form','comparison','contact'];
 for(const route of routes){
- const html=JSON.parse(readFileSync(new URL('assets/gated-pages-v17-18.json',root),'utf8'))[(route?route+'/':'')+'index.html'];
+ const html=JSON.parse(readFileSync(new URL('assets/gated-pages-v18-1.json',root),'utf8'))[(route?route+'/':'')+'index.html'];
  const bootstrap=html.match(/<head><script>([\s\S]*?)<\/script>/)[1];
  for(const hostname of ['itstartedwithascream.com','www.itstartedwithascream.com','jotsmedia.github.io','localhost','127.0.0.1','preview.test'])for(const protocol of ['http:','https:']){
   const pathname='/ISWAS_web/'+(route?route+'/':''),redirects=[],policies=[],requests=[];
@@ -25,7 +25,7 @@ for(const route of routes){
  assert.ok(html.includes('name="referrer" content="strict-origin-when-cross-origin"'),'YouTube receives a permitted origin referrer');
  for(const key of ['og:image','og:image:secure_url','twitter:image']){
   const tag=html.match(new RegExp('<meta (?:property|name)="'+key+'" content="([^"]+)"'));
-  assert.equal(tag?.[1],'https://itstartedwithascream.com/plates/share-black-lodge-v17-17.jpg',route+' exposes the same HTTPS Black Lodge preview in initial HTML');
+  assert.equal(tag?.[1],'https://itstartedwithascream.com/plates/share-black-lodge-v18-1.jpg',route+' exposes the same HTTPS Black Lodge preview in initial HTML');
  }
  assert.ok(html.includes('property="og:image:width" content="1200"')&&html.includes('property="og:image:height" content="630"'));
  assert.ok(html.includes('name="twitter:card" content="summary_large_image"'));

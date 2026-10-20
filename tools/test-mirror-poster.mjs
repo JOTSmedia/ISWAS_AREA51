@@ -3,8 +3,8 @@ import {readFileSync} from 'node:fs';
 import {createHash} from 'node:crypto';
 import {runInNewContext} from 'node:vm';
 const base=new URL('../',import.meta.url),read=path=>readFileSync(new URL(path,base),'utf8');
-const {MIRROR_LAYOUT,createMirrorRipple}=await import('data:text/javascript;base64,'+Buffer.from(read('assets/mirror-ripple-v17-17.js')).toString('base64'));
-const source=read('assets/lodge-canvas-v17-17.js');
+const {MIRROR_LAYOUT,createMirrorRipple}=await import('data:text/javascript;base64,'+Buffer.from(read('assets/mirror-ripple-v18-1.js')).toString('base64'));
+const source=read('assets/lodge-canvas-v18-1.js');
 const component=source.slice(source.indexOf('function mirrorPlate(){'),source.indexOf('function qy(',source.indexOf('function mirrorPlate(){')));
 let requested,loaded=true,cleanup,frameCallback;const poster={id:'poster'},frame={id:'original mirror frame'},labels=[],events=[];
 class Texture{constructor(canvas){this.canvas=canvas}dispose(){this.disposed=true}}

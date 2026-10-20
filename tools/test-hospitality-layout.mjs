@@ -1,8 +1,8 @@
 import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
-const text=readFileSync(new URL('../assets/hospitality-room-v17-17.js',import.meta.url),'utf8');
-const {ROOM_ADDITIONS:room,ROOM_RUGS:rugs,frameHospitalityReview}=await import('data:text/javascript;base64,'+Buffer.from(text).toString('base64'));
-const source=readFileSync(new URL('../assets/lodge-canvas-v17-17.js',import.meta.url),'utf8');
+const text=readFileSync(new URL('../assets/hospitality-room-v18-1.js',import.meta.url),'utf8');
+const {ROOM_ADDITIONS:room,ROOM_RUGS:rugs,frameHospitalityReview}=await import(new URL('../assets/hospitality-room-v18-1.js',import.meta.url));
+const source=readFileSync(new URL('../assets/lodge-canvas-v18-1.js',import.meta.url),'utf8');
 function bounds(r){
  const [w,d]=r.size,a=r.rotation[1],c=Math.cos(a),s=Math.sin(a),x=r.position[0],z=r.position[2];
  const corners=[-1,1].flatMap(i=>[-1,1].map(j=>[x+c*i*w/2+s*j*d/2,z-s*i*w/2+c*j*d/2]));

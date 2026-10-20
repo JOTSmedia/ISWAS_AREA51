@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
-const source=readFileSync(new URL('../assets/lodge-canvas-v17-17.js',import.meta.url),'utf8');
+const source=readFileSync(new URL('../assets/lodge-canvas-v18-1.js',import.meta.url),'utf8');
 const helper=source.slice(source.indexOf('function frameStarsArrival('),source.indexOf('function tourSceneReady('));
 const presetStart=source.indexOf('xy={')+3,presetEnd=source.indexOf(';function tourSection',presetStart);
 const presets=new Function('return ('+source.slice(presetStart,presetEnd)+')')();

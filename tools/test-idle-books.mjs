@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import vm from 'node:vm';
-const source=fs.readFileSync(new URL('../assets/lodge-canvas-v17-17.js',import.meta.url),'utf8');
+const source=fs.readFileSync(new URL('../assets/lodge-canvas-v18-1.js',import.meta.url),'utf8');
 const start=source.indexOf('function Wy('),end=source.indexOf('function ',start+1);
 let frame,traversals=0,seats=0,now=1000;
 const vector=()=>({x:0,y:0,z:0,set(x,y,z){Object.assign(this,{x,y,z});return this},setScalar(value){return this.set(value,value,value)}});

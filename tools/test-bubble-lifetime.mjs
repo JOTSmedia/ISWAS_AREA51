@@ -1,6 +1,6 @@
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
-const source=fs.readFileSync(new URL('../assets/bubble-lifetime-v17-17.js',import.meta.url),'utf8');
+const source=fs.readFileSync(new URL('../assets/bubble-lifetime-v18-1.js',import.meta.url),'utf8');
 const {BubbleLifetime}=await import('data:text/javascript;base64,'+Buffer.from(source).toString('base64'));
 const lifetime=new BubbleLifetime();
 assert.equal(lifetime.sync('library-1',false,0),'hidden');

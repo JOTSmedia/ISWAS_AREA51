@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict';
-import {createMorganModelSystem} from '../assets/morgan-model-v17-17.js';
+import {createMorganModelSystem} from '../assets/morgan-model-v18-1.js';
 
 // Small Three-compatible construction adapter exercises the real model data,
 // sharing, texture tier and rendering lifecycle without requiring a GPU in CI.

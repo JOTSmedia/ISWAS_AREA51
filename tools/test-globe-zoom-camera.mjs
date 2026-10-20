@@ -1,8 +1,8 @@
-import {GALLERY_WAYPOINTS,waypointIndex,waypointAngles,nearestGalleryWaypoint} from '../assets/gallery-progress-v17-17.js';
+import {GALLERY_WAYPOINTS,waypointIndex,waypointAngles,nearestGalleryWaypoint} from '../assets/gallery-progress-v18-1.js';
 import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
 import {runInNewContext} from 'node:vm';
-const source=readFileSync(new URL('../assets/lodge-canvas-v17-17.js',import.meta.url),'utf8');
+const source=readFileSync(new URL('../assets/lodge-canvas-v18-1.js',import.meta.url),'utf8');
 const code=source.slice(source.indexOf('function clampGlobeZoom('),source.indexOf('function ky(){'));
 const listeners=new Map(),classes=new Set(),classTransitions=[];
 let gallery=true,frame,hidden=false;const documentEvents=new Map();
@@ -36,7 +36,7 @@ runInNewContext(code+';Oy()',{
  U:Vector,Wd:class {setFromVector3(){this.phi=1;this.theta=0}},xu:Camera,Fr:class{},
  xy:{'/need':{position:[11.2,1.5,4],target:[11.2,1.5,0]}},
  Dn:{clamp:(v,min,max)=>Math.max(min,Math.min(max,v)),damp:(v,target,lambda,dt)=>target+(v-target)*Math.exp(-lambda*dt)},
- frameRecordCamera:()=>false,GALLERY_WAYPOINTS,waypointIndex,waypointAngles,nearestGalleryWaypoint,CustomEvent:class{constructor(type,{detail}){Object.assign(this,{type,detail})}},
+ frameHospitalityReview:()=>false,frameTelevisionCamera:()=>false,frameRecordCamera:()=>false,GALLERY_WAYPOINTS,waypointIndex,waypointAngles,nearestGalleryWaypoint,CustomEvent:class{constructor(type,{detail}){Object.assign(this,{type,detail})}},
  Element,performance:{now:()=>10000},clearGlobeCamera:()=>0,tourSection:()=>'/need',wy:{},
 });
 const emit=(name,event)=>{for(const listener of listeners.get(name)||[])listener(event)};

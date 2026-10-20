@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
 import {runInNewContext} from 'node:vm';
-const source=readFileSync(new URL('../assets/lodge-canvas-v17-17.js',import.meta.url),'utf8');
+const source=readFileSync(new URL('../assets/lodge-canvas-v18-1.js',import.meta.url),'utf8');
 const code=source.slice(source.indexOf('function clampGlobeZoom('),source.indexOf('function ky(){'));
 class Element {
  constructor(toolbar=false){this.toolbar=toolbar}
@@ -28,7 +28,7 @@ function run(direction=1,{paused=false,archive=false}={}){
  addEventListener(){},removeEventListener(){},dispatchEvent:event=>events.push(event)};
  
  runInNewContext(code+';Oy()',{
- frameRecordCamera:()=>false,window:win,document:{addEventListener(){},removeEventListener(){},querySelector:selector=>selector.includes('.horror-locations[open]')&&archive?{}:null,documentElement:{classList:{contains:()=>false,add(){},remove(){},toggle(){}}}},
+ frameHospitalityReview:()=>false,frameTelevisionCamera:()=>false,frameRecordCamera:()=>false,window:win,document:{addEventListener(){},removeEventListener(){},querySelector:selector=>selector.includes('.horror-locations[open]')&&archive?{}:null,documentElement:{classList:{contains:()=>false,add(){},remove(){},toggle(){}}}},
  o:()=>'/locations',__:()=>({camera,gl:{},scene:{}}),Ty:()=>false,
  u:{useRef:current=>({current}),useMemo:fn=>fn(),useEffect:fn=>fn()},v_:fn=>frame=fn,
  U:Vector,Wd:class {setFromVector3(){this.phi=1;this.theta=0}},xu:Camera,Fr:class{},

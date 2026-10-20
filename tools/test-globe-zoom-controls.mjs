@@ -3,7 +3,7 @@ import {readFileSync} from 'node:fs';
 import {runInNewContext} from 'node:vm';
 
 // Exercise the shipped controller against DOM event and observer boundaries.
-const source = readFileSync(new URL('../assets/globe-zoom-v17-17.js', import.meta.url), 'utf8');
+const source = readFileSync(new URL('../assets/globe-zoom-v18-1.js', import.meta.url), 'utf8');
 function harness(initial) {
   const observers = [], classes = new Set(), events = new Map(), readyEvents = new Map();
   const children = new Map(), emitted = [], pauses = [];

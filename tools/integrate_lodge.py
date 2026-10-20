@@ -1,8 +1,8 @@
 from pathlib import Path
-p=Path(__file__).resolve().parent.parent/'assets/lodge-canvas-v17-17.js'
+p=Path(__file__).resolve().parent.parent/'assets/lodge-canvas-v18-1.js'
 s=p.read_text()
 if 'createBlackLodge' in s:raise SystemExit('Already integrated')
-s='import {createBlackLodge} from "./black-lodge-scene-v17-17.js";\nimport "./horror-globe-ui-v17-17.js";\n'+s
+s='import {createBlackLodge} from "./black-lodge-scene-v18-1.js";\nimport "./horror-globe-ui-v18-1.js";\n'+s
 # Remove only the old library chair + rug; preserve the bookcase and ladder.
 a=s.index('(0,$.jsxs)(`group`,{position:[.95,0,-1.72]')
 b=s.index('(0,$.jsxs)(`group`,{position:[-3.58,0,-3.05]',a)

@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import {readFileSync,statSync} from 'node:fs';
 
 // Exercise the production horn builder without importing the browser player.
-const source=readFileSync(new URL('../assets/gramophone-scene-v17-17.js',import.meta.url),'utf8');
+const source=readFileSync(new URL('../assets/gramophone-scene-v18-1.js',import.meta.url),'utf8');
 const isolated=source.replace(/^import .*;\n/gm,'');
 const {gramophoneHornProfile:profile,gramophoneHornSurface:surface}=await import('data:text/javascript;base64,'+Buffer.from(isolated).toString('base64'));
 assert.deepEqual(profile(-1),profile(0));assert.deepEqual(profile(2),profile(1));

@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
-import {GALLERY_WAYPOINTS,waypointIndex,waypointAngles,nearestGalleryWaypoint,installGalleryProgress} from '../assets/gallery-progress-v17-17.js';
-import {clearGlobeCamera,globeClearanceHeight} from '../assets/camera-clearance-v17-17.js';
+import {GALLERY_WAYPOINTS,waypointIndex,waypointAngles,nearestGalleryWaypoint,installGalleryProgress} from '../assets/gallery-progress-v18-1.js';
+import {clearGlobeCamera,globeClearanceHeight} from '../assets/camera-clearance-v18-1.js';
 const expected=['library','overview','need','stars','locations','form','comparison','contact','akkad','piano','cigars','bar','wine','records'];
 assert.deepEqual(GALLERY_WAYPOINTS.map(stop=>stop.id),expected);
 assert.equal(new Set(expected).size,GALLERY_WAYPOINTS.length);
@@ -53,7 +53,7 @@ next.dispatchEvent(new Event('click'));assert.equal(events.at(-1).id,'library','
 range.value='9';range.dispatchEvent(new Event('input'));assert.equal(events.at(-1).id,'piano');assert.equal(label.textContent,'PIANO');assert.equal(range.attributes['aria-valuetext'],'PIANO');assert.equal(window.__v9Paused,true);assert.equal(paused.at(-1)[0],true);
 window.dispatchEvent(new DetailEvent('gallery-waypoint-state',{detail:{index:12,manual:true}}));assert.equal(label.textContent,'WINE COLLECTION','Free movement updates the indicator');
 root.classList.toggle('is-gallery',false);observe();assert.equal(rail.hidden,true);assert.equal(root.classList.contains('has-gallery-progress'),false);
-const css=readFileSync(new URL('../assets/gallery-progress-v17-17.css',import.meta.url),'utf8');
+const css=readFileSync(new URL('../assets/gallery-progress-v18-1.css',import.meta.url),'utf8');
 assert.match(css,/grid-template-columns:44px minmax\(0,1fr\) 44px/,'The slider shrinks between touch-safe arrows even at 320px');
 assert.match(css,/height:2px/);assert.match(css,/has-gallery-progress #morgan-guide/);assert.match(css,/has-gallery-progress \.site-footer/);
 console.log('PASS: all 14 room stops, keyboard-facing piano, front/rear indicator, every high/low-refresh camera corridor and globe clearance; 360-only accessible slider, full-room wrap, paused tour and mobile control spacing.');

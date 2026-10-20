@@ -1,0 +1,7 @@
+{
+  "archive": "ISWAS_v18.1-release.zip",
+  "runtime_files": 375,
+  "bytes": 50290720,
+  "sha256": "73bc729e127aee733dc6a10093aeccdedc1201d9a3837982bc02c40b9499788c",
+  "checks": "Every archived runtime file matches its source and manifest; ZIP CRCs pass; required video, character assets, dialog, gate CSS, domain and Pages marker present; authoring files excluded."
+}

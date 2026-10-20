@@ -4,7 +4,7 @@ import {runInNewContext} from 'node:vm';
 
 // Run the actual layout controller against observable DOM/RAF boundaries.
 {
- const source=readFileSync(new URL('../assets/locations-layout-v17-17.js',import.meta.url),'utf8').replace(/export /g,'');
+ const source=readFileSync(new URL('../assets/locations-layout-v18-1.js',import.meta.url),'utf8').replace(/export /g,'');
  const frames=new Map,observers=[],classes=new Set,styles=new Map,events={};
  let nextFrame=0,styleWrites=0,reads=0,mastBottom=68,page={},archive=null,stage;
  const root={classList:{contains:name=>classes.has(name),toggle(name,on){on?classes.add(name):classes.delete(name)}},style:{getPropertyValue:key=>styles.get(key)||'',setProperty(key,value){styleWrites++;styles.set(key,value)}}};
@@ -45,7 +45,7 @@ import {runInNewContext} from 'node:vm';
 // Run real index/filter/select/open functions. The DOM counters expose redundant
 // 200-row rebuilds and case-file renders without duplicating their implementation.
 {
- const source=readFileSync(new URL('../assets/horror-globe-ui-v17-17.js',import.meta.url),'utf8');
+ const source=readFileSync(new URL('../assets/horror-globe-ui-v18-1.js',import.meta.url),'utf8');
  const index=source.slice(source.indexOf('function indexRecords()'),source.indexOf('function detailSection('));
  const select=source.slice(source.indexOf('function select(id)'),source.indexOf('function step('));
  const open=source.slice(source.indexOf('export async function openHorrorLocations'),source.indexOf("window.addEventListener('horror-globe-open'")).replace('export ','');

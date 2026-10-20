@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Local gallery performance sample</title>
+<style>
+:root{color-scheme:dark;font-family:system-ui,sans-serif;background:#110e0c;color:#eee2ce}*{box-sizing:border-box}body{margin:0}header{padding:14px 18px;border-bottom:1px solid #5c4730;background:#21170f}h1{margin:0 0 8px;font-size:18px}p{margin:7px 0;font-size:12px;line-height:1.5}form{display:flex;gap:10px;align-items:center;flex-wrap:wrap}label{font-size:12px}button,select{font:inherit;min-height:36px;padding:5px 10px;border:1px solid #987448;border-radius:4px;background:#302116;color:inherit}button{cursor:pointer}button:disabled{cursor:default;opacity:.5}#status{color:#f3cb87}#summary{font-weight:600}details{margin-top:8px}summary{cursor:pointer;font-size:12px}pre{max-height:200px;overflow:auto;font-size:11px;white-space:pre-wrap;overflow-wrap:anywhere}iframe{display:block;border:0;width:100%;height:calc(100dvh - 260px);min-height:420px;background:#090708}
+</style>
+</head>
+<body>
+<header>
+<h1>Local gallery performance sample</h1>
+<form method="get">
+<label>Version <select name="version" id="version"><option value="v18">v18 baseline</option><option value="v18.1">v18.1 current</option></select></label>
+<label>View <select name="view" id="view"><option value="bar">Bar</option><option value="cigars">Cigar lounge</option></select></label>
+<button type="submit">Load view</button><button id="again" type="button" disabled>Measure again</button>
+</form>
+<p>Enter the existing PIN in the gallery below. After the live scene and furniture are ready, this page settles for 7.5 seconds so adaptive rendering can respond, then samples the child window's animation frames for 5 seconds.</p>
+<p>This is an environment-specific browser sample, not a performance guarantee. Keep this tab visible and use the same window size and browser settings for comparisons.</p>
+<p id="status" role="status">Waiting for the gallery.</p>
+<output id="summary" aria-live="polite"></output>
+<details><summary>Retained sample data</summary><pre id="performance-result" data-state="waiting">No sample yet.</pre></details>
+</header>
+<iframe id="gallery" title="Gallery under performance review" allow="autoplay; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<script>
+(()=>{
+'use strict';
+const params=new URLSearchParams(location.search);
+const version=['v18','v18.1'].includes(params.get('version'))?params.get('version'):'v18.1';
+const view=['bar','cigars'].includes(params.get('view'))?params.get('view'):'bar';
+document.querySelector('#version').value=version;document.querySelector('#view').value=view;
+const frame=document.querySelector('#gallery'),status=document.querySelector('#status'),summary=document.querySelector('#summary'),output=document.querySelector('#performance-result'),again=document.querySelector('#again');
+const target=new URL(`../../ISWAS_${version}/?room-review=1`,location.href);
+let currentDocument,currentRoot,currentTour,settleAfter=null,sample=null,finished=false,poll;
+const round=value=>Math.round(value*100)/100;
+function retain(result){window.__performanceReviewResult=result;output.dataset.state=result.state;output.textContent=JSON.stringify(result,null,2);}
+function visible(w,d){return !document.hidden&&!d.hidden;}
+function valid(w,d,root){return d===frame.contentDocument&&root===d.documentElement&&root.dataset.roomReview===view&&root.classList.contains('iswas-scene-ready')&&root.dataset.furnitureGeometryValid==='true'&&!d.querySelector('.load-screen')&&visible(w,d);}
+function release(){if(!sample)return;try{sample.window.cancelAnimationFrame(sample.raf);sample.observer?.disconnect();}catch{}sample=null;}
+function interrupt(reason){release();settleAfter=null;status.textContent=reason+' Waiting to settle and restart.';}
+function quantile(sorted,p){if(!sorted.length)return null;if(p===.5){const middle=Math.floor(sorted.length/2);return sorted.length%2?sorted[middle]:(sorted[middle-1]+sorted[middle])/2;}return sorted[Math.max(0,Math.ceil(sorted.length*p)-1)];}
+function rendererMetrics(w,d){const metrics=w.__galleryPerformance,canvas=d.querySelector('.lodge-canvas canvas');return metrics?{...metrics,drawingBuffer:canvas?{width:canvas.width,height:canvas.height}:null}:null;}
+function begin(w,d,root){
+ const state=sample={window:w,document:d,root,raf:0,observer:null,longTaskAvailable:false,longTasks:[],intervals:[],startedAt:null,lastAt:null,rendererAtStart:null};
+ status.textContent=`Sampling ${version} / ${view} for 5 seconds…`;output.dataset.state='sampling';
+ function acceptTasks(entries){for(const entry of entries)if(state.startedAt!==null&&entry.startTime>=state.startedAt)state.longTasks.push({startTime:entry.startTime,duration:entry.duration});}
+ function observe(){
+  try{if(typeof w.PerformanceObserver!=='function')return;const supported=w.PerformanceObserver.supportedEntryTypes;if(supported&&!supported.includes('longtask'))return;
+   state.observer=new w.PerformanceObserver(list=>acceptTasks(list.getEntries()));state.observer.observe({type:'longtask',buffered:false});state.longTaskAvailable=true;
+  }catch{state.observer?.disconnect();state.observer=null;}
+ }
+ function tick(timestamp){
+  if(sample!==state)return;
+  if(!valid(w,d,root)){interrupt('The scene changed or the tab became hidden.');return;}
+  if(state.startedAt===null){state.startedAt=timestamp;state.lastAt=timestamp;state.rendererAtStart=rendererMetrics(w,d);observe();}
+  else{state.intervals.push(timestamp-state.lastAt);state.lastAt=timestamp;}
+  const elapsed=timestamp-state.startedAt;
+  if(elapsed<5000){state.raf=w.requestAnimationFrame(tick);return;}
+  if(state.observer){acceptTasks(state.observer.takeRecords());state.observer.disconnect();}
+  const sorted=[...state.intervals].sort((a,b)=>a-b),over=state.intervals.filter(ms=>ms>33).length;
+  const longTasks=state.longTasks.filter(task=>task.startTime<=timestamp),durations=longTasks.map(task=>task.duration);
+  const result={
+   state:'complete',kind:'ENVIRONMENT-SPECIFIC BROWSER SAMPLE; NOT A GUARANTEE',version,view,url:target.href,
+   measuredAt:new Date().toISOString(),durationMs:round(elapsed),frameIntervals:sorted.length,
+   medianFrameIntervalMs:round(quantile(sorted,.5)),p95FrameIntervalMs:round(quantile(sorted,.95)),
+   intervalsOver33Ms:over,fractionOver33Ms:Math.round(1e6*over/Math.max(1,sorted.length))/1e6,percentOver33Ms:round(100*over/Math.max(1,sorted.length)),
+   longTasks:state.longTaskAvailable?{available:true,count:durations.length,totalDurationMs:round(durations.reduce((a,b)=>a+b,0)),maxDurationMs:round(Math.max(0,...durations))}:{available:false},
+   viewport:{width:w.innerWidth,height:w.innerHeight,devicePixelRatio:w.devicePixelRatio},
+   renderer:{start:state.rendererAtStart,end:rendererMetrics(w,d)},
+   furniture:{geometryValid:root.dataset.furnitureGeometryValid,draws:root.dataset.furnitureDraws,triangles:root.dataset.furnitureTriangles},
+   userAgent:w.navigator.userAgent,
+   method:'Child requestAnimationFrame intervals for at least 5000ms, after live-scene/furniture readiness and 7500ms settle for adaptive DPR; tour paused and dossier UI hidden. Actual renderer DPR/drawing-buffer metrics are captured at sample start/end. Video is not started by the helper. Long tasks are child PerformanceObserver entries when supported.',
+  };
+  retain(result);summary.textContent=`${version} / ${view}: MEDIAN ${result.medianFrameIntervalMs}ms · P95 ${result.p95FrameIntervalMs}ms · OVER 33ms ${result.percentOver33Ms}% · ${result.frameIntervals} INTERVALS`;
+  status.textContent='Sample complete. Data stays here until you measure again or load another view.';finished=true;sample=null;again.disabled=false;
+ }
+ state.raf=w.requestAnimationFrame(tick);
+}
+function inspect(){
+ try{
+  const w=frame.contentWindow,d=frame.contentDocument,root=d?.documentElement;
+  if(!root||w.location.origin!==location.origin||w.location.pathname!==target.pathname)return;
+  // PIN success replaces the document via document.write. Re-apply the review
+  // marker to the current root, never an element captured by an old load event.
+  if(d!==currentDocument||root!==currentRoot){
+   if(sample)interrupt('The gallery document was replaced.');
+   currentDocument=d;currentRoot=root;currentTour=null;settleAfter=null;
+  }
+  root.dataset.roomReview=view;
+  if(w.__iswasTour&&w.__iswasTour!==currentTour){w.__iswasTour.pause?.('performance-review');currentTour=w.__iswasTour;}
+  if(!w.__v9Paused){if(w.__iswasTour?.setPaused)w.__iswasTour.setPaused(true,'performance-review');else w.__v9Paused=true;}
+  const sceneReady=root.classList.contains('iswas-scene-ready')&&!d.querySelector('.load-screen');
+  if(sceneReady){
+   root.classList.add('is-gallery');
+   if(!d.getElementById('performance-review-style')){const style=d.createElement('style');style.id='performance-review-style';style.textContent='.sheet,.mast,footer,#gallery-progress,.gallery-controls,.gallery-hint,.gallery-pull,.tour-toggle,#morgan-guide,.morgan-wormhole-path,.morgan-speech-bubble{display:none!important}';d.head.append(style);}
+  }
+  if(finished||sample)return;
+  if(!valid(w,d,root)){settleAfter=null;status.textContent=d.querySelector('#pin-form')?'Enter the existing PIN below to begin.':!sceneReady?'Waiting for the live scene and loader reveal.':root.dataset.furnitureGeometryValid!=='true'?'Waiting for mounted, valid furniture geometry.':'Waiting for this tab to be visible.';return;}
+  if(settleAfter===null){settleAfter=w.performance.now()+7500;status.textContent='Scene and furniture ready. Settling for 7.5 seconds for adaptive rendering…';}
+  if(w.performance.now()>=settleAfter)begin(w,d,root);
+ }catch(error){status.textContent='Waiting for a same-origin local gallery. '+error.message;}
+}
+again.addEventListener('click',()=>{release();finished=false;settleAfter=null;again.disabled=true;summary.textContent='';retain({state:'waiting',version,view});inspect();});
+// A single poll owns setup and sampling; duplicate iframe load events cannot
+// create extra observers, RAF chains or measurements.
+frame.addEventListener('load',inspect);poll=setInterval(inspect,100);
+window.addEventListener('pagehide',()=>{clearInterval(poll);release();},{once:true});
+if(!['127.0.0.1','localhost'].includes(location.hostname)){status.textContent='Serve this authoring page from localhost or 127.0.0.1.';clearInterval(poll);return;}
+frame.src=target.href;
+})();
+</script>
+</body>
+</html>

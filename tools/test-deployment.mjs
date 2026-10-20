@@ -13,7 +13,7 @@ const utf8=new TextDecoder('utf-8',{fatal:true});
 let cases=0,assets=0,modules=0;
 for(const route of routes){
  const file=path.join(root,route,'index.html');
- const html=JSON.parse(fs.readFileSync(path.join(root,'assets/gated-pages-v17-18.json'),'utf8'))[(route?route+'/':'')+'index.html'];
+ const html=JSON.parse(fs.readFileSync(path.join(root,'assets/gated-pages-v18-1.json'),'utf8'))[(route?route+'/':'')+'index.html'];
  const bootstrap=html.match(/<head><script>([\s\S]*?)<\/script>/)?.[1];
  assert.ok(bootstrap,`${route||'Overview'} retains a deployment bootstrap`);
  for(const base of bases){

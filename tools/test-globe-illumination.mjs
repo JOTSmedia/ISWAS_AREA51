@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
 
 const root=new URL('../',import.meta.url),read=path=>readFileSync(new URL(path,root),'utf8');
-const source=read('assets/black-lodge-scene-v17-17.js');
+const source=read('assets/black-lodge-scene-v18-1.js');
 const {illuminateGlobeOcean,addSatelliteAtmosphere,globeAtmosphereHaloShader}=await import('data:text/javascript;base64,'+Buffer.from(source).toString('base64'));
 const original='#include <common>\n#include <map_fragment>\n#include <emissivemap_fragment>';
 const shader={fragmentShader:original};illuminateGlobeOcean(shader);
@@ -12,7 +12,7 @@ assert.equal((fragment.match(/texture2D\(/g)||[]).length,2,'Only the material’
 
 // Verify the injected code against this release’s real Three shader chunks,
 // including both optional video decoders and the current UV variable names.
-const vendor=read('assets/lodge-canvas-v17-17.js');
+const vendor=read('assets/lodge-canvas-v18-1.js');
 const chunk=name=>{const match=vendor.match(new RegExp('(?<![a-z])'+name+':`([^`]+)`'));assert.ok(match,name+' exists in bundled Three');return match[1]};
 const compact=text=>text.replace(/\s+/g,'');
 const diffuse=fragment.slice(fragment.indexOf('#ifdef USE_MAP'),fragment.indexOf('#ifdef USE_EMISSIVEMAP'));

@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict';
-import {arrangeBooks,PERIMETER_SHELVES} from '../assets/decorative-books-v17-17.js';
+import {arrangeBooks,PERIMETER_SHELVES} from '../assets/decorative-books-v18-1.js';
 let counts={desktop:0,mobile:0};
 for(const mobile of [false,true])for(const wall of PERIMETER_SHELVES){
  const books=arrangeBooks({...wall,mobile});

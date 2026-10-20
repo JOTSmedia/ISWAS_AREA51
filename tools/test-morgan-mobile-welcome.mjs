@@ -1,7 +1,7 @@
 import {readFileSync} from 'node:fs';
 import {runInNewContext} from 'node:vm';
 import assert from 'node:assert/strict';
-const source=readFileSync(new URL('../assets/v9-guide-v17-17.js',import.meta.url),'utf8');
+const source=readFileSync(new URL('../assets/v9-guide-v18-1.js',import.meta.url),'utf8');
 const state=source.slice(source.indexOf('function updateMorganMobileWelcome('),source.indexOf('function installMorganFlight('));
 const location=source.slice(source.indexOf('const morganLocation=()'),source.indexOf('const morganLocationRect='));
 let overview=true,gallery=false,library=true;
@@ -31,7 +31,7 @@ assert.match(source,/img\.morgan-welcome-avatar/,'Welcome avatar joins the exist
 // Execute the shipped inline route setup: this runs before body content can
 // paint, even if the guide module or GPU takes a long time to arrive.
 for(const route of ['', 'need/', 'stars/', 'locations/', 'form/', 'comparison/', 'contact/']){
- const html=JSON.parse(readFileSync(new URL('../assets/gated-pages-v17-18.json',import.meta.url),'utf8'))[route+'index.html'];
+ const html=JSON.parse(readFileSync(new URL('../assets/gated-pages-v18-1.json',import.meta.url),'utf8'))[route+'index.html'];
  const begin=html.indexOf('window.__morganInitialAtLibrary=!section;');
  const end=html.indexOf('window.__atLibrary=',begin);
  assert.ok(begin>=0&&end>begin,'Each entrypoint includes the early route setup');

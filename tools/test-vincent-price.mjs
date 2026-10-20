@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import {existsSync,readFileSync} from 'node:fs';
 import {createHash} from 'node:crypto';
 import {runInNewContext} from 'node:vm';
-const source=readFileSync(new URL('../assets/lodge-canvas-v17-17.js',import.meta.url),'utf8');
+const source=readFileSync(new URL('../assets/lodge-canvas-v18-1.js',import.meta.url),'utf8');
 const range=(start,end)=>source.slice(source.indexOf(start),source.indexOf(end,source.indexOf(start)));
 const base='/ISWAS_v17.17/';
 const plates=new Function('n','return '+range('Sy=[',',Cy=').slice(3))(path=>base+path.replace(/^\//,''));

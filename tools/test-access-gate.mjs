@@ -3,8 +3,8 @@ import fs from 'node:fs';
 import vm from 'node:vm';
 import { webcrypto } from 'node:crypto';
 const root = new URL('../', import.meta.url);
-const source = fs.readFileSync(new URL('assets/access-gate-v17-18.js', root), 'utf8');
-const pages = JSON.parse(fs.readFileSync(new URL('assets/gated-pages-v17-18.json', root), 'utf8'));
+const source = fs.readFileSync(new URL('assets/access-gate-v18-1.js', root), 'utf8');
+const pages = JSON.parse(fs.readFileSync(new URL('assets/gated-pages-v18-1.json', root), 'utf8'));
 const routes = Object.keys(pages);
 let cases = 0;
 
@@ -28,7 +28,7 @@ function create({entry='index.html',prefix='/',age=null,failFetch=false,noStorag
     URL, Date, TextEncoder, Uint8Array, crypto:webcrypto,
     location:{protocol,hostname,host:hostname,pathname:prefix+(entry==='index.html'?'':entry.replace('index.html','')),search:'?test=1',hash:'#entry',replace:url=>redirects.push(url)},
     sessionStorage:{getItem:k=>{if(noStorage)throw Error();return storage.get(k)},setItem:(k,v)=>{if(noStorage)throw Error();storage.set(k,v)},removeItem:k=>storage.delete(k)},
-    document:{currentScript:{src:'https://example.test'+prefix+'assets/access-gate-v17-18.js',dataset:{entry}},getElementById:id=>elements[id],querySelectorAll:()=>Array.from({length:4},()=>new Element()),open(){},write:html=>written.push(html),close(){}},
+    document:{currentScript:{src:'https://example.test'+prefix+'assets/access-gate-v18-1.js',dataset:{entry}},getElementById:id=>elements[id],querySelectorAll:()=>Array.from({length:4},()=>new Element()),open(){},write:html=>written.push(html),close(){}},
     fetch:async url=>{fetched.push(String(url));return {ok:!failFetch,json:async()=>pages}},
   };
   vm.runInNewContext(source,context);
@@ -40,7 +40,7 @@ for (const entry of routes) {
   const html=fs.readFileSync(new URL(entry,root),'utf8');
   assert.ok(html.includes('COMING SOON')&&html.includes('id="pin-dialog"'));
   assert.ok(!html.includes('modulepreload')&&!html.includes('as="image"'));
-  assert.deepEqual([...html.matchAll(/<script\b[^>]*src="([^"]+)"/g)].map(m=>m[1]),[(entry==='index.html'?'':'../')+'assets/access-gate-v17-18.js']);
+  assert.deepEqual([...html.matchAll(/<script\b[^>]*src="([^"]+)"/g)].map(m=>m[1]),[(entry==='index.html'?'':'../')+'assets/access-gate-v18-1.js']);
   assert.ok(html.includes('type="password" inputmode="numeric" pattern="[0-9]{4}" minlength="4" maxlength="4"'));
   assert.ok(!html.includes('1023'));
   assert.ok(html.includes('body.access-gated::before{content:none!important;background:none!important}'),'Early CSS prevents the existing background-image downloads before entry');
@@ -65,9 +65,9 @@ for (const entry of routes) {
     await app.send('1023');
     assert.ok(app.storage.has(app.key));
     if(entry==='index.html') {
-      assert.deepEqual(app.fetched,['https://example.test'+prefix+'assets/gated-pages-v17-18.json']);
+      assert.deepEqual(app.fetched,['https://example.test'+prefix+'assets/gated-pages-v18-1.json']);
       assert.equal(app.written[0],pages['index.html'],'Successful entry restores the exact existing loader');
-    } else assert.deepEqual(app.redirects,['https://example.test'+prefix],'First successful section entry starts at the root loader');
+    } else assert.deepEqual(app.redirects,['https://example.test'+prefix+'?test=1#entry'],'First successful section entry starts at the root loader');
     const returning=create({entry,prefix,age:1000});await returning.flush();
     assert.equal(returning.written[0],pages[entry],'Unlocked section visits restore their original page');
     cases++;

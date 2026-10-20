@@ -2,7 +2,7 @@ import {readFileSync} from 'node:fs';
 import {runInNewContext} from 'node:vm';
 import assert from 'node:assert/strict';
 
-const source = readFileSync(new URL('../assets/popup-behavior-v17-17.js', import.meta.url), 'utf8');
+const source = readFileSync(new URL('../assets/popup-behavior-v18-1.js', import.meta.url), 'utf8');
 const handlers = {};
 let closed = 0;
 const dialog = {
@@ -37,7 +37,7 @@ assert.equal(send('pointerdown',900,350).prevented,true,'Other popups retain the
 assert.equal(closed,2);
 assert.equal(send('pointerdown',610,80,{closest:()=>({})}).prevented,true,'Zoom controls do not exempt unrelated popups from outside dismissal');
 assert.equal(closed,3);
-const main=readFileSync(new URL('../assets/index-v17-17.js',import.meta.url),'utf8');
+const main=readFileSync(new URL('../assets/index-v18-1.js',import.meta.url),'utf8');
 const navigation=main.slice(main.indexOf('function zv('),main.indexOf('function Bv('));
 const navigationEvents={}, navigations=[];
 let popupOpen=false;

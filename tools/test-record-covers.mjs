@@ -25,6 +25,6 @@ assert.match(rows[9].cover.album,/Film Music.*Takemitsu.*1/i);
 assert.match(rows[56].cover.artist,/Coil/i);
 assert.match(rows[50].composer,/Chattaway/);assert.match(rows[78].cover.artist,/Rob/i);
 assert.match(rows[92].cover.album,/Evil Dead/i);assert.match(rows[92].cover.artist,/LoDuca/i);
-const player=readFileSync(new URL('assets/record-player-v17-17.js',root),'utf8');
+const player=readFileSync(new URL('assets/record-player-v18-1.js',root),'utf8');
 assert.match(player,/<img class="record-sleeve"/);assert.match(player,/new URL\('\.\.\/'\+r\.cover\.src,import\.meta\.url\)/);
 console.log('PASS: 100 distinct locally bundled real cover images, traceable source editions, non-upscaled popup sizes, correct special-case scores, and clear archival-edition notes.');

@@ -1,0 +1,290 @@
+{
+  "createdAt": "2026-10-20T21:55:21.766113+00:00",
+  "total": 47,
+  "passed": 47,
+  "failed": 0,
+  "results": [
+    {
+      "test": "tools/test-access-gate.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.07
+    },
+    {
+      "test": "tools/test-black-lodge-scene.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.06
+    },
+    {
+      "test": "tools/test-bubble-lifetime.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.049
+    },
+    {
+      "test": "tools/test-camera-clearance.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.055
+    },
+    {
+      "test": "tools/test-decorative-books.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.091
+    },
+    {
+      "test": "tools/test-deployment.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.07
+    },
+    {
+      "test": "tools/test-donnie-darko-popup.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.052
+    },
+    {
+      "test": "tools/test-gallery-lamps.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.052
+    },
+    {
+      "test": "tools/test-gallery-prefetch.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.052
+    },
+    {
+      "test": "tools/test-gallery-progress.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.109
+    },
+    {
+      "test": "tools/test-gallery-screen.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.053
+    },
+    {
+      "test": "tools/test-globe-illumination.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.054
+    },
+    {
+      "test": "tools/test-globe-pin-targets.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.052
+    },
+    {
+      "test": "tools/test-globe-v17.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.065
+    },
+    {
+      "test": "tools/test-globe-zoom-camera.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.086
+    },
+    {
+      "test": "tools/test-globe-zoom-controls.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.051
+    },
+    {
+      "test": "tools/test-gramophone-realism.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.06
+    },
+    {
+      "test": "tools/test-hospitality-layout.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.051
+    },
+    {
+      "test": "tools/test-https-share.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.068
+    },
+    {
+      "test": "tools/test-idle-books.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.05
+    },
+    {
+      "test": "tools/test-lloyd-host.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.052
+    },
+    {
+      "test": "tools/test-loader-progress.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.049
+    },
+    {
+      "test": "tools/test-local-tv.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.05
+    },
+    {
+      "test": "tools/test-locations-camera.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.07
+    },
+    {
+      "test": "tools/test-locations-interaction.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.051
+    },
+    {
+      "test": "tools/test-locations-tour.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.08
+    },
+    {
+      "test": "tools/test-locations-ui-performance.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.053
+    },
+    {
+      "test": "tools/test-logo-observer.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.049
+    },
+    {
+      "test": "tools/test-mirror-poster.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.061
+    },
+    {
+      "test": "tools/test-morgan-bubbles.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.056
+    },
+    {
+      "test": "tools/test-morgan-mobile-welcome.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.054
+    },
+    {
+      "test": "tools/test-morgan-model.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.053
+    },
+    {
+      "test": "tools/test-quiet-guide.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.058
+    },
+    {
+      "test": "tools/test-record-camera.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.058
+    },
+    {
+      "test": "tools/test-record-catalogue.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.059
+    },
+    {
+      "test": "tools/test-record-covers.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.061
+    },
+    {
+      "test": "tools/test-renderer-factory.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.053
+    },
+    {
+      "test": "tools/test-renderer-readiness.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.053
+    },
+    {
+      "test": "tools/test-scene-hot-loops.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.054
+    },
+    {
+      "test": "tools/test-section-scroll.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.056
+    },
+    {
+      "test": "tools/test-shared-wood-map.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.052
+    },
+    {
+      "test": "tools/test-stars-arrival.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.054
+    },
+    {
+      "test": "tools/test-startup.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.054
+    },
+    {
+      "test": "tools/test-texture-tiers.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.056
+    },
+    {
+      "test": "tools/test-tour-pause.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.056
+    },
+    {
+      "test": "tools/test-v18-1-room.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.055
+    },
+    {
+      "test": "tools/test-vincent-price.mjs",
+      "passed": true,
+      "exitCode": 0,
+      "seconds": 0.061
+    }
+  ]
+}

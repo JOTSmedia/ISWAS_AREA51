@@ -1,0 +1,12 @@
+ISWAS_v7.4.1 — 2026-10-06
+
+Fixes live load failure at https://jotsmedia.github.io/ISWAS_v7.4/
+
+1) Syntax error in assets/index-7le_n55D.js: extra ")" after the gallery-pull button
+   (`...gallery`})),` → `...gallery`}),`). That stopped the whole module, so the
+   loader stayed at 0% and never added iswas-chrome.
+2) Hero still used absolute `/plates/set-chair.jpg` (404 on GitHub Pages subpath).
+   Changed to relative `plates/set-chair.jpg` in all HTML pages.
+
+Carries forward from v7.4: tour speed 33%, no speed pill, non-clickable mirror,
+nav/footer hidden until loader hits 100%.

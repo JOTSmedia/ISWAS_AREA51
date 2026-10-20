@@ -1,0 +1,58 @@
+{
+  "asset": "NASA Blue Marble clouds: global cloud coverage texture",
+  "source_title": "Blue Marble: Clouds",
+  "source_record": "https://visibleearth.nasa.gov/images/57747/blue-marble-clouds",
+  "source_record_migration_note": "The former Visible Earth detail URL now redirects to the Earth Observatory index. Its cloud record remains indexed; NASA\u2019s migrated Blue Marble article links this cloud record and describes the dataset.",
+  "current_primary_documentation": "https://science.nasa.gov/earth/earth-observatory/the-blue-marble-true-color-global-imagery-at-1km-resolution/",
+  "source_download": "https://eoimages.gsfc.nasa.gov/images/imagerecords/57000/57747/cloud_combined_2048.jpg",
+  "retrieved": "2026-10-20",
+  "credit": "NASA Goddard Space Flight Center; cloud image by Reto St\u00f6ckli, with enhancements by Robert Simmon and MODIS science support.",
+  "source_publication_date": "2002-02-11",
+  "dataset_note": "A historical composite of two days of visible-light cloud observations and a third day of thermal infrared observations over the poles, as described by NASA. Not live weather.",
+  "projection": "Global 2:1 equirectangular map, preserved without crop, rotation, translation or repainting.",
+  "channel_use": "Grayscale cloud coverage in RGB: black represents clear/background and white represents dense clouds. Read as non-color data/mask in the shader; file has no alpha channel.",
+  "transformations": "Decoded source RGB. 2048 export retains native dimensions; 1024 export uses Lanczos downsampling. WebP compression only. No semantic changes or generated cloud patterns.",
+  "source": {
+    "file": "tools/earth-source/cloud_combined_2048.jpg",
+    "dimensions": [
+      2048,
+      1024
+    ],
+    "bytes": 829367,
+    "sha256": "daddaad84d7a33bbbc86cdda3f591099f57cee8607b7bcf3b67eb7e4f7a1c793"
+  },
+  "exports": [
+    {
+      "file": "textures/globe-clouds-2048.webp",
+      "dimensions": [
+        2048,
+        1024
+      ],
+      "format": "WebP RGB",
+      "bytes": 373172,
+      "sha256": "ce5e330549ed3c7e439aa2a3e25c884d944300d433f561fd93498bc1b5874ad6",
+      "quality": 76,
+      "compression_mae_per_channel": [
+        3.163724899291992,
+        3.163666248321533,
+        3.163724899291992
+      ]
+    },
+    {
+      "file": "textures/globe-clouds-1024.webp",
+      "dimensions": [
+        1024,
+        512
+      ],
+      "format": "WebP RGB",
+      "bytes": 111458,
+      "sha256": "827a21d2e2862d51a4b9ef1a18c9f226562d15072fb2574890af9dc27d682646",
+      "quality": 76,
+      "compression_mae_per_channel": [
+        3.3718223571777344,
+        3.3716793060302734,
+        3.3718223571777344
+      ]
+    }
+  ]
+}

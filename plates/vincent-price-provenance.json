@@ -1,0 +1,31 @@
+{
+  "source": "User-supplied Vincent Price portrait",
+  "source_file": "codex-clipboard-f91c1030-d4ba-4a5c-b91f-21544323a566.png",
+  "source_size": [
+    362,
+    450
+  ],
+  "export_size": [
+    362,
+    450
+  ],
+  "format": "WebP quality88",
+  "edits": "Format conversion only; no resizing, cropping or generated detail",
+  "bio_sources": [
+    "https://www.vincentprice.com/about",
+    "https://www.vincentprice.com/"
+  ],
+  "audio": {
+    "source": "User-supplied MP3",
+    "source_file": "Vincent Price Laugh.mp3",
+    "delivery": "audio/vincent-price-laugh.mp3",
+    "bytes": 520496,
+    "sha256": "d157e1c4dfcb83a26d8142d792d9a84b492f25d8a6812219bec6be9059c0a4c5",
+    "duration_seconds": 21.65551,
+    "sample_rate_hz": 44100,
+    "channels": 2,
+    "bit_rate": 191999,
+    "edits": "Copied byte-for-byte; no extraction, editing, or transcoding",
+    "playback": "Native audio controls, preload none, no autoplay; playback stops when the portrait popup closes"
+  }
+}

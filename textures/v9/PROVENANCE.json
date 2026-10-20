@@ -1,0 +1,17 @@
+{
+  "generator": "Built-in image generation",
+  "native_resolution": [
+    1254,
+    1254
+  ],
+  "desktop_export": [
+    4096,
+    4096
+  ],
+  "mobile_export": [
+    1024,
+    1024
+  ],
+  "note": "4096 export is an upscale, not native 4K source detail. Height map derived from luminance.",
+  "prompt": "Seamless photorealistic antique walnut wood grain, orthographic PBR base color, no baked lighting, no objects or text."
+}

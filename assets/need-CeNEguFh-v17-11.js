@@ -1,1 +1,0 @@
-import{g as e,u as t}from"./index-v17-11.js";import{t as n}from"./dossier-DjjHUuDC-v17-11.js";var r=e();function i(){return(0,r.jsx)(n,{index:`02`,kicker:`Need`,title:`Need`,lede:t.lede,children:t.paragraphs.map(e=>(0,r.jsx)(`p`,{className:`max-w-prose text-base leading-relaxed text-pretty text-fg`,children:e},e))})}export{i as component};

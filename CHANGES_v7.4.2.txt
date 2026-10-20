@@ -1,7 +1,0 @@
-ISWAS_v7.4.2 — 2026-10-06
-
-From v7.4.1. Single change: center the nav brand/logo (.mast .brand) on mobile
-widths only (max-width: 767px). Desktop layout unchanged.
-
-Carries forward all v7.4.1 fixes: loader syntax fix, relative plates paths,
-tour speed 33%, no speed pill, non-clickable mirror, nav/footer after loader 100%.
